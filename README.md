@@ -27,6 +27,7 @@ A collection of badges designed for personal repositories. Always remember that:
 ### Game
 
 - ![ingress](https://rawgit.com/aleen42/badges/master/src/ingress.svg) A badge used for the game Ingress published by Niantic Inc.
+- ![osu](https://rawgit.com/aleen42/badges/master/src/osu.svg) A badge used for the game OSU! published by ppy
 
 ### Designer
 
