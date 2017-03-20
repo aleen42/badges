@@ -1,7 +1,7 @@
 ## badges
 
 <p align="center">
-    <img src="./badges.png" width="50%" />
+    <img src="./badges.png" width="20%" />
 </p>
 
 <p align="center">
