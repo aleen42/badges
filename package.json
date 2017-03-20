@@ -1,0 +1,33 @@
+{
+  "name": "badges-cli",
+  "version": "1.0.6",
+  "description": "A command line tool for generating badges automatically.",
+  "main": "./tool/lib/index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "bin": {
+    "badge": "./tool/lib/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleen42/badges.git"
+  },
+  "keywords": [
+    "badges",
+    "command-line"
+  ],
+  "author": "aleen42 <aleen42@vip.qq.com> (http://aleen42.github.io/pc.html)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleen42/badges/issues"
+  },
+  "homepage": "https://github.com/aleen42/badges#readme",
+  "dependencies": {
+    "node-getopt": "^0.2.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
