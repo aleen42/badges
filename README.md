@@ -49,8 +49,8 @@ badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 ### Game
 
 - [![steam](https://rawgit.com/aleen42/badges/master/src/steam.svg)](https://rawgit.com/aleen42/badges/master/src/steam.svg) A badge used for any game supported on the platform Steam
-- ![ingress](https://rawgit.com/aleen42/badges/master/src/ingress.svg) A badge used for the game Ingress published by Niantic Inc.
-- ![osu](https://rawgit.com/aleen42/badges/master/src/osu.svg) A badge used for the game osu! published by ppy
+- [![ingress](https://rawgit.com/aleen42/badges/master/src/ingress.svg)](https://rawgit.com/aleen42/badges/master/src/ingress.svg) A badge used for the game Ingress published by Niantic Inc.
+- [![osu](https://rawgit.com/aleen42/badges/master/src/osu.svg)](https://rawgit.com/aleen42/badges/master/src/osu.svg) A badge used for the game osu! published by ppy
 
 ### Designer
 
