@@ -37,6 +37,7 @@ badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 - [![xitu](https://rawgit.com/aleen42/badges/master/src/xitu.svg)](https://rawgit.com/aleen42/badges/master/src/xitu.svg) A badge used for any articles of Xitu Inc., including translations
 - [![codrops](https://rawgit.com/aleen42/badges/master/src/codrops.svg)](https://rawgit.com/aleen42/badges/master/src/codrops.svg) A badge used for any project of Codrops Inc.
 - [![soundtooth](https://rawgit.com/aleen42/badges/master/src/soundtooth.svg)](https://rawgit.com/aleen42/badges/master/src/codrops.svg) A badge used for any project of Soundtooth Inc.
+- [![alipay](https://rawgit.com/aleen42/badges/master/src/alipay.svg)](https://rawgit.com/aleen42/badges/master/src/alipay.svg) A badge used for the Alipay Inc.
 - ![nasa](https://rawgit.com/aleen42/badges/master/src/nasa.svg) A badge used for projects of NASA
 - [![amazon](https://rawgit.com/aleen42/badges/master/src/amazon.svg)](https://rawgit.com/aleen42/badges/master/src/amazon.svg) A badge used for the Amazon Inc.
 - [![paypal](https://rawgit.com/aleen42/badges/master/src/paypal.svg)](https://rawgit.com/aleen42/badges/master/src/paypal.svg) A badge used for the Paypal Inc.
