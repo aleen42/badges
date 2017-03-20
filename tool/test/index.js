@@ -30,6 +30,6 @@ const should = require('chai').should();
 
 describe('tests', function () {
 	it('test case', function () {
-		badge.test().should.contain('UseAge: badge -t <text> -o <output-file> [-c <color-value> -d <image-data>]');
+		badge.test().should.contain('UseAge: badge -t <text> -o <output-file> [-c <color-value> -p <image-path>]');
 	});
 });
