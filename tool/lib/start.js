@@ -39,6 +39,7 @@ const opt = require('node-getopt')
 		['d', 'data=[Image Data Value with base64 encoding]', '\tThe image data value of your badge'],
 		['p', 'path=[SVG Path]', '\tLocal SVG file'],
 		['o', 'output=[File Name]', '\tThe image data value of your badge'],
+		['y', '', '\tOverride'],
 		['v', 'version', '\tShow current version'],
 		['h' , 'help', '\tTutorial for this command']
 	])
@@ -70,7 +71,7 @@ if (opt.options.version) {
 \n                More than a coder, More than a designer              \
 \n     ================================================================\
 \n\
-\n               Badges Generator v1.0.6, Copyright © aleen42 2012-2017\n\n');
+\n               Badges Generator v1.0.7, Copyright © aleen42 2012-2017\n\n');
 	return;
 }
 

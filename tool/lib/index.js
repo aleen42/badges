@@ -54,6 +54,7 @@ module.exports = {
 		options.color = options.color === void 0 ? '000000' : options.color;
 		options.path = options.path === void 0 ? '' : options.path;
 		options.data = options.data === void 0 ? '' : options.data;
+		options.y = options.y === void 0 ? false : !!options.y;
 
 		/** calcuate the width of a given text */
 		const textBlockWidth = this.calcWidthOfText(options.text);
@@ -69,7 +70,13 @@ module.exports = {
 		var imageData = '';
 
 		if (options.path !== '') {
-			imageData = 'data:image/svg+xml;base64,' + fs.readFileSync(options.path).toString('base64');
+			if (/[\s\S]*?\.svg$/i.test(options.path)) {
+				imageData = 'data:image/svg+xml;base64,' + fs.readFileSync(options.path).toString('base64');
+			}
+
+			if (/[\s\S]*?\.(?:gif|png|jpg|jpeg)$/i.test(options.path)) {
+				imageData = 'data:image;base64,' + fs.readFileSync(options.path).toString('base64');
+			}			
 		} else {
 			imageData = options.data;
 		}
@@ -99,16 +106,16 @@ module.exports = {
 		/** start to create a local file */
 		fs.open(options.output, 'wx', function (err, fd) {
 			if (err) {
-				if (err.code === "EEXIST") {
+				if (!options.y && err.code === "EEXIST") {
 					console.log('[Error: file already exists]');
 					return;
 				}
 			}
 
 			/** write file when there is no existed file */
-			fs.write(fd, content.split('\t').join(''), function (err) {
+			fs.writeFile(options.output, content.split('\t').join(''), function (err) {
 				if (err) {
-					console.log('[Error: failed to create such files]');
+					console.log('[Error: failed to create such file]');
 					return;
 				}
 
@@ -118,22 +125,21 @@ module.exports = {
 	},
 
 	calcWidthOfText: function (text) {
-		/** validate character of text during [a-zA-Z0-9] */
-		var regex = /^[0-9a-z]+$/i;
-		
-		if (!regex.test(text)) {
-			return false;
-		}
-
 		/** start to calculate for each character of the text */
 		var width = 0;
 		var len = text.length;
 
+		const padding = 5;
+
 		for (var i = 0; i < len; i++) {
-			width += map[i];
+			var chLen = map[text.charCodeAt(i)];
+
+			if (chLen) {
+				width += chLen;
+			}
 		}
 
-		return width;
+		return width + padding;
 	},
 
 	/**
