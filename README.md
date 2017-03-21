@@ -49,6 +49,7 @@ badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 - [![twitter](https://rawgit.com/aleen42/badges/master/src/twitter.svg)](https://rawgit.com/aleen42/badges/master/src/twitter.svg) A badge used for sharing communities on Twitter
 - [![pinterest](https://rawgit.com/aleen42/badges/master/src/pinterest.svg)](https://rawgit.com/aleen42/badges/master/src/pinterest.svg) A badge used for sharing communities on Pinterest
 - [![google+](https://rawgit.com/aleen42/badges/master/src/google_plus.svg)](https://rawgit.com/aleen42/badges/master/src/google_plus.svg) A badge used for sharing communities on Google+
+- [![sina weibo](https://rawgit.com/aleen42/badges/master/src/sina_weibo.svg)](https://rawgit.com/aleen42/badges/master/src/sina_weibo.svg) A badge used for sharing communities on Sina Weibo
 
 ### Inc
 
