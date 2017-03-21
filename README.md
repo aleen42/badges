@@ -38,6 +38,7 @@ badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 - [![atom](https://rawgit.com/aleen42/badges/master/src/atom.svg)](https://rawgit.com/aleen42/badges/master/src/atom.svg) A badge for the Atom editor
 - [![bower](https://rawgit.com/aleen42/badges/master/src/bower.svg)](https://rawgit.com/aleen42/badges/master/src/bower.svg) A badge used for bower packages
 - [![gulp](https://rawgit.com/aleen42/badges/master/src/gulp.svg)](https://rawgit.com/aleen42/badges/master/src/gulp.svg) A badge used for projects using gulp to build
+- [![grunt](https://rawgit.com/aleen42/badges/master/src/grunt.svg)](https://rawgit.com/aleen42/badges/master/src/grunt.svg) A badge used for projects using grunt to build
 - [![medium](https://rawgit.com/aleen42/badges/master/src/medium.svg)](https://rawgit.com/aleen42/badges/master/src/medium.svg) A badge used for articles published on the Medium
 
 ### Inc
