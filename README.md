@@ -51,6 +51,12 @@ badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 - [![google+](https://rawgit.com/aleen42/badges/master/src/google_plus.svg)](https://rawgit.com/aleen42/badges/master/src/google_plus.svg) A badge used for sharing communities on Google+
 - [![sina weibo](https://rawgit.com/aleen42/badges/master/src/sina_weibo.svg)](https://rawgit.com/aleen42/badges/master/src/sina_weibo.svg) A badge used for sharing communities on Sina Weibo
 
+### Communication
+
+- [![telegram](https://rawgit.com/aleen42/badges/master/src/telegram.svg)](https://rawgit.com/aleen42/badges/master/src/telegram.svg) A badge used for sharing communication ways on Telegram
+- [![whatsapp](https://rawgit.com/aleen42/badges/master/src/whatsapp.svg)](https://rawgit.com/aleen42/badges/master/src/whatsapp.svg) A badge used for sharing communication ways on WhatsApp
+- [![wechat](https://rawgit.com/aleen42/badges/master/src/wechat.svg)](https://rawgit.com/aleen42/badges/master/src/wechat.svg) A badge used for sharing communication ways on WeChat
+
 ### Inc
 
 - [![xitu](https://rawgit.com/aleen42/badges/master/src/xitu.svg)](https://rawgit.com/aleen42/badges/master/src/xitu.svg) A badge used for any articles of Xitu Inc., including translations
