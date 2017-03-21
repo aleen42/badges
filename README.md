@@ -29,6 +29,7 @@ badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 - [![hacker](https://rawgit.com/aleen42/badges/master/src/hacker.svg)](https://rawgit.com/aleen42/badges/master/src/hacker.svg) A badge used for hacking projects (**Business Using is not allowed**)
 - [![GitHub](https://rawgit.com/aleen42/badges/master/src/github.svg)](https://rawgit.com/aleen42/badges/master/src/github.svg) A badge used for GitHub repositories
 - [![npm](https://rawgit.com/aleen42/badges/master/src/npm.svg)](https://rawgit.com/aleen42/badges/master/src/npm.svg) A badge used for npm packages
+- [![vue](https://rawgit.com/aleen42/badges/master/src/vue.svg)](https://rawgit.com/aleen42/badges/master/src/vue.svg) A badge used for repositories which has used the framework, Vue
 - [![react](https://rawgit.com/aleen42/badges/master/src/react.svg)](https://rawgit.com/aleen42/badges/master/src/react.svg) A badge used for repositories which has used the framework, React
 - [![redux](https://rawgit.com/aleen42/badges/master/src/redux.svg)](https://rawgit.com/aleen42/badges/master/src/redux.svg) A badge used for projects using React Redux
 - [![router](https://rawgit.com/aleen42/badges/master/src/router.svg)](https://rawgit.com/aleen42/badges/master/src/router.svg) A badge used for projects using React Router
