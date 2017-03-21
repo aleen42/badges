@@ -36,6 +36,7 @@ badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 - [![eslint](https://rawgit.com/aleen42/badges/master/src/eslint.svg)](https://rawgit.com/aleen42/badges/master/src/eslint.svg) A badge used for projects using ESLint
 - [![gitbook](https://rawgit.com/aleen42/badges/master/src/gitbook.svg)](https://rawgit.com/aleen42/badges/master/src/gitbook.svg) A badge used for Gitbook projects
 - [![atom](https://rawgit.com/aleen42/badges/master/src/atom.svg)](https://rawgit.com/aleen42/badges/master/src/atom.svg) A badge for the Atom editor
+- [![sublime text](https://rawgit.com/aleen42/badges/master/src/sublime.svg)](https://rawgit.com/aleen42/badges/master/src/sublime.svg) A badge for the Sulime Text editor
 - [![visual studio](https://rawgit.com/aleen42/badges/master/src/visual_studio.svg)](https://rawgit.com/aleen42/badges/master/src/visual_studio.svg) A badge for the Visual Studio IDE
 - [![bower](https://rawgit.com/aleen42/badges/master/src/bower.svg)](https://rawgit.com/aleen42/badges/master/src/bower.svg) A badge used for bower packages
 - [![gulp](https://rawgit.com/aleen42/badges/master/src/gulp.svg)](https://rawgit.com/aleen42/badges/master/src/gulp.svg) A badge used for projects using gulp to build
