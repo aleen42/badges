@@ -54,6 +54,11 @@ badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 - [![sina weibo](https://rawgit.com/aleen42/badges/master/src/sina_weibo.svg)](https://rawgit.com/aleen42/badges/master/src/sina_weibo.svg) A badge used for sharing communities on Sina Weibo
 - [![medium](https://rawgit.com/aleen42/badges/master/src/medium.svg)](https://rawgit.com/aleen42/badges/master/src/medium.svg) A badge used for articles shared on Medium
 - [![reddit](https://rawgit.com/aleen42/badges/master/src/reddit.svg)](https://rawgit.com/aleen42/badges/master/src/reddit.svg) A badge used for articles shared on Reddit
+- [![stackoverflow](https://rawgit.com/aleen42/badges/master/src/stackoverflow.svg)](https://rawgit.com/aleen42/badges/master/src/stackoverflow.svg) A badge used for references on Stack Overflow
+- [![stackexchange](https://rawgit.com/aleen42/badges/master/src/stackexchange.svg)](https://rawgit.com/aleen42/badges/master/src/stackexchange.svg) A badge used for references on Stack Exchange
+- [![serverfault](https://rawgit.com/aleen42/badges/master/src/serverfault.svg)](https://rawgit.com/aleen42/badges/master/src/serverfault.svg) A badge used for references on Server Fault
+- [![superuser](https://rawgit.com/aleen42/badges/master/src/superuser.svg)](https://rawgit.com/aleen42/badges/master/src/superuser.svg) A badge used for references on Super User
+
 
 ### Communication
 
