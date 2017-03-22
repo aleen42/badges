@@ -68,6 +68,11 @@ badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 - [![whatsapp](https://rawgit.com/aleen42/badges/master/src/whatsapp.svg)](https://rawgit.com/aleen42/badges/master/src/whatsapp.svg) A badge used for sharing communication ways on WhatsApp
 - [![wechat](https://rawgit.com/aleen42/badges/master/src/wechat.svg)](https://rawgit.com/aleen42/badges/master/src/wechat.svg) A badge used for sharing communication ways on WeChat
 
+### Music
+
+- [![soundcloud](https://rawgit.com/aleen42/badges/master/src/soundcloud.svg)](https://rawgit.com/aleen42/badges/master/src/soundcloud.svg) A badge used for music shared on SoundCloud
+- [![spotify](https://rawgit.com/aleen42/badges/master/src/spotify.svg)](https://rawgit.com/aleen42/badges/master/src/spotify.svg) A badge used for music shared on Spotify
+
 ### Inc
 
 - [![xitu](https://rawgit.com/aleen42/badges/master/src/xitu.svg)](https://rawgit.com/aleen42/badges/master/src/xitu.svg) A badge used for any articles of Xitu Inc., including translations
