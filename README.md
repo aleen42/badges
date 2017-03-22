@@ -79,6 +79,7 @@ badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 
 ### Designer
 
+- [![behance](https://rawgit.com/aleen42/badges/master/src/behance.svg)](https://rawgit.com/aleen42/badges/master/src/behance.svg) A badge used for designing projects sharing on Behance
 - [![photoshop](https://rawgit.com/aleen42/badges/master/src/photoshop.svg)](https://rawgit.com/aleen42/badges/master/src/photoshop.svg) A badge used for designing projects using Photoshop as a tool
 - [![illustration](https://rawgit.com/aleen42/badges/master/src/illustration.svg)](https://rawgit.com/aleen42/badges/master/src/illustration.svg) A badge used for designing projects using Illustration as a tool
 - [![dreamweaver](https://rawgit.com/aleen42/badges/master/src/dreamweaver.svg)](https://rawgit.com/aleen42/badges/master/src/dreamweaver.svg) A badge used for projects using Dreamweaver as a tool
