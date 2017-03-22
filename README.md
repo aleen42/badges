@@ -67,6 +67,7 @@ badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 - [![telegram](https://rawgit.com/aleen42/badges/master/src/telegram.svg)](https://rawgit.com/aleen42/badges/master/src/telegram.svg) A badge used for sharing communication ways on Telegram
 - [![skype](https://rawgit.com/aleen42/badges/master/src/skype.svg)](https://rawgit.com/aleen42/badges/master/src/skype.svg) A badge used for sharing communication ways on Skype
 - [![whatsapp](https://rawgit.com/aleen42/badges/master/src/whatsapp.svg)](https://rawgit.com/aleen42/badges/master/src/whatsapp.svg) A badge used for sharing communication ways on WhatsApp
+- [![line](https://rawgit.com/aleen42/badges/master/src/line.svg)](https://rawgit.com/aleen42/badges/master/src/line.svg) A badge used for sharing communication ways on Line
 - [![wechat](https://rawgit.com/aleen42/badges/master/src/wechat.svg)](https://rawgit.com/aleen42/badges/master/src/wechat.svg) A badge used for sharing communication ways on WeChat
 
 ### Multimedia
