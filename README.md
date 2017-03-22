@@ -42,6 +42,7 @@ badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 - [![bower](https://rawgit.com/aleen42/badges/master/src/bower.svg)](https://rawgit.com/aleen42/badges/master/src/bower.svg) A badge used for bower packages
 - [![gulp](https://rawgit.com/aleen42/badges/master/src/gulp.svg)](https://rawgit.com/aleen42/badges/master/src/gulp.svg) A badge used for projects using gulp to build
 - [![grunt](https://rawgit.com/aleen42/badges/master/src/grunt.svg)](https://rawgit.com/aleen42/badges/master/src/grunt.svg) A badge used for projects using grunt to build
+- [![apiary](https://rawgit.com/aleen42/badges/master/src/apiary.svg)](https://rawgit.com/aleen42/badges/master/src/apiary.svg) A badge used for documents written on Apiary
 - [![codepen](https://rawgit.com/aleen42/badges/master/src/codepen.svg)](https://rawgit.com/aleen42/badges/master/src/codepen.svg) A badge used for projects running on CodePen
 - [![jsfiddle](https://rawgit.com/aleen42/badges/master/src/jsfiddle.svg)](https://rawgit.com/aleen42/badges/master/src/jsfiddle.svg) A badge used for projects running on JSFiddle
 - [![slack](https://rawgit.com/aleen42/badges/master/src/slack.svg)](https://rawgit.com/aleen42/badges/master/src/slack.svg) A badge used for projects discussed on Slack
