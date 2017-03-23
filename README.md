@@ -24,6 +24,14 @@ Then you can use this command line tool for creating badges yourself:
 badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 ```
 
+To uninstall the tool, you can just uninstall it by typing:
+
+```bash
+sudo npm uninstall -g badges-cli
+```
+
+> Note that: because of the problem of text width calculating has not been worked around, it's only supported ASCII characters to generate.
+
 ### Coder
 
 - [![hacker](https://rawgit.com/aleen42/badges/master/src/hacker.svg)](https://rawgit.com/aleen42/badges/master/src/hacker.svg) A badge used for hacking projects (**Business Using is not allowed**)
