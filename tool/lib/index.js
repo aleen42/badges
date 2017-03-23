@@ -4,10 +4,10 @@
  *      |  _  |/ \   ____  ____ __ ___     / ___\/ \   __   _  ____  _
  *      | |_| || |  / __ \/ __ \\ '_  \ _ / /    | |___\ \ | |/ __ \| |
  *      |  _  || |__. ___/. ___/| | | ||_|\ \___ |  _  | |_| |. ___/| |
- *      |_/ \_|\___/\____|\____||_| |_|    \____/|_| |_|_____|\____||_| 
- *                                                                      
+ *      |_/ \_|\___/\____|\____||_| |_|    \____/|_| |_|_____|\____||_|
+ *
  *      ================================================================
- *                 More than a coder, More than a designer              
+ *                 More than a coder, More than a designer
  *      ================================================================
  *
  *
@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: the main entrance for badge
  *      - Create Time: Mar 20th, 2017
- *      - Update Time: Mar 20th, 2017
+ *      - Update Time: Mar 23rd, 2017
  *
  *
  **********************************************************************/
@@ -60,7 +60,7 @@ module.exports = {
 		const textBlockWidth = this.calcWidthOfText(options.text);
 
 		if (!textBlockWidth) {
-			console.log('[Error: the text should be composed with [0-9a-zA-Z]]');
+			console.log('[Error: the text should be composed with Ascii characters');
 			return;
 		}
 
@@ -76,7 +76,7 @@ module.exports = {
 
 			if (/[\s\S]*?\.(?:gif|png|jpg|jpeg)$/i.test(options.path)) {
 				imageData = 'data:image;base64,' + fs.readFileSync(options.path).toString('base64');
-			}			
+			}
 		} else {
 			imageData = options.data;
 		}
@@ -132,7 +132,14 @@ module.exports = {
 		const padding = 5;
 
 		for (var i = 0; i < len; i++) {
-			var chLen = map[text.charCodeAt(i)];
+            var chCode = text.charCodeAt(i);
+
+            /** only supoort ascii characters */
+            if (chCode < 0 || chCode > 127) {
+                return false;
+            }
+
+			var chLen = map[chCode];
 
 			if (chLen) {
 				width += chLen;
