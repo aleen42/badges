@@ -15,7 +15,7 @@ A collection of badges designed for personal repositories, and I hope that all o
 So how to create such cute badges? It's very simple. As it's only registered on [npm](https://www.npmjs.com/), you should install it by typing:
 
 ```bash
-sudo npm install badges-cli
+sudo npm install -g badges-cli
 ```
 
 Then you can use this command line tool for creating badges yourself:
