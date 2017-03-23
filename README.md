@@ -63,7 +63,7 @@ badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 - [![stackexchange](https://rawgit.com/aleen42/badges/master/src/stackexchange.svg)](https://rawgit.com/aleen42/badges/master/src/stackexchange.svg) A badge used for references on Stack Exchange
 - [![serverfault](https://rawgit.com/aleen42/badges/master/src/serverfault.svg)](https://rawgit.com/aleen42/badges/master/src/serverfault.svg) A badge used for references on Server Fault
 - [![superuser](https://rawgit.com/aleen42/badges/master/src/superuser.svg)](https://rawgit.com/aleen42/badges/master/src/superuser.svg) A badge used for references on Super User
-
+- [![juejin translations](https://rawgit.com/aleen42/badges/master/src/juejin-translation.svg)](https://rawgit.com/aleen42/badges/master/src/juejin-translation.svg) A badge used for any articles of gold-miner
 
 ### Communication
 
