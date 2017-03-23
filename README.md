@@ -48,6 +48,7 @@ badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 - [![jsfiddle](https://rawgit.com/aleen42/badges/master/src/jsfiddle.svg)](https://rawgit.com/aleen42/badges/master/src/jsfiddle.svg) A badge used for projects running on JSFiddle
 - [![slack](https://rawgit.com/aleen42/badges/master/src/slack.svg)](https://rawgit.com/aleen42/badges/master/src/slack.svg) A badge used for projects discussed on Slack
 - [![node](https://rawgit.com/aleen42/badges/master/src/node.svg)](https://rawgit.com/aleen42/badges/master/src/node.svg) A badge used for projects built with Node.js
+- [![webpack](https://rawgit.com/aleen42/badges/master/src/webpack.svg)](https://rawgit.com/aleen42/badges/master/src/webpack.svg) A badge used for projects built with Webpack
 
 ### Community
 
