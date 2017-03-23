@@ -71,7 +71,7 @@ if (opt.options.version) {
 \n                More than a coder, More than a designer              \
 \n     ================================================================\
 \n\
-\n               Badges Generator v1.0.8, Copyright © aleen42 2012-2017\n\n');
+\n               Badges Generator v1.0.9, Copyright © aleen42 2012-2017\n\n');
 	return;
 }
 

@@ -60,7 +60,7 @@ module.exports = {
 		const textBlockWidth = this.calcWidthOfText(options.text);
 
 		if (!textBlockWidth) {
-			console.log('[Error: the text should be composed with Ascii characters');
+			console.log('[Error: the text should be composed with Ascii characters]');
 			return;
 		}
 
