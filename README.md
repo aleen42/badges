@@ -43,7 +43,8 @@ sudo npm uninstall -g badges-cli
 - [![router](https://rawgit.com/aleen42/badges/master/src/router.svg)](https://rawgit.com/aleen42/badges/master/src/router.svg) A badge used for projects using React Router
 - [![angular](https://rawgit.com/aleen42/badges/master/src/angular.svg)](https://rawgit.com/aleen42/badges/master/src/angular.svg) A badge used for repositories which has used the framework, Angular
 - [![eslint](https://rawgit.com/aleen42/badges/master/src/eslint.svg)](https://rawgit.com/aleen42/badges/master/src/eslint.svg) A badge used for projects using ESLint
-- [![gitbook](https://rawgit.com/aleen42/badges/master/src/gitbook.svg)](https://rawgit.com/aleen42/badges/master/src/gitbook.svg) A badge used for Gitbook projects
+- [![gitbook](https://rawgit.com/aleen42/badges/master/src/gitbook.svg)](https://rawgit.com/aleen42/badges/master/src/gitbook.svg) A badge used for books publish on Gitbook
+- [![gitbook](https://rawgit.com/aleen42/badges/master/src/gitbook2.svg)](https://rawgit.com/aleen42/badges/master/src/gitbook2.svg) A badge used for books publish on Gitbook
 - [![atom](https://rawgit.com/aleen42/badges/master/src/atom.svg)](https://rawgit.com/aleen42/badges/master/src/atom.svg) A badge for the Atom editor
 - [![sublime text](https://rawgit.com/aleen42/badges/master/src/sublime.svg)](https://rawgit.com/aleen42/badges/master/src/sublime.svg) A badge for the Sulime Text editor
 - [![visual studio](https://rawgit.com/aleen42/badges/master/src/visual_studio.svg)](https://rawgit.com/aleen42/badges/master/src/visual_studio.svg) A badge for the Visual Studio IDE
