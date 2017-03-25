@@ -48,6 +48,7 @@ sudo npm uninstall -g badges-cli
 - [![atom](https://rawgit.com/aleen42/badges/master/src/atom.svg)](https://rawgit.com/aleen42/badges/master/src/atom.svg) A badge for the Atom editor
 - [![sublime text](https://rawgit.com/aleen42/badges/master/src/sublime.svg)](https://rawgit.com/aleen42/badges/master/src/sublime.svg) A badge for the Sulime Text editor
 - [![visual studio](https://rawgit.com/aleen42/badges/master/src/visual_studio.svg)](https://rawgit.com/aleen42/badges/master/src/visual_studio.svg) A badge for the Visual Studio IDE
+- [![idea](https://rawgit.com/aleen42/badges/master/src/idea.svg)](https://rawgit.com/aleen42/badges/master/src/idea.svg) A badge for the IDEA editor
 - [![bower](https://rawgit.com/aleen42/badges/master/src/bower.svg)](https://rawgit.com/aleen42/badges/master/src/bower.svg) A badge used for bower packages
 - [![gulp](https://rawgit.com/aleen42/badges/master/src/gulp.svg)](https://rawgit.com/aleen42/badges/master/src/gulp.svg) A badge used for projects using gulp to build
 - [![grunt](https://rawgit.com/aleen42/badges/master/src/grunt.svg)](https://rawgit.com/aleen42/badges/master/src/grunt.svg) A badge used for projects using grunt to build
