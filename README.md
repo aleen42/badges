@@ -83,6 +83,7 @@ sudo npm uninstall -g badges-cli
 - [![whatsapp](https://rawgit.com/aleen42/badges/master/src/whatsapp.svg)](https://rawgit.com/aleen42/badges/master/src/whatsapp.svg) A badge used for sharing communication ways on WhatsApp
 - [![line](https://rawgit.com/aleen42/badges/master/src/line.svg)](https://rawgit.com/aleen42/badges/master/src/line.svg) A badge used for sharing communication ways on Line
 - [![wechat](https://rawgit.com/aleen42/badges/master/src/wechat.svg)](https://rawgit.com/aleen42/badges/master/src/wechat.svg) A badge used for sharing communication ways on WeChat
+- [![lunkr](https://rawgit.com/aleen42/badges/master/src/lunkr.svg)](https://rawgit.com/aleen42/badges/master/src/lunkr.svg) A badge used for sharing communication ways on Coremail Lunkr
 
 ### Multimedia
 
