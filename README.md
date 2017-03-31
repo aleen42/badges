@@ -59,6 +59,7 @@ sudo npm uninstall -g badges-cli
 - [![slack](https://rawgit.com/aleen42/badges/master/src/slack.svg)](https://rawgit.com/aleen42/badges/master/src/slack.svg) A badge used for projects discussed on Slack
 - [![node](https://rawgit.com/aleen42/badges/master/src/node.svg)](https://rawgit.com/aleen42/badges/master/src/node.svg) A badge used for projects built with Node.js
 - [![webpack](https://rawgit.com/aleen42/badges/master/src/webpack.svg)](https://rawgit.com/aleen42/badges/master/src/webpack.svg) A badge used for projects built with Webpack
+- [![rss](https://rawgit.com/aleen42/badges/master/src/rss.svg)](https://rawgit.com/aleen42/badges/master/src/rss.svg) A badge used for RSS subscribing
 
 ### Community
 
