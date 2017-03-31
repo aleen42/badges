@@ -113,6 +113,8 @@ sudo npm uninstall -g badges-cli
 - [![porsche](https://rawgit.com/aleen42/badges/master/src/porsche.svg)](https://rawgit.com/aleen42/badges/master/src/porsche.svg) A badge used for cars of Porsche
 - [![mercedes_benz](https://rawgit.com/aleen42/badges/master/src/mercedes_benz.svg)](https://rawgit.com/aleen42/badges/master/src/mercedes_benz.svg) A badge used for cars of Mercedes Benz
 - [![koenigsegg](https://rawgit.com/aleen42/badges/master/src/koenigsegg.svg)](https://rawgit.com/aleen42/badges/master/src/koenigsegg.svg) A badge used for cars of Koenigsegg
+- [![marussia](https://rawgit.com/aleen42/badges/master/src/marussia.svg)](https://rawgit.com/aleen42/badges/master/src/marussia.svg) A badge used for cars of Marussia
+- [![maserati](https://rawgit.com/aleen42/badges/master/src/maserati.svg)](https://rawgit.com/aleen42/badges/master/src/maserati.svg) A badge used for cars of Maserati
 
 ### Game
 
