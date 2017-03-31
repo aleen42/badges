@@ -105,6 +105,12 @@ sudo npm uninstall -g badges-cli
 - [![monsoon](https://rawgit.com/aleen42/badges/master/src/monsoon.svg)](https://rawgit.com/aleen42/badges/master/src/monsoon.svg) A badge used for the Monsoon Inc.
 - [![airbnb](https://rawgit.com/aleen42/badges/master/src/airbnb.svg)](https://rawgit.com/aleen42/badges/master/src/airbnb.svg) A badge used for the Airbnb Inc.
 
+### Car
+
+- [![ferrari](https://rawgit.com/aleen42/badges/master/src/ferrari.svg)](https://rawgit.com/aleen42/badges/master/src/ferrari.svg) A badge used for cars of Ferarri
+- [![lamborghini](https://rawgit.com/aleen42/badges/master/src/lamborghini.svg)](https://rawgit.com/aleen42/badges/master/src/lamborghini.svg) A badge used for cars of Lamborghini
+- [![bugatti](https://rawgit.com/aleen42/badges/master/src/bugatti.svg)](https://rawgit.com/aleen42/badges/master/src/bugatti.svg) A badge used for cars of Bugatti
+
 ### Game
 
 - [![steam](https://rawgit.com/aleen42/badges/master/src/steam.svg)](https://rawgit.com/aleen42/badges/master/src/steam.svg) A badge used for any game supported on the platform Steam
