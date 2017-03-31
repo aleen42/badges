@@ -110,6 +110,7 @@ sudo npm uninstall -g badges-cli
 - [![lamborghini](https://rawgit.com/aleen42/badges/master/src/lamborghini.svg)](https://rawgit.com/aleen42/badges/master/src/lamborghini.svg) A badge used for cars of Lamborghini
 - [![bugatti](https://rawgit.com/aleen42/badges/master/src/bugatti.svg)](https://rawgit.com/aleen42/badges/master/src/bugatti.svg) A badge used for cars of Bugatti
 - [![porsche](https://rawgit.com/aleen42/badges/master/src/porsche.svg)](https://rawgit.com/aleen42/badges/master/src/porsche.svg) A badge used for cars of Porsche
+- [![tesla](https://rawgit.com/aleen42/badges/master/src/tesla.svg)](https://rawgit.com/aleen42/badges/master/src/tesla.svg) A badge used for cars of Tesla
 - [![ferrari](https://rawgit.com/aleen42/badges/master/src/ferrari.svg)](https://rawgit.com/aleen42/badges/master/src/ferrari.svg) A badge used for cars of Ferarri
 - [![maserati](https://rawgit.com/aleen42/badges/master/src/maserati.svg)](https://rawgit.com/aleen42/badges/master/src/maserati.svg) A badge used for cars of Maserati
 - [![marussia](https://rawgit.com/aleen42/badges/master/src/marussia.svg)](https://rawgit.com/aleen42/badges/master/src/marussia.svg) A badge used for cars of Marussia
