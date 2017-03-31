@@ -101,6 +101,8 @@ sudo npm uninstall -g badges-cli
 - [![paypal](https://rawgit.com/aleen42/badges/master/src/paypal.svg)](https://rawgit.com/aleen42/badges/master/src/paypal.svg) A badge used for the Paypal Inc.
 - [![patreon](https://rawgit.com/aleen42/badges/master/src/patreon.svg)](https://rawgit.com/aleen42/badges/master/src/patreon.svg) A badge used for the Patreon Inc.
 - [![bitcoin](https://rawgit.com/aleen42/badges/master/src/bitcoin.svg)](https://rawgit.com/aleen42/badges/master/src/bitcoin.svg) A badge used for the Bitcoin Inc.
+- [![monsoon](https://rawgit.com/aleen42/badges/master/src/monsoon.svg)](https://rawgit.com/aleen42/badges/master/src/monsoon.svg) A badge used for the Monsoon Inc.
+- [![airbnb](https://rawgit.com/aleen42/badges/master/src/airbnb.svg)](https://rawgit.com/aleen42/badges/master/src/airbnb.svg) A badge used for the Airbnb Inc.
 
 ### Game
 
