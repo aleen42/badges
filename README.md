@@ -98,6 +98,7 @@ sudo npm uninstall -g badges-cli
 - [![paypal](https://rawgit.com/aleen42/badges/master/src/paypal.svg)](https://rawgit.com/aleen42/badges/master/src/paypal.svg) A badge used for the Paypal Inc.
 - [![alipay](https://rawgit.com/aleen42/badges/master/src/alipay.svg)](https://rawgit.com/aleen42/badges/master/src/alipay.svg) A badge used for the Alipay Inc.
 - [![xitu](https://rawgit.com/aleen42/badges/master/src/xitu.svg)](https://rawgit.com/aleen42/badges/master/src/xitu.svg) A badge used for any articles of Xitu Inc., including translations
+- [![coremail](https://rawgit.com/aleen42/badges/master/src/coremail.svg)](https://rawgit.com/aleen42/badges/master/src/coremail.svg) A badge used for the Coremail Inc.
 - [![soundtooth](https://rawgit.com/aleen42/badges/master/src/soundtooth.svg)](https://rawgit.com/aleen42/badges/master/src/soundtooth.svg) A badge used for any project of Soundtooth Inc.
 - [![patreon](https://rawgit.com/aleen42/badges/master/src/patreon.svg)](https://rawgit.com/aleen42/badges/master/src/patreon.svg) A badge used for the Patreon Inc.
 - [![amazon](https://rawgit.com/aleen42/badges/master/src/amazon.svg)](https://rawgit.com/aleen42/badges/master/src/amazon.svg) A badge used for the Amazon Inc.
