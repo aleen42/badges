@@ -42,6 +42,7 @@ sudo npm uninstall -g badges-cli
 - [![vue](https://rawgit.com/aleen42/badges/master/src/vue.svg)](https://rawgit.com/aleen42/badges/master/src/vue.svg) A badge used for repositories which has used the framework, Vue
 - [![react](https://rawgit.com/aleen42/badges/master/src/react.svg)](https://rawgit.com/aleen42/badges/master/src/react.svg) A badge used for repositories which has used the framework, React
 - [![router](https://rawgit.com/aleen42/badges/master/src/router.svg)](https://rawgit.com/aleen42/badges/master/src/router.svg) A badge used for projects using React Router
+- [![reactivex](https://rawgit.com/aleen42/badges/master/src/reactivex.svg)](https://rawgit.com/aleen42/badges/master/src/reactivex.svg) A badge for projects using ReactiveX
 - [![visual studio](https://rawgit.com/aleen42/badges/master/src/visual_studio.svg)](https://rawgit.com/aleen42/badges/master/src/visual_studio.svg) A badge for the Visual Studio IDE
 - [![redux](https://rawgit.com/aleen42/badges/master/src/redux.svg)](https://rawgit.com/aleen42/badges/master/src/redux.svg) A badge used for projects using React Redux
 - [![eslint](https://rawgit.com/aleen42/badges/master/src/eslint.svg)](https://rawgit.com/aleen42/badges/master/src/eslint.svg) A badge used for projects using ESLint
