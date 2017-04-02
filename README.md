@@ -130,6 +130,7 @@ sudo npm uninstall -g badges-cli
 - [![liverpool](https://rawgit.com/aleen42/badges/master/src/liverpool.svg)](https://rawgit.com/aleen42/badges/master/src/liverpool.svg) A badge used for FC Liverpool
 - [![barcelona](https://rawgit.com/aleen42/badges/master/src/barcelona.svg)](https://rawgit.com/aleen42/badges/master/src/barcelona.svg) A badge used for FC Barcelona
 - [![real_madrid](https://rawgit.com/aleen42/badges/master/src/real_madrid.svg)](https://rawgit.com/aleen42/badges/master/src/real_madrid.svg) A badge used for FC Real Madrid
+- [![bayern_munchen](https://rawgit.com/aleen42/badges/master/src/bayern_munchen.svg)](https://rawgit.com/aleen42/badges/master/src/bayern_munchen.svg) A badge used for FC Bayern Munchen
 
 ### Game
 
