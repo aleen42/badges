@@ -124,6 +124,11 @@ sudo npm uninstall -g badges-cli
 - [![mercedes_benz](https://rawgit.com/aleen42/badges/master/src/mercedes_benz.svg)](https://rawgit.com/aleen42/badges/master/src/mercedes_benz.svg) A badge used for cars of Mercedes Benz
 - [![audi](https://rawgit.com/aleen42/badges/master/src/audi.svg)](https://rawgit.com/aleen42/badges/master/src/audi.svg) A badge used for cars of Audi
 
+### Football Clubs
+
+- [![manchester_united](https://rawgit.com/aleen42/badges/master/src/manchester_united.svg)](https://rawgit.com/aleen42/badges/master/src/manchester_united.svg) A badge used for FC Manchester United
+- [![liverpool](https://rawgit.com/aleen42/badges/master/src/liverpool.svg)](https://rawgit.com/aleen42/badges/master/src/liverpool.svg) A badge used for FC Liverpool
+
 ### Game
 
 - [![steam](https://rawgit.com/aleen42/badges/master/src/steam.svg)](https://rawgit.com/aleen42/badges/master/src/steam.svg) A badge used for any game supported on the platform Steam
