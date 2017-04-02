@@ -114,6 +114,7 @@ sudo npm uninstall -g badges-cli
 - [![porsche](https://rawgit.com/aleen42/badges/master/src/porsche.svg)](https://rawgit.com/aleen42/badges/master/src/porsche.svg) A badge used for cars of Porsche
 - [![tesla](https://rawgit.com/aleen42/badges/master/src/tesla.svg)](https://rawgit.com/aleen42/badges/master/src/tesla.svg) A badge used for cars of Tesla
 - [![ferrari](https://rawgit.com/aleen42/badges/master/src/ferrari.svg)](https://rawgit.com/aleen42/badges/master/src/ferrari.svg) A badge used for cars of Ferarri
+- [![toyota](https://rawgit.com/aleen42/badges/master/src/toyota.svg)](https://rawgit.com/aleen42/badges/master/src/toyota.svg) A badge used for cars of Toyota
 - [![maserati](https://rawgit.com/aleen42/badges/master/src/maserati.svg)](https://rawgit.com/aleen42/badges/master/src/maserati.svg) A badge used for cars of Maserati
 - [![marussia](https://rawgit.com/aleen42/badges/master/src/marussia.svg)](https://rawgit.com/aleen42/badges/master/src/marussia.svg) A badge used for cars of Marussia
 - [![koenigsegg](https://rawgit.com/aleen42/badges/master/src/koenigsegg.svg)](https://rawgit.com/aleen42/badges/master/src/koenigsegg.svg) A badge used for cars of Koenigsegg
