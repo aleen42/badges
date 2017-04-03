@@ -129,6 +129,7 @@ sudo npm uninstall -g badges-cli
 - [![liverpool](https://rawgit.com/aleen42/badges/master/src/liverpool.svg)](https://rawgit.com/aleen42/badges/master/src/liverpool.svg) A badge used for FC Liverpool
 - [![real_madrid](https://rawgit.com/aleen42/badges/master/src/real_madrid.svg)](https://rawgit.com/aleen42/badges/master/src/real_madrid.svg) A badge used for FC Real Madrid
 - [![manchester_united](https://rawgit.com/aleen42/badges/master/src/manchester_united.svg)](https://rawgit.com/aleen42/badges/master/src/manchester_united.svg) A badge used for FC Manchester United
+- [![ac_milan](https://rawgit.com/aleen42/badges/master/src/ac_milan.svg)](https://rawgit.com/aleen42/badges/master/src/ac_milan.svg) A badge used for FC AC Milan
 - [![bayern_munchen](https://rawgit.com/aleen42/badges/master/src/bayern_munchen.svg)](https://rawgit.com/aleen42/badges/master/src/bayern_munchen.svg) A badge used for FC Bayern Munchen
 - [![barcelona](https://rawgit.com/aleen42/badges/master/src/barcelona.svg)](https://rawgit.com/aleen42/badges/master/src/barcelona.svg) A badge used for FC Barcelona
 - [![chelsea](https://rawgit.com/aleen42/badges/master/src/chelsea.svg)](https://rawgit.com/aleen42/badges/master/src/chelsea.svg) A badge used for FC Chelsea
