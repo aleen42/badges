@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: the main entrance for badge
  *      - Create Time: Mar 20th, 2017
- *      - Update Time: Mar 23rd, 2017
+ *      - Update Time: Apr 6th, 2017
  *
  *
  **********************************************************************/
@@ -94,7 +94,7 @@ module.exports = {
 					<path fill="#' + options.color + '" d="M' + imgBlockWidth + ' 0h' + textBlockWidth + 'v20H25z"/>\
 					<path fill="url(#b)" d="M0 0h' + totalWidth + 'v20H0z"/>\
 				</g>\
-				<g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">\
+				<g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">\
 					<image x="5" y="3" width="14" height="14" xlink:href="' + imageData + '"/>\
 					<text x="19.5" y="15" fill="#010101" fill-opacity=".3"></text>\
 					<text x="19.5" y="14"></text>\

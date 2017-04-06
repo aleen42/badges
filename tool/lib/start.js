@@ -17,7 +17,7 @@
  *      - Author: aleen42
  *      - Description: for shell script to use
  *      - Create Time: Mar 20th, 2017
- *      - Update Time: Mar 23rd, 2017
+ *      - Update Time: Apr 6th, 2017
  *
  *
  **********************************************************************/
@@ -71,7 +71,7 @@ if (opt.options.version) {
 \n                More than a coder, More than a designer              \
 \n     ================================================================\
 \n\
-\n               Badges Generator v1.0.9, Copyright © aleen42 2012-2017\n\n');
+\n               Badges Generator v1.1.0, Copyright © aleen42 2012-2017\n\n');
 	return;
 }
 
