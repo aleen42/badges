@@ -50,6 +50,7 @@ sudo npm uninstall -g badges-cli
 - [![gitbook](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook.svg) A badge used for books publish on Gitbook
 - [![gitbook](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook2.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook2.svg) A badge used for books publish on Gitbook
 - [![node](https://cdn.rawgit.com/aleen42/badges/master/src/node.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/node.svg) A badge used for projects built with Node.js
+- [![gitter](https://cdn.rawgit.com/aleen42/badges/master/src/gitter.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitter.svg) A badge used for projects can be discussed on Gitter
 - [![atom](https://cdn.rawgit.com/aleen42/badges/master/src/atom.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/atom.svg) A badge for the Atom editor
 - [![sublime text](https://cdn.rawgit.com/aleen42/badges/master/src/sublime.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/sublime.svg) A badge for the Sulime Text editor
 - [![bower](https://cdn.rawgit.com/aleen42/badges/master/src/bower.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/bower.svg) A badge used for bower packages
