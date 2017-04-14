@@ -54,6 +54,7 @@ sudo npm uninstall -g badges-cli
 - [![atom](https://cdn.rawgit.com/aleen42/badges/master/src/atom.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/atom.svg) A badge for the Atom editor
 - [![sublime text](https://cdn.rawgit.com/aleen42/badges/master/src/sublime.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/sublime.svg) A badge for the Sulime Text editor
 - [![bower](https://cdn.rawgit.com/aleen42/badges/master/src/bower.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/bower.svg) A badge used for bower packages
+- [![gitlab](https://cdn.rawgit.com/aleen42/badges/master/src/gitlab.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitlab.svg) A badge used for Gitlab repositories
 - [![grunt](https://cdn.rawgit.com/aleen42/badges/master/src/grunt.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/grunt.svg) A badge used for projects using grunt to build
 - [![rss](https://cdn.rawgit.com/aleen42/badges/master/src/rss.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/rss.svg) A badge used for RSS subscribing
 - [![apiary](https://cdn.rawgit.com/aleen42/badges/master/src/apiary.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/apiary.svg) A badge used for documents written on Apiary
