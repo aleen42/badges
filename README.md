@@ -34,8 +34,6 @@ sudo npm uninstall -g badges-cli
 
 ### Coder
 
-- [![hacker](https://cdn.rawgit.com/aleen42/badges/master/src/hacker.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/hacker.svg) A badge used for hacking projects (**Business Using is not allowed**)
-- [![GitHub](https://cdn.rawgit.com/aleen42/badges/master/src/github.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/github.svg) A badge used for GitHub repositories
 - [![angular](https://cdn.rawgit.com/aleen42/badges/master/src/angular.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/angular.svg) A badge used for repositories which has used the framework, Angular
 - [![gulp](https://cdn.rawgit.com/aleen42/badges/master/src/gulp.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gulp.svg) A badge used for projects using gulp to build
 - [![npm](https://cdn.rawgit.com/aleen42/badges/master/src/npm.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/npm.svg) A badge used for npm packages
@@ -46,6 +44,7 @@ sudo npm uninstall -g badges-cli
 - [![reactivex](https://cdn.rawgit.com/aleen42/badges/master/src/reactivex.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/reactivex.svg) A badge for projects using ReactiveX
 - [![visual studio](https://cdn.rawgit.com/aleen42/badges/master/src/visual_studio.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/visual_studio.svg) A badge for the Visual Studio IDE
 - [![redux](https://cdn.rawgit.com/aleen42/badges/master/src/redux.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/redux.svg) A badge used for projects using React Redux
+- [![jasmin](https://cdn.rawgit.com/aleen42/badges/master/src/jasmin.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/jasmin.svg) A badge used for projects using Jasmine for unit tests
 - [![eslint](https://cdn.rawgit.com/aleen42/badges/master/src/eslint.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/eslint.svg) A badge used for projects using ESLint
 - [![gitbook](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook.svg) A badge used for books publish on Gitbook
 - [![gitbook](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook2.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook2.svg) A badge used for books publish on Gitbook
@@ -57,6 +56,7 @@ sudo npm uninstall -g badges-cli
 - [![gitlab](https://cdn.rawgit.com/aleen42/badges/master/src/gitlab.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitlab.svg) A badge used for Gitlab repositories
 - [![grunt](https://cdn.rawgit.com/aleen42/badges/master/src/grunt.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/grunt.svg) A badge used for projects using grunt to build
 - [![rss](https://cdn.rawgit.com/aleen42/badges/master/src/rss.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/rss.svg) A badge used for RSS subscribing
+- [![mocha](https://cdn.rawgit.com/aleen42/badges/master/src/mocha.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/mocha.svg) A badge used for projects using Mocha for unit tests
 - [![apiary](https://cdn.rawgit.com/aleen42/badges/master/src/apiary.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/apiary.svg) A badge used for documents written on Apiary
 - [![docker](https://cdn.rawgit.com/aleen42/badges/master/src/docker.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/docker.svg) A badge used for projects deployed on Docker
 - [![jsfiddle](https://cdn.rawgit.com/aleen42/badges/master/src/jsfiddle.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/jsfiddle.svg) A badge used for projects running on JSFiddle
@@ -64,6 +64,8 @@ sudo npm uninstall -g badges-cli
 - [![slack](https://cdn.rawgit.com/aleen42/badges/master/src/slack.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/slack.svg) A badge used for projects discussed on Slack
 - [![idea](https://cdn.rawgit.com/aleen42/badges/master/src/idea.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/idea.svg) A badge for the IDEA editor
 - [![codepen](https://cdn.rawgit.com/aleen42/badges/master/src/codepen.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/codepen.svg) A badge used for projects running on CodePen
+- [![hacker](https://cdn.rawgit.com/aleen42/badges/master/src/hacker.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/hacker.svg) A badge used for hacking projects (**Business Using is not allowed**)
+- [![GitHub](https://cdn.rawgit.com/aleen42/badges/master/src/github.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/github.svg) A badge used for GitHub repositories
 
 ### Community
 
