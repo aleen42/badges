@@ -43,6 +43,7 @@ sudo npm uninstall -g badges-cli
 - [![modernizr](https://cdn.rawgit.com/aleen42/badges/master/src/modernizr.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/modernizr.svg) A badge for projects using Modernizr
 - [![reactivex](https://cdn.rawgit.com/aleen42/badges/master/src/reactivex.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/reactivex.svg) A badge for projects using ReactiveX
 - [![visual studio](https://cdn.rawgit.com/aleen42/badges/master/src/visual_studio.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/visual_studio.svg) A badge for the Visual Studio IDE
+- [![qunit](https://cdn.rawgit.com/aleen42/badges/master/src/qunit.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/qunit.svg) A badge for projects using QUnit for unit tests
 - [![redux](https://cdn.rawgit.com/aleen42/badges/master/src/redux.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/redux.svg) A badge used for projects using React Redux
 - [![jasmin](https://cdn.rawgit.com/aleen42/badges/master/src/jasmin.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/jasmin.svg) A badge used for projects using Jasmine for unit tests
 - [![eslint](https://cdn.rawgit.com/aleen42/badges/master/src/eslint.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/eslint.svg) A badge used for projects using ESLint
