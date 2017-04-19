@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: the main entrance for badge
  *      - Create Time: Mar 20th, 2017
- *      - Update Time: Apr 6th, 2017
+ *      - Update Time: Apr 19th, 2017
  *
  *
  **********************************************************************/
