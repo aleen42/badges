@@ -112,7 +112,7 @@ module.exports = {
 				}
 			}
 
-			/** write file when there is no existed file */
+			/** write to the file when it is not existed */
 			fs.writeFile(options.output, content.split('\t').join(''), function (err) {
 				if (err) {
 					console.log('[Error: failed to create such file]');
@@ -125,19 +125,19 @@ module.exports = {
 	},
 
 	calcWidthOfText: function (text) {
-		/** start to calculate for each character of the text */
+		/** start to calculate the width of text */
 		var width = 0;
 		var len = text.length;
 
 		const padding = 5;
 
 		for (var i = 0; i < len; i++) {
-            var chCode = text.charCodeAt(i);
+			var chCode = text.charCodeAt(i);
 
-            /** only supoort ascii characters */
-            if (chCode < 0 || chCode > 127) {
-                return false;
-            }
+			/** only support ascii characters temporary */
+			if (chCode < 0 || chCode > 127) {
+				return false;
+			}
 
 			var chLen = map[chCode];
 
