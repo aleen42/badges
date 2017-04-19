@@ -45,7 +45,7 @@ sudo npm uninstall -g badges-cli
 - [![visual studio](https://cdn.rawgit.com/aleen42/badges/master/src/visual_studio.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/visual_studio.svg) A badge for the Visual Studio IDE
 - [![qunit](https://cdn.rawgit.com/aleen42/badges/master/src/qunit.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/qunit.svg) A badge for projects using QUnit for unit tests
 - [![redux](https://cdn.rawgit.com/aleen42/badges/master/src/redux.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/redux.svg) A badge used for projects using React Redux
-- [![jasmin](https://cdn.rawgit.com/aleen42/badges/master/src/jasmin.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/jasmin.svg) A badge used for projects using Jasmine for unit tests
+- [![jasmine](https://cdn.rawgit.com/aleen42/badges/master/src/jasmine.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/jasmine.svg) A badge used for projects using Jasmine for unit tests
 - [![eslint](https://cdn.rawgit.com/aleen42/badges/master/src/eslint.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/eslint.svg) A badge used for projects using ESLint
 - [![gitbook](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook.svg) A badge used for books publish on Gitbook
 - [![gitbook](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook2.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook2.svg) A badge used for books publish on Gitbook
