@@ -35,10 +35,15 @@ As for how to create a badge and add it in the collection? There are some steps 
 1. Fork the repository
 2. Install `badges-cli`
 3. Create a logo with SVG formatted (**recommended**), or any other formats like PNG. (_**The logo should be wrapped into a square, in another word, the width should be equal to the height, or it would have been horizontally squished.**_)
-4. Run the script by typing `npm run build`
-5. If succeed, the readme file will be automatically updated
-6. Finally, push all updates and create a pull request for your change
-7. **Done!!**
+4. Save the logo in the folder `dist`
+5. Add data for your badge in the file `script/data.js`
+    ```js
+    'React Router': { fileName: 'router.svg', color: '62DAFB', description: 'A badge used for projects using React Router' }
+    ```
+5. Run the script by typing `npm run build`
+6. If succeed, the readme file will be automatically updated
+7. Finally, push all updates and create a pull request for your change
+8. **Done!!**
 
 > Note that: so far haven't I thought out a perfect solution for calculating width of text yet, and it means that the text can not be aligned.
 
