@@ -1,7 +1,7 @@
 ## badges
 
 <p align="center">
-    <img src="./badges.png" width="20%" />
+    <img src="https://cdn.rawgit.com/aleen42/badges/master/badges.png" width="20%" />
 </p>
 
 <p align="center">
