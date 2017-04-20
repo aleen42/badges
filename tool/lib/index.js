@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: the main entrance for badge
  *      - Create Time: Mar 20th, 2017
- *      - Update Time: Apr 19th, 2017
+ *      - Update Time: Apr 20th, 2017
  *
  *
  **********************************************************************/
@@ -119,7 +119,7 @@ module.exports = {
 					return;
 				}
 
-				console.log('[Success: creating completed]');
+				console.log('[Success: succeed in creating a badge of `' + options.text + '`]');
 			});
 		});
 	},
@@ -129,21 +129,14 @@ module.exports = {
 		var width = 0;
 		var len = text.length;
 
-		const padding = 5;
+        const padding = 5;
 
 		for (var i = 0; i < len; i++) {
 			var chCode = text.charCodeAt(i);
-
-			/** only support ascii characters temporary */
-			if (chCode < 0 || chCode > 127) {
-				return false;
-			}
-
 			var chLen = map[chCode];
 
-			if (chLen) {
-				width += chLen;
-			}
+            /** 13px for the width of non-ascii characters */
+			width += chLen ? chLen : (chCode >= 0 && chCode <= 127 ? 0 : 13);
 		}
 
 		return width + padding;
@@ -155,5 +148,14 @@ module.exports = {
 	 */
 	test: function () {
 		return execSync('badge -h').toString();
-	}
+	},
+
+    /**
+     * [testWidth: test function for calculating widh of strings]
+     * @param  {[type]} strings [description]
+     * @return {[type]}         [description]
+     */
+    testWidth: function (strings) {
+        return this.calcWidthOfText(strings);
+    }
 };

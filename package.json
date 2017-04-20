@@ -1,10 +1,12 @@
 {
   "name": "badges-cli",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A command line tool for generating badges automatically.",
   "main": "./tool/lib/index.js",
   "scripts": {
-    "test": "make test"
+    "test": "./node_modules/.bin/mocha ./tool/test/ --reporter spec",
+    "build": "npm run build:document",
+    "build:document": "node ./script/setup.js"
   },
   "bin": {
     "badge": "./tool/lib/start.js"

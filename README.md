@@ -35,24 +35,24 @@ sudo npm uninstall -g badges-cli
 ### Coder
 
 - [![angular](https://cdn.rawgit.com/aleen42/badges/master/src/angular.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/angular.svg) A badge used for repositories which has used the framework, Angular
-- [![gulp](https://cdn.rawgit.com/aleen42/badges/master/src/gulp.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gulp.svg) A badge used for projects using gulp to build
 - [![npm](https://cdn.rawgit.com/aleen42/badges/master/src/npm.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/npm.svg) A badge used for npm packages
+- [![gulp](https://cdn.rawgit.com/aleen42/badges/master/src/gulp.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gulp.svg) A badge used for projects using Gulp to build
 - [![vue](https://cdn.rawgit.com/aleen42/badges/master/src/vue.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/vue.svg) A badge used for repositories which has used the framework, Vue
 - [![react](https://cdn.rawgit.com/aleen42/badges/master/src/react.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/react.svg) A badge used for repositories which has used the framework, React
 - [![router](https://cdn.rawgit.com/aleen42/badges/master/src/router.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/router.svg) A badge used for projects using React Router
 - [![modernizr](https://cdn.rawgit.com/aleen42/badges/master/src/modernizr.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/modernizr.svg) A badge for projects using Modernizr
 - [![reactivex](https://cdn.rawgit.com/aleen42/badges/master/src/reactivex.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/reactivex.svg) A badge for projects using ReactiveX
 - [![jasmine](https://cdn.rawgit.com/aleen42/badges/master/src/jasmine.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/jasmine.svg) A badge used for projects using Jasmine for unit tests
-- [![visual studio](https://cdn.rawgit.com/aleen42/badges/master/src/visual_studio.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/visual_studio.svg) A badge for the Visual Studio IDE
+- [![visual_studio](https://cdn.rawgit.com/aleen42/badges/master/src/visual_studio.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/visual_studio.svg) A badge for the Visual Studio IDE
 - [![qunit](https://cdn.rawgit.com/aleen42/badges/master/src/qunit.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/qunit.svg) A badge for projects using QUnit for unit tests
 - [![redux](https://cdn.rawgit.com/aleen42/badges/master/src/redux.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/redux.svg) A badge used for projects using React Redux
 - [![eslint](https://cdn.rawgit.com/aleen42/badges/master/src/eslint.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/eslint.svg) A badge used for projects using ESLint
-- [![gitbook](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook.svg) A badge used for books publish on Gitbook
-- [![gitbook](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook2.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook2.svg) A badge used for books publish on Gitbook
+- [![gitbook](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook_1.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook_1.svg) A badge used for books publish on Gitbook
+- [![gitbook](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook_2.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook_2.svg) A badge used for books publish on Gitbook
 - [![node](https://cdn.rawgit.com/aleen42/badges/master/src/node.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/node.svg) A badge used for projects built with Node.js
 - [![gitter](https://cdn.rawgit.com/aleen42/badges/master/src/gitter.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitter.svg) A badge used for projects can be discussed on Gitter
 - [![atom](https://cdn.rawgit.com/aleen42/badges/master/src/atom.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/atom.svg) A badge for the Atom editor
-- [![sublime text](https://cdn.rawgit.com/aleen42/badges/master/src/sublime.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/sublime.svg) A badge for the Sulime Text editor
+- [![sublime_text](https://cdn.rawgit.com/aleen42/badges/master/src/sublime_text.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/sublime_text.svg) A badge for the Sulime Text editor
 - [![bower](https://cdn.rawgit.com/aleen42/badges/master/src/bower.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/bower.svg) A badge used for bower packages
 - [![gitlab](https://cdn.rawgit.com/aleen42/badges/master/src/gitlab.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitlab.svg) A badge used for Gitlab repositories
 - [![grunt](https://cdn.rawgit.com/aleen42/badges/master/src/grunt.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/grunt.svg) A badge used for projects using grunt to build
@@ -65,23 +65,25 @@ sudo npm uninstall -g badges-cli
 - [![slack](https://cdn.rawgit.com/aleen42/badges/master/src/slack.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/slack.svg) A badge used for projects discussed on Slack
 - [![idea](https://cdn.rawgit.com/aleen42/badges/master/src/idea.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/idea.svg) A badge for the IDEA editor
 - [![codepen](https://cdn.rawgit.com/aleen42/badges/master/src/codepen.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/codepen.svg) A badge used for projects running on CodePen
-- [![hacker](https://cdn.rawgit.com/aleen42/badges/master/src/hacker.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/hacker.svg) A badge used for hacking projects (**Business Using is not allowed**)
-- [![GitHub](https://cdn.rawgit.com/aleen42/badges/master/src/github.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/github.svg) A badge used for GitHub repositories
+- [![hacker](https://cdn.rawgit.com/aleen42/badges/master/src/hacker.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/hacker.svg) A badge used for hacking projects (**Business Using is not allowed)**
+- [![github](https://cdn.rawgit.com/aleen42/badges/master/src/github.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/github.svg) A badge used for GitHub repositories
+
 
 ### Community
 
-- [![juejin translations](https://cdn.rawgit.com/aleen42/badges/master/src/juejin_translation.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/juejin_translation.svg) A badge used for any articles translated by gold-miner
+- [![juejin_translation](https://cdn.rawgit.com/aleen42/badges/master/src/juejin_translation.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/juejin_translation.svg) A badge used for any articles translated by gold-miner
 - [![facebook](https://cdn.rawgit.com/aleen42/badges/master/src/facebook.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/facebook.svg) A badge used for sharing communities on Facebook
 - [![stackexchange](https://cdn.rawgit.com/aleen42/badges/master/src/stackexchange.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/stackexchange.svg) A badge used for references on Stack Exchange
 - [![superuser](https://cdn.rawgit.com/aleen42/badges/master/src/superuser.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/superuser.svg) A badge used for references on Super User
 - [![twitter](https://cdn.rawgit.com/aleen42/badges/master/src/twitter.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/twitter.svg) A badge used for sharing communities on Twitter
-- [![google+](https://cdn.rawgit.com/aleen42/badges/master/src/google_plus.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/google_plus.svg) A badge used for sharing communities on Google+
+- [![google_plus](https://cdn.rawgit.com/aleen42/badges/master/src/google_plus.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/google_plus.svg) A badge used for sharing communities on Google+
 - [![pinterest](https://cdn.rawgit.com/aleen42/badges/master/src/pinterest.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/pinterest.svg) A badge used for sharing communities on Pinterest
-- [![sina weibo](https://cdn.rawgit.com/aleen42/badges/master/src/sina_weibo.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/sina_weibo.svg) A badge used for sharing communities on Sina Weibo
+- [![sina_weibo](https://cdn.rawgit.com/aleen42/badges/master/src/sina_weibo.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/sina_weibo.svg) A badge used for sharing communities on Sina Weibo
 - [![reddit](https://cdn.rawgit.com/aleen42/badges/master/src/reddit.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/reddit.svg) A badge used for articles shared on Reddit
-- [![stackoverflow](https://cdn.rawgit.com/aleen42/badges/master/src/stackoverflow.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/stackoverflow.svg) A badge used for references on Stack Overflow
-- [![serverfault](https://cdn.rawgit.com/aleen42/badges/master/src/serverfault.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/serverfault.svg) A badge used for references on Server Fault
+- [![stackoverflow](https://cdn.rawgit.com/aleen42/badges/master/src/stackoverflow.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/stackoverflow.svg) A badge used for GitHub repositories
 - [![medium](https://cdn.rawgit.com/aleen42/badges/master/src/medium.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/medium.svg) A badge used for articles shared on Medium
+- [![serverfault](https://cdn.rawgit.com/aleen42/badges/master/src/serverfault.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/serverfault.svg) A badge used for references on Server Fault
+
 
 ### Communication
 
@@ -93,10 +95,12 @@ sudo npm uninstall -g badges-cli
 - [![wechat](https://cdn.rawgit.com/aleen42/badges/master/src/wechat.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/wechat.svg) A badge used for sharing communication ways on WeChat
 - [![lunkr](https://cdn.rawgit.com/aleen42/badges/master/src/lunkr.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/lunkr.svg) A badge used for sharing communication ways on Coremail Lunkr
 
+
 ### Multimedia
 
 - [![soundcloud](https://cdn.rawgit.com/aleen42/badges/master/src/soundcloud.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/soundcloud.svg) A badge used for music shared on SoundCloud
 - [![spotify](https://cdn.rawgit.com/aleen42/badges/master/src/spotify.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/spotify.svg) A badge used for music shared on Spotify
+
 
 ### Inc
 
@@ -104,7 +108,7 @@ sudo npm uninstall -g badges-cli
 - [![codrops](https://cdn.rawgit.com/aleen42/badges/master/src/codrops.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/codrops.svg) A badge used for any project of Codrops Inc.
 - [![paypal](https://cdn.rawgit.com/aleen42/badges/master/src/paypal.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/paypal.svg) A badge used for the Paypal Inc.
 - [![alipay](https://cdn.rawgit.com/aleen42/badges/master/src/alipay.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/alipay.svg) A badge used for the Alipay Inc.
-- [![xitu](https://cdn.rawgit.com/aleen42/badges/master/src/xitu.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/xitu.svg) A badge used for any articles of Xitu Inc., including translations
+- [![xitu](https://cdn.rawgit.com/aleen42/badges/master/src/xitu.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/xitu.svg) A badge used for any articles of Xitu Inc.
 - [![coremail](https://cdn.rawgit.com/aleen42/badges/master/src/coremail.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/coremail.svg) A badge used for the Coremail Inc.
 - [![soundtooth](https://cdn.rawgit.com/aleen42/badges/master/src/soundtooth.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/soundtooth.svg) A badge used for any project of Soundtooth Inc.
 - [![patreon](https://cdn.rawgit.com/aleen42/badges/master/src/patreon.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/patreon.svg) A badge used for the Patreon Inc.
@@ -112,6 +116,7 @@ sudo npm uninstall -g badges-cli
 - [![bitcoin](https://cdn.rawgit.com/aleen42/badges/master/src/bitcoin.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/bitcoin.svg) A badge used for the Bitcoin Inc.
 - [![airbnb](https://cdn.rawgit.com/aleen42/badges/master/src/airbnb.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/airbnb.svg) A badge used for the Airbnb Inc.
 - [![monsoon](https://cdn.rawgit.com/aleen42/badges/master/src/monsoon.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/monsoon.svg) A badge used for the Monsoon Inc.
+
 
 ### Car
 
@@ -130,6 +135,7 @@ sudo npm uninstall -g badges-cli
 - [![mercedes_benz](https://cdn.rawgit.com/aleen42/badges/master/src/mercedes_benz.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/mercedes_benz.svg) A badge used for cars of Mercedes Benz
 - [![audi](https://cdn.rawgit.com/aleen42/badges/master/src/audi.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/audi.svg) A badge used for cars of Audi
 
+
 ### Football Clubs
 
 - [![liverpool](https://cdn.rawgit.com/aleen42/badges/master/src/liverpool.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/liverpool.svg) A badge used for FC Liverpool
@@ -141,19 +147,21 @@ sudo npm uninstall -g badges-cli
 - [![barcelona](https://cdn.rawgit.com/aleen42/badges/master/src/barcelona.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/barcelona.svg) A badge used for FC Barcelona
 - [![chelsea](https://cdn.rawgit.com/aleen42/badges/master/src/chelsea.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/chelsea.svg) A badge used for FC Chelsea
 
+
 ### Game
 
 - [![steam](https://cdn.rawgit.com/aleen42/badges/master/src/steam.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/steam.svg) A badge used for any game supported on the platform Steam
 - [![ingress](https://cdn.rawgit.com/aleen42/badges/master/src/ingress.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/ingress.svg) A badge used for the game Ingress published by Niantic Inc.
 - [![osu](https://cdn.rawgit.com/aleen42/badges/master/src/osu.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/osu.svg) A badge used for the game osu! published by ppy
 
+
 ### Designer
 
 - [![behance](https://cdn.rawgit.com/aleen42/badges/master/src/behance.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/behance.svg) A badge used for designing projects sharing on Behance
 - [![photoshop](https://cdn.rawgit.com/aleen42/badges/master/src/photoshop.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/photoshop.svg) A badge used for designing projects using Photoshop as a tool
-- [![illustration](https://cdn.rawgit.com/aleen42/badges/master/src/illustration.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/illustration.svg) A badge used for designing projects using Illustration as a tool
+- [![illustrator](https://cdn.rawgit.com/aleen42/badges/master/src/illustrator.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/illustrator.svg) A badge used for designing projects using Illustrator as a tool
 - [![dreamweaver](https://cdn.rawgit.com/aleen42/badges/master/src/dreamweaver.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/dreamweaver.svg) A badge used for projects using Dreamweaver as a tool
-- [![After Effect](https://cdn.rawgit.com/aleen42/badges/master/src/after_effect.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/after_effect.svg) A badge used for designing projects using After Effect as a tool
+- [![after_effects](https://cdn.rawgit.com/aleen42/badges/master/src/after_effects.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/after_effects.svg) A badge used for designing projects using After Effect as a tool
 - [![premiere](https://cdn.rawgit.com/aleen42/badges/master/src/premiere.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/premiere.svg) A badge used for designing projects using Premiere as a tool
 - [![flash](https://cdn.rawgit.com/aleen42/badges/master/src/flash.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/flash.svg) A badge used for designing projects using Flash as a tool
 - [![zeplin](https://cdn.rawgit.com/aleen42/badges/master/src/zeplin.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/zeplin.svg) A badge used for designing projects with Zeplin

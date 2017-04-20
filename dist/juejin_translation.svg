@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="218px" height="218px" viewBox="0 0 218 218" enable-background="new 0 0 218 218" xml:space="preserve">
+<title>Mask Copy + Fill 1 Copy Copy Copy</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Artboard-36" transform="translate(-89.000000, -92.000000)">
+		<g id="Mask-Copy-_x2B_-Fill-1-Copy-Copy-Copy" transform="translate(89.000000, 92.000000)">
+			<g id="Mask-Copy">
+				<path id="path-1_1_" fill="none" d="M14.062,203.838C-0.1,189.676-0.1,175.514-0.1,150.882V67.925
+					c0-24.632,0-38.793,14.162-52.955S42.386,0.808,67.017,0.808h82.958c24.632,0,38.793,0,52.955,14.162
+					c14.162,14.162,14.162,28.323,14.162,52.955v82.957c0,24.632,0,38.794-14.162,52.956C188.768,218,174.608,218,149.975,218
+					H67.017C42.386,218,28.224,218,14.062,203.838z"/>
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="6.203" y="28" width="204.585" height="162.808">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="6.203" y="28" width="204.585" height="162.808" id="mask-2">
+				<g filter="url(#Adobe_OpacityMaskFilter)">
+					<path id="path-1" fill="#FFFFFF" d="M-22.004,239.7c-19.572-19.572-19.572-39.143-19.572-73.184V51.871
+						c0-34.041,0-53.611,19.572-73.183s39.143-19.572,73.183-19.572h114.646c34.041,0,53.611,0,73.183,19.572
+						C258.58-1.74,258.58,17.83,258.58,51.871v114.645c0,34.041,0,53.613-19.572,73.184c-19.572,19.572-39.141,19.572-73.183,19.572
+						H51.179C17.139,259.272-2.432,259.272-22.004,239.7z"/>
+				</g>
+			</mask>
+			<path id="Fill-1-Copy" mask="url(#mask-2)" fill="#FFFFFF" d="M127.126,42.669L108.522,28L89.085,43.326l-1.008,0.812
+				l20.445,16.302l20.508-16.302L127.126,42.669z M197.626,99.558l-89.158,70.302L19.364,99.601L6.203,110.172l102.265,80.636
+				l102.321-80.679L197.626,99.558z M108.468,105.261L59.951,67.006L46.788,77.577l61.68,48.634L170.2,77.534l-13.162-10.571
+				L108.468,105.261z"/>
+		</g>
+	</g>
+</g>
+</svg>
