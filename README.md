@@ -30,7 +30,17 @@ To uninstall the tool, you can just uninstall it by typing:
 sudo npm uninstall -g badges-cli
 ```
 
-> Note that: because of the problem of text width calculating has not been worked around, it's only supported ASCII characters to generate.
+As for how to create a badge and add it in the collection? There are some steps you may need to follow:
+
+1. Fork the repository
+2. Install `badges-cli`
+3. Create a logo with SVG formatted (**recommended**), or any other formats like PNG. (***The logo should be wrapped into a square, in another word, the width should be equal to the height, or it would have been horizontally squished.***)
+4. Run the script by typing `npm run build`
+5. If succeed, the readme file will be automatically updated
+6. Finally, push all updates and create a pull request for your change
+7. **Done!!**
+
+> Note that: so far haven't I thought out a perfect solution for calculating width of text yet, and it means that the text can not be aligned.
 
 ### Coder
 
