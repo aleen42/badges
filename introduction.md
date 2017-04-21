@@ -8,7 +8,7 @@
     To make badges more standard and acceptable.
 </p>
 
-[![badges](https://cdn.rawgit.com/aleen42/badges/master/src/badges.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/badges.svg)
+[![badges](https://cdn.rawgit.com/aleen42/badges/master/aleen42.svg)](https://cdn.rawgit.com/aleen42/badges/master/aleen42.svg)
 
 A collection of badges designed for personal repositories, and I hope that all of these badges can be widely accepted and used in the document of any project so that they can become more and more standard. If you also have some new ideas about badges, just open an issue. Always remember that: **More than a coder, more than a designer.**
 
@@ -45,4 +45,4 @@ As for how to create a badge and add it in the collection? There are some steps 
 7. Finally, push all updates and create a pull request for your change
 8. **Done!!**
 
-> Note that: so far haven't I thought out a perfect solution for calculating width of text yet, and it means that the text can not be aligned.
+> Note that: so far haven't I thought out a perfect solution for calculating width of text accurately yet, and it means that the text can not be aligned in some cases.

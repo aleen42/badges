@@ -72,7 +72,7 @@ module.exports = [
 	null,
 	null,
 	null,
-	0,
+	4, // 4px for space but not 0px
 	5,
 	6,
 	10,

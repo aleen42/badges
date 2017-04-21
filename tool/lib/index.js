@@ -38,7 +38,7 @@ const map = require('./map.js');
  */
 const fs = require('fs');
 
-module.exports = {
+const badges = {
 	run: function (options) {
 		/** options validation */
 		if (options.text === void 0) {
@@ -129,7 +129,7 @@ module.exports = {
 		var width = 0;
 		var len = text.length;
 
-        const padding = 5;
+        const padding = 3;
 
 		for (var i = 0; i < len; i++) {
 			var chCode = text.charCodeAt(i);
@@ -139,7 +139,7 @@ module.exports = {
 			width += chLen ? chLen : (chCode >= 0 && chCode <= 127 ? 0 : 13);
 		}
 
-		return width + padding;
+		return width + padding * 2;
 	},
 
 	/**
@@ -159,3 +159,5 @@ module.exports = {
         return this.calcWidthOfText(strings);
     }
 };
+
+module.exports = badges;

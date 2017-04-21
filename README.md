@@ -8,7 +8,7 @@
     To make badges more standard and acceptable.
 </p>
 
-[![badges](https://cdn.rawgit.com/aleen42/badges/master/src/badges.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/badges.svg)
+[![badges](https://cdn.rawgit.com/aleen42/badges/master/aleen42.svg)](https://cdn.rawgit.com/aleen42/badges/master/aleen42.svg)
 
 A collection of badges designed for personal repositories, and I hope that all of these badges can be widely accepted and used in the document of any project so that they can become more and more standard. If you also have some new ideas about badges, just open an issue. Always remember that: **More than a coder, more than a designer.**
 
