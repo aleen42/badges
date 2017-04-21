@@ -45,7 +45,7 @@ const footerPath = rootPath + 'footer.md';
 const readmePath = rootPath + 'README.md';
 const distPath = rootPath + 'dist/';
 const outputPath = rootPath + 'src/';
-const cdnPath = 'https://cdn.rawgit.com/aleen42/badges/master/src/';
+const cdnPath = 'https://rawgit.com/aleen42/badges/master/src/';
 
 const generateBadge = function (name, badgeItem, index) {
     /** check whether badgeItem is an array */
