@@ -45,7 +45,8 @@ const footerPath = rootPath + 'footer.md';
 const readmePath = rootPath + 'README.md';
 const distPath = rootPath + 'dist/';
 const outputPath = rootPath + 'src/';
-const cdnPath = 'https://rawgit.com/aleen42/badges/master/src/';
+const imgPath = 'https://rawgit.com/aleen42/badges/master/src/';
+const cdnPath = 'https://cdn.rawgit.com/aleen42/badges/master/src/';
 
 const generateBadge = function (name, badgeItem, index) {
     /** check whether badgeItem is an array */
@@ -70,9 +71,10 @@ const generateBadge = function (name, badgeItem, index) {
     }
 
     /** documenting */
-    var badgeUrl = cdnPath + outputName + '.svg';
+    var imgUrl = imgPath + outputName + '.svg';
+    var cdnUrl = cdnPath + outputName + '.svg';
 
-    return '- [![' + fileName + '](' + badgeUrl + ')](' + badgeUrl + ') ' + item.description + '\n';
+    return '- [![' + fileName + '](' + imgUrl + ')](' + cdnUrl + ') ' + item.description + '\n';
 };
 
 var writingText = '';
