@@ -38,6 +38,7 @@ module.exports = [
             'ReactiveX': { fileName: 'reactivex.svg', color: 'C7008F', description: 'A badge for projects using ReactiveX' },
             'Jasmine': { fileName: 'jasmine.svg', color: '8A4182', description: 'A badge used for projects using Jasmine for unit tests' },
             'Visual Studio': { fileName: 'visual_studio.svg', color: '68217A', description: 'A badge for the Visual Studio IDE' },
+            'Visual Studio Code': { fileName: 'visual_studio_code.svg', color: '028FD6', description: 'A badge for the Visual Studio Code IDE' },
             'QUnit': { fileName: 'qunit.svg', color: '9E2087', description: 'A badge for projects using QUnit for unit tests' },
             'Redux': { fileName: 'redux.svg', color: '764ABC', description: 'A badge used for projects using React Redux' },
             'ESLint': { fileName: 'eslint.svg', color: '4B32C3', description: 'A badge used for projects using ESLint' },

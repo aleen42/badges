@@ -59,6 +59,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![reactivex](https://rawgit.com/aleen42/badges/master/src/reactivex.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/reactivex.svg) A badge for projects using ReactiveX
 - [![jasmine](https://rawgit.com/aleen42/badges/master/src/jasmine.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/jasmine.svg) A badge used for projects using Jasmine for unit tests
 - [![visual_studio](https://rawgit.com/aleen42/badges/master/src/visual_studio.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/visual_studio.svg) A badge for the Visual Studio IDE
+- [![visual_studio_code](https://rawgit.com/aleen42/badges/master/src/visual_studio_code.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/visual_studio_code.svg) A badge for the Visual Studio Code IDE
 - [![qunit](https://rawgit.com/aleen42/badges/master/src/qunit.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/qunit.svg) A badge for projects using QUnit for unit tests
 - [![redux](https://rawgit.com/aleen42/badges/master/src/redux.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/redux.svg) A badge used for projects using React Redux
 - [![eslint](https://rawgit.com/aleen42/badges/master/src/eslint.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/eslint.svg) A badge used for projects using ESLint
