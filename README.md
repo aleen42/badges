@@ -73,6 +73,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![gitlab](https://rawgit.com/aleen42/badges/master/src/gitlab.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitlab.svg) A badge used for Gitlab repositories
 - [![grunt](https://rawgit.com/aleen42/badges/master/src/grunt.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/grunt.svg) A badge used for projects using grunt to build
 - [![rss](https://rawgit.com/aleen42/badges/master/src/rss.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/rss.svg) A badge used for RSS subscribing
+- [![plainjs](https://rawgit.com/aleen42/badges/master/src/plainjs.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/plainjs.svg) A badge used for projects that using vanilla JavaScript
 - [![mocha](https://rawgit.com/aleen42/badges/master/src/mocha.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/mocha.svg) A badge used for projects using Mocha for unit tests
 - [![apiary](https://rawgit.com/aleen42/badges/master/src/apiary.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/apiary.svg) A badge used for documents written on Apiary
 - [![docker](https://rawgit.com/aleen42/badges/master/src/docker.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/docker.svg) A badge used for projects deployed on Docker

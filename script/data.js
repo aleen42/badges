@@ -55,6 +55,7 @@ module.exports = [
             'Gitlab': { fileName: 'gitlab.svg', color: 'FC6D26', description: 'A badge used for Gitlab repositories' },
             'Grunt': { fileName: 'grunt.svg', color: 'FBA919', description: 'A badge used for projects using grunt to build' },
             'RSS': { fileName: 'rss.svg', color: 'FF9911', description: 'A badge used for RSS subscribing' },
+            'Vanilla Javascript': { fileName: 'plainjs.svg', color: 'F7DF1E', description: 'A badge used for projects that using vanilla JavaScript' },
             'Mocha': { fileName: 'mocha.svg', color: '8D6748', description: 'A badge used for projects using Mocha for unit tests' },
             'Apiary': { fileName: 'apiary.svg', color: '59C5AC', description: 'A badge used for documents written on Apiary' },
             'Docker': { fileName: 'docker.svg', color: '1D91B4', description: 'A badge used for projects deployed on Docker' },
