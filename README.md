@@ -38,7 +38,11 @@ As for how to create a badge and add it in the collection? There are some steps 
 4. Save the logo in the folder `dist`
 5. Add data for your badge in the file `script/data.js`
     ```js
-    'React Router': { fileName: 'router.svg', color: '62DAFB', description: 'A badge used for projects using React Router' }
+    'React Router': {
+        fileName: 'router.svg',
+        color: '62DAFB',
+        description: 'A badge used for projects using React Router'
+    }
     ```
 5. Run the script by typing `npm run build`
 6. If succeed, the readme file will be automatically updated
@@ -57,7 +61,8 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![router](https://rawgit.com/aleen42/badges/master/src/router.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/router.svg) A badge used for projects using React Router
 - [![modernizr](https://rawgit.com/aleen42/badges/master/src/modernizr.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/modernizr.svg) A badge for projects using Modernizr
 - [![reactivex](https://rawgit.com/aleen42/badges/master/src/reactivex.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/reactivex.svg) A badge for projects using ReactiveX
-- [![jasmine](https://rawgit.com/aleen42/badges/master/src/jasmine.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/jasmine.svg) A badge used for projects using Jasmine for unit tests
+- [![jest](https://rawgit.com/aleen42/badges/master/src/jest.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/jest.svg) A badge used for projects using Jest for testing JavaScript
+- [![jasmine](https://rawgit.com/aleen42/badges/master/src/jasmine.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/jasmine.svg) A badge used for projects using Jasmine for testing JavaScript
 - [![visual_studio](https://rawgit.com/aleen42/badges/master/src/visual_studio.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/visual_studio.svg) A badge for the Visual Studio IDE
 - [![visual_studio_code](https://rawgit.com/aleen42/badges/master/src/visual_studio_code.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/visual_studio_code.svg) A badge for the Visual Studio Code IDE
 - [![qunit](https://rawgit.com/aleen42/badges/master/src/qunit.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/qunit.svg) A badge for projects using QUnit for unit tests
