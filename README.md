@@ -20,9 +20,13 @@ sudo npm install -g badges-cli
 
 Then you can use this command line tool for creating badges yourself:
 
+Take the following command as an example, `t` means text content, and `c` means color. If you want to create a badge with SVG sources, you can specify with `p` to tell the tool where to find your sources. Finally, `o` is used to specify where to export the badge.
+
 ```bash
 badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
 ```
+
+One more thing, according to [the suggestion](https://github.com/facebook/jest/issues/5438#issuecomment-362553867) during creating badges for Jest, this tool has been extended to support skins with `s` to specify, which value can be "light" or "dark" temporarily at this moment.
 
 To uninstall the tool, you can just uninstall it by typing:
 
