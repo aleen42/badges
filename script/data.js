@@ -13,9 +13,9 @@
  *
  *      - Document: data.js
  *      - Author: aleen42
- *      - Description: data for buliding badges
+ *      - Description: data for builiding badges
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Apr 20th, 2017
+ *      - Update Time: Feb 3rd, 2018
  *
  *
  **********************************************************************/
@@ -36,7 +36,10 @@ module.exports = [
             'React Router': { fileName: 'router.svg', color: '62DAFB', description: 'A badge used for projects using React Router' },
             'Modernizr': { fileName: 'modernizr.svg', color: 'D91B77', description: 'A badge for projects using Modernizr' },
             'ReactiveX': { fileName: 'reactivex.svg', color: 'C7008F', description: 'A badge for projects using ReactiveX' },
-            'Jest': { fileName: 'jest.svg', color: '99425b', description: 'A badge used for projects using Jest for testing JavaScript' },
+            'Jest': [
+                { fileName: 'jest.svg', color: '99425b', description: 'A badge used for projects using Jest for testing JavaScript' },
+                { fileName: 'jest.svg', skin: 'light', color: '99425b', description: 'A badge used for projects using Jest for testing JavaScript' }
+            ],
             'Jasmine': { fileName: 'jasmine.svg', color: '8A4182', description: 'A badge used for projects using Jasmine for testing JavaScript' },
             'Visual Studio': { fileName: 'visual_studio.svg', color: '68217A', description: 'A badge for the Visual Studio IDE' },
             'Visual Studio Code': { fileName: 'visual_studio_code.svg', color: '028FD6', description: 'A badge for the Visual Studio Code IDE' },
