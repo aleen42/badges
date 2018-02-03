@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: a script for building README.md
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Apr 20th, 2017
+ *      - Update Time: Feb 3rd, 2018
  *
  *
  **********************************************************************/
@@ -65,7 +65,7 @@ const generateBadge = function (name, badgeItem, index) {
     var output = outputPath + outputName + '.svg';
 
     if (!fs.existsSync(output)) {
-        console.log(execSync('badge -c ' + item.color + ' -t "' + name + '" -p ' + (distPath + item.fileName) + ' -o ' + output, {
+        console.log(execSync('badge -c ' + item.color + ' -s ' + (item.skin || 'dark') + ' -t "' + name + '" -p ' + (distPath + item.fileName) + ' -o ' + output, {
             encoding: 'utf8'
         }));
     }
