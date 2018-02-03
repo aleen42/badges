@@ -17,7 +17,7 @@
  *      - Author: aleen42
  *      - Description: for shell script to use
  *      - Create Time: Mar 20th, 2017
- *      - Update Time: Apr 6th, 2017
+ *      - Update Time: Feb 3rd, 2018
  *
  *
  **********************************************************************/
@@ -36,6 +36,7 @@ const opt = require('node-getopt')
 	.create([
 		['t', 'text=[Any text]', '\tThe text of your badge'],
 		['c', 'color=[RGB value]', '\tThe color of your badge'],
+		['s', 'skin=[Skin]', '\tThe skin of your badge'],
 		['d', 'data=[Image Data Value with base64 encoding]', '\tThe image data value of your badge'],
 		['p', 'path=[SVG Path]', '\tLocal SVG file'],
 		['o', 'output=[File Name]', '\tThe image data value of your badge'],
@@ -71,7 +72,7 @@ if (opt.options.version) {
 \n                More than a coder, More than a designer              \
 \n     ================================================================\
 \n\
-\n         Badges Generator v1.1.4, Copyright © aleen42 2012-2017\n\n');
+\n         Badges Generator v1.1.5, Copyright © aleen42 2012-2018\n\n');
 	return;
 }
 

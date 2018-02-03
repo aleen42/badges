@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: the main entrance for badge
  *      - Create Time: Mar 20th, 2017
- *      - Update Time: Apr 20th, 2017
+ *      - Update Time: Feb 3rd, 2018
  *
  *
  **********************************************************************/
@@ -30,7 +30,13 @@ const execSync = require('child_process').execSync;
  * [map: the map list of width for a single character]
  * @type {[type]}
  */
-const map = require('./map.js');
+const map = require('./map');
+
+/**
+ * [skins: skins for badges]
+ * @type {[type]}
+ */
+const skins = require('./skins');
 
 /**
  * [fs: file system module]
@@ -51,12 +57,15 @@ const badges = {
 			return;
 		}
 
-		options.color = options.color === void 0 ? '000000' : options.color;
-		options.path = options.path === void 0 ? '' : options.path;
-		options.data = options.data === void 0 ? '' : options.data;
-		options.y = options.y === void 0 ? false : !!options.y;
+		options.y = options.y !== void 0;
+		options.skin = skins[options.skin || 'dark'] || skins['dark'];
+		options = Object.assign({
+			color: '000', /** black by default */
+			path: '',
+			data: ''
+		}, options);
 
-		/** calcuate the width of a given text */
+		/** calculate the width of a given text */
 		const textBlockWidth = this.calcWidthOfText(options.text);
 
 		if (!textBlockWidth) {
@@ -90,7 +99,7 @@ const badges = {
 					<rect width="' + totalWidth + '" height="20" rx="3" fill="#fff"/>\
 				</clipPath>\
 				<g clip-path="url(#a)">\
-					<path fill="#555" d="M0 0h' + imgBlockWidth + 'v20H0z"/>\
+					<path fill="#' + options.skin.color + '" d="M0 0h' + imgBlockWidth + 'v20H0z"/>\
 					<path fill="#' + options.color + '" d="M' + imgBlockWidth + ' 0h' + textBlockWidth + 'v20H25z"/>\
 					<path fill="url(#b)" d="M0 0h' + totalWidth + 'v20H0z"/>\
 				</g>\
