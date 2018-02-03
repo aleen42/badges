@@ -26,10 +26,10 @@
   },
   "homepage": "https://github.com/aleen42/badges#readme",
   "dependencies": {
-    "node-getopt": "^0.2.3"
+    "node-getopt": "0.2.3"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^3.2.0"
+    "chai": "3.5.0",
+    "mocha": "3.2.0"
   }
 }
