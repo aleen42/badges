@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: a script for building README.md
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Feb 3rd, 2018
+ *      - Update Time: Feb 12nd, 2018
  *
  *
  **********************************************************************/
@@ -45,8 +45,8 @@ const footerPath = rootPath + 'footer.md';
 const readmePath = rootPath + 'README.md';
 const distPath = rootPath + 'dist/';
 const outputPath = rootPath + 'src/';
-const imgPath = 'https://rawgit.com/aleen42/badges/master/src/';
-const cdnPath = 'https://cdn.rawgit.com/aleen42/badges/master/src/';
+const imgPath = outputPath;
+const linkPath = 'https://github.com/aleen42/badges/blob/master/src/';
 
 const generateBadge = function (name, badgeItem, index) {
     /** check whether badgeItem is an array */
@@ -72,9 +72,9 @@ const generateBadge = function (name, badgeItem, index) {
 
     /** documenting */
     var imgUrl = imgPath + outputName + '.svg';
-    var cdnUrl = cdnPath + outputName + '.svg';
+    var linkUrl = linkPath + outputName + '.svg';
 
-    return '- [![' + fileName + '](' + imgUrl + ')](' + cdnUrl + ') ' + item.description + '\n';
+    return '- [![' + fileName + '](' + imgUrl + ')](' + linkUrl + ') ' + item.description + '\n';
 };
 
 var writingText = '';
