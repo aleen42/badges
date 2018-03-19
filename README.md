@@ -87,6 +87,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![mocha](./src/mocha.svg)](https://aleen42.github.io/badges/src/mocha.svg) A badge used for projects using Mocha for unit tests
 - [![apiary](./src/apiary.svg)](https://aleen42.github.io/badges/src/apiary.svg) A badge used for documents written on Apiary
 - [![docker](./src/docker.svg)](https://aleen42.github.io/badges/src/docker.svg) A badge used for projects deployed on Docker
+- [![typescript](./src/typescript.svg)](https://aleen42.github.io/badges/src/typescript.svg) A badge used for projects that coded with TypeScript
 - [![jsfiddle](./src/jsfiddle.svg)](https://aleen42.github.io/badges/src/jsfiddle.svg) A badge used for projects running on JSFiddle
 - [![webpack](./src/webpack.svg)](https://aleen42.github.io/badges/src/webpack.svg) A badge used for projects built with Webpack
 - [![slack](./src/slack.svg)](https://aleen42.github.io/badges/src/slack.svg) A badge used for projects discussed on Slack
