@@ -31,7 +31,6 @@ module.exports = [
             'Angular': { fileName: 'angular.svg', color: 'DD1B16', description: 'A badge used for repositories which has used the framework, Angular' },
             'npm': { fileName: 'npm.svg', color: 'C12127', description: 'A badge used for npm packages' },
             'Gulp': { fileName: 'gulp.svg', color: 'D34A47', description: 'A badge used for projects using Gulp to build' },
-            'Vue': { fileName: 'vue.svg', color: '435466', description: 'A badge used for repositories which has used the framework, Vue' },
             'React': { fileName: 'react.svg', color: '61DAFB', description: 'A badge used for repositories which has used the framework, React' },
             'React Router': { fileName: 'router.svg', color: '62DAFB', description: 'A badge used for projects using React Router' },
             'Modernizr': { fileName: 'modernizr.svg', color: 'D91B77', description: 'A badge for projects using Modernizr' },
@@ -48,10 +47,12 @@ module.exports = [
             'ESLint': { fileName: 'eslint.svg', color: '4B32C3', description: 'A badge used for projects using ESLint' },
             /** When there are more than one badge to build, use an array, like Gitbook */
             'Gitbook': [
-                { fileName: 'gitbook.png', color: 'B7B7B7', description: 'A badge used for books publish on Gitbook' },
-                { fileName: 'gitbook.svg', color: '3681FC', description: 'A badge used for books publish on Gitbook' }
+                { fileName: 'gitbook.png', color: 'B7B7B7', description: 'A badge used for books publish by Gitbook' },
+                { fileName: 'gitbook.svg', color: '3681FC', description: 'A badge used for books publish by Gitbook' }
             ],
             'Node': { fileName: 'node.svg', color: '689F63', description: 'A badge used for projects built with Node.js' },
+            'Vue': { fileName: 'vue.svg', color: '3eaf7c', description: 'A badge used for repositories which has used the framework, Vue' },
+            'VuePress': { fileName: 'vuepress.svg', color: '3eaf7c', description: 'A badge used for books publish by Vuepress' },
             'Gitter': { fileName: 'gitter.svg', color: '4DB798', description: 'A badge used for projects can be discussed on Gitter' },
             'Atom': { fileName: 'atom.svg', color: '7ECE8D', description: 'A badge for the Atom editor' },
             'Sublime Text': { fileName: 'sublime_text.png', color: 'FFAD46', description: 'A badge for the Sulime Text editor' },

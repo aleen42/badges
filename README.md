@@ -60,7 +60,6 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![angular](./src/angular.svg)](https://aleen42.github.io/badges/src/angular.svg) A badge used for repositories which has used the framework, Angular
 - [![npm](./src/npm.svg)](https://aleen42.github.io/badges/src/npm.svg) A badge used for npm packages
 - [![gulp](./src/gulp.svg)](https://aleen42.github.io/badges/src/gulp.svg) A badge used for projects using Gulp to build
-- [![vue](./src/vue.svg)](https://aleen42.github.io/badges/src/vue.svg) A badge used for repositories which has used the framework, Vue
 - [![react](./src/react.svg)](https://aleen42.github.io/badges/src/react.svg) A badge used for repositories which has used the framework, React
 - [![router](./src/router.svg)](https://aleen42.github.io/badges/src/router.svg) A badge used for projects using React Router
 - [![modernizr](./src/modernizr.svg)](https://aleen42.github.io/badges/src/modernizr.svg) A badge for projects using Modernizr
@@ -73,9 +72,11 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![qunit](./src/qunit.svg)](https://aleen42.github.io/badges/src/qunit.svg) A badge for projects using QUnit for unit tests
 - [![redux](./src/redux.svg)](https://aleen42.github.io/badges/src/redux.svg) A badge used for projects using React Redux
 - [![eslint](./src/eslint.svg)](https://aleen42.github.io/badges/src/eslint.svg) A badge used for projects using ESLint
-- [![gitbook](./src/gitbook_1.svg)](https://aleen42.github.io/badges/src/gitbook_1.svg) A badge used for books publish on Gitbook
-- [![gitbook](./src/gitbook_2.svg)](https://aleen42.github.io/badges/src/gitbook_2.svg) A badge used for books publish on Gitbook
+- [![gitbook](./src/gitbook_1.svg)](https://aleen42.github.io/badges/src/gitbook_1.svg) A badge used for books publish by Gitbook
+- [![gitbook](./src/gitbook_2.svg)](https://aleen42.github.io/badges/src/gitbook_2.svg) A badge used for books publish by Gitbook
 - [![node](./src/node.svg)](https://aleen42.github.io/badges/src/node.svg) A badge used for projects built with Node.js
+- [![vue](./src/vue.svg)](https://aleen42.github.io/badges/src/vue.svg) A badge used for repositories which has used the framework, Vue
+- [![vuepress](./src/vuepress.svg)](https://aleen42.github.io/badges/src/vuepress.svg) A badge used for books publish by Vuepress
 - [![gitter](./src/gitter.svg)](https://aleen42.github.io/badges/src/gitter.svg) A badge used for projects can be discussed on Gitter
 - [![atom](./src/atom.svg)](https://aleen42.github.io/badges/src/atom.svg) A badge for the Atom editor
 - [![sublime_text](./src/sublime_text.svg)](https://aleen42.github.io/badges/src/sublime_text.svg) A badge for the Sulime Text editor
