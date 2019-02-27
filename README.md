@@ -80,6 +80,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![gitter](./src/gitter.svg)](https://aleen42.github.io/badges/src/gitter.svg) A badge used for projects can be discussed on Gitter
 - [![atom](./src/atom.svg)](https://aleen42.github.io/badges/src/atom.svg) A badge for the Atom editor
 - [![sublime_text](./src/sublime_text.svg)](https://aleen42.github.io/badges/src/sublime_text.svg) A badge for the Sulime Text editor
+- [![tensorflow](./src/tensorflow.svg)](https://aleen42.github.io/badges/src/tensorflow.svg) A badge use for projects using Tensorflow
 - [![bower](./src/bower.svg)](https://aleen42.github.io/badges/src/bower.svg) A badge used for bower packages
 - [![gitlab](./src/gitlab.svg)](https://aleen42.github.io/badges/src/gitlab.svg) A badge used for Gitlab repositories
 - [![grunt](./src/grunt.svg)](https://aleen42.github.io/badges/src/grunt.svg) A badge used for projects using grunt to build

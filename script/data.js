@@ -56,6 +56,7 @@ module.exports = [
             'Gitter': { fileName: 'gitter.svg', color: '4DB798', description: 'A badge used for projects can be discussed on Gitter' },
             'Atom': { fileName: 'atom.svg', color: '7ECE8D', description: 'A badge for the Atom editor' },
             'Sublime Text': { fileName: 'sublime_text.png', color: 'FFAD46', description: 'A badge for the Sulime Text editor' },
+            'Tensorflow': { fileName: 'tensorflow.svg', color: 'F8BF3C', description: 'A badge use for projects using Tensorflow' },
             'Bower': { fileName: 'bower.svg', color: 'F68A31', description: 'A badge used for bower packages' },
             'Gitlab': { fileName: 'gitlab.svg', color: 'FC6D26', description: 'A badge used for Gitlab repositories' },
             'Grunt': { fileName: 'grunt.svg', color: 'FBA919', description: 'A badge used for projects using grunt to build' },
