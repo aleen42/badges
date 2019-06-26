@@ -89,7 +89,8 @@ const badges = {
 		}
 
         // language=HTML
-        const content = `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="${totalWidth}" height="20">
+        const content = {
+            'default': `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="${totalWidth}" height="20">
     <linearGradient id="b" x2="0" y2="100%">
         <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
         <stop offset="1" stop-opacity=".1"/>
@@ -111,7 +112,18 @@ const badges = {
         <text x="${leftDistance}" y="15" fill="#010101" fill-opacity=".3">${options.text}</text>
         <text x="${leftDistance}" y="14">${options.text}</text>
     </g>
-</svg>`;
+</svg>`,
+            'flat_square': `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="${totalWidth}" height="20">
+    <g shape-rendering="crispEdges">
+        <path fill="#${options.skin.color}" d="M0 0h${imgBlockWidth}v20H0z"/>
+        <path fill="#${options.color}" d="M${imgBlockWidth} 0h${textBlockWidth}v20H25z"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="${imageData}"/>
+        <text x="${leftDistance}" y="14">${options.text}</text>
+    </g>
+</svg>`
+        }[options.style || 'default'];
 
 		/** start to create a local file */
 		fs.open(options.output, 'wx', err => {

@@ -22,10 +22,10 @@
 
 const SUCCESS = `\x1b[32m${'success '}\x1b[0m`;
 
- /**
-  * [fs: file system module]
-  * @type {[type]}
-  */
+/**
+ * [fs: file system module]
+ * @type {[type]}
+ */
 const fs = require('fs');
 
 /**
@@ -42,16 +42,16 @@ const execSync = require('child_process').execSync;
 const data = require('./data');
 
 const rootPath = './';
-const introductionPath = `${rootPath}introduction.md`;
 const footerPath = `${rootPath}footer.md`;
-const readmePath = `${rootPath}README.md`;
 const distPath = `${rootPath}dist/`;
 const outputPath = `${rootPath}src/`;
 const linkPath = 'https://aleen42.github.io/badges/src/';
 
-const generateBadge = function (name, badgeItem, index) {
+const suffix = (base, suffix) => [base, suffix].filter(x => x).join('_');
+
+const generateBadge = style => (name, badgeItem, index) => {
     /** check whether badgeItem is an array */
-    const {fileName: fname, color, skin, description} = index !== void 0 ? badgeItem[index] : badgeItem;
+    const {fileName: fname, color, skin, description} = badgeItem;
 
     /** extracting name from the file name */
     let fileName = /([\s\S]+)\.[\s\S]+/.exec(fname);
@@ -62,45 +62,36 @@ const generateBadge = function (name, badgeItem, index) {
     }
 
     /** generating */
-    const outputName = index !== void 0 ? fileName + '_' + (index + 1) : fileName;
-    const output = `${outputPath}${outputName}.svg`;
+    const outputName = `${suffix(`${fileName}${index !== void 0 ? `_${index + 1}` : ''}`, style)}.svg`;
+    const output = `${outputPath}${outputName}`;
 
     if (!fs.existsSync(output)) {
-        console.log(execSync(`badge -c ${color} -s ${skin || 'dark'} -t "${name}" -p ${distPath}${fname} -o ${output}`, {
+        console.log(execSync(`badge -c ${color} -s ${skin || 'dark'} -t "${name}" -p ${distPath}${fname} --style=${style} -o ${output}`, {
             encoding: 'utf8'
         }));
     }
 
     /** documenting */
-    return `- [![${fileName}](${outputPath}${outputName}.svg)](${linkPath}${outputName}.svg) ${description}\n`;
+    return `- [![${fileName}](${output})](${linkPath}${outputName}) ${description}\n`;
 };
 
-/** write introduction (remember to rewrite the file) */
-let writingText = fs.readFileSync(introductionPath, 'utf8');
-let i;
-
 /** generate badges and document it */
-for (i = 0; i < data.length; i++) {
-    writingText += '\n### ' + data[i].name + '\n\n';
-
-    for (var j in data[i].data) {
-        var badgeItem = data[i].data[j];
-
+const content = (style = '') => data.reduce((text, {name, data}) => text
+    + `\n### ${name}\n\n`
+    + Object.entries(data).reduce((text, [name, badgeItem]) => {
+        const _generate = generateBadge(style);
         if (Object.prototype.toString.call(badgeItem) === '[object Array]') {
             /** badgeItem is an array */
-            for (var k = 0, itemsLength = badgeItem.length; k < itemsLength; k++) {
-                writingText += generateBadge(j, badgeItem, k);
-            }
+            return text + badgeItem.map((item, j) => {
+                return _generate(name, item, j);
+            }).join('');
         } else {
-            writingText += generateBadge(j, badgeItem);
+            return text + _generate(name, badgeItem);
         }
-    }
+    }, '')
+    + '\n', fs.readFileSync(`${rootPath}/part/${suffix('introduction', style)}.md`, 'utf8'))
+    + fs.readFileSync(`${rootPath}/part/footer.md`, 'utf8');
 
-    writingText += '\n';
-}
-
-/** write footer */
-writingText += fs.readFileSync(footerPath, 'utf8');
-
-fs.writeFileSync(readmePath, writingText);
+fs.writeFileSync(`${rootPath}README.md`, content());
+fs.writeFileSync(`${rootPath}README_flat_square.md`, content('flat_square'));
 console.log(`${SUCCESS}Build completed`);

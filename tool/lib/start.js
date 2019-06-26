@@ -24,6 +24,7 @@
 
 const stats = require('../../package.json');
 const enhance = str => `\x1b[32m${str}\x1b[0m`;
+const optional = str => `\x1b[90m${str}\x1b[0m`;
 const brand = `
                                                                   _
       _____  _                           ____  _                 |_|
@@ -55,6 +56,9 @@ const opt = require('node-getopt')
 		['d', 'data=[Image Data Value with base64 encoding]', '\tThe image data value of your badge'],
 		['p', 'path=[SVG Path]', '\tLocal SVG file'],
 		['o', 'output=[File Name]', '\tThe image data value of your badge'],
+		['', 'style=[Badge Style]', `\tThe badge style
+\t${optional('--style=default')} \t\t\t\tDefault style (${enhance('default')})
+\t${optional('--style=flat_square')} \t\t\t\t\tFlat square style`],
 		['y', '', '\tOverride'],
 		['v', 'version', '\tShow current version'],
 		['h' , 'help', '\tTutorial for this command']
