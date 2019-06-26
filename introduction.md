@@ -8,7 +8,7 @@
     To make badges more standard and acceptable.
 </p>
 
-[![badges](./aleen42.svg)](https://github.com/aleen42/badges/blob/master/aleen42.svg)
+![npm](https://aleen42.github.io/badges/src/npm.svg) ![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20688L-f1e05a.svg) ![html](https://img.shields.io/badge/%20%20HTML-%20%20%20%2043L-e34c26.svg)
 
 A collection of badges designed for personal repositories, and I hope that all of these badges can be widely accepted and used in the document of any project so that they can become more and more standard. If you also have some new ideas about badges, just open an issue. Always remember that: **More than a coder, more than a designer.**
 
