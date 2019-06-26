@@ -5,6 +5,7 @@
   "main": "./tool/lib/index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha ./tool/test/ --reporter spec",
+    "debug": "npm rm -g cls-cli && npm link",
     "build": "npm run build:document",
     "build:document": "node ./script/setup.js"
   },

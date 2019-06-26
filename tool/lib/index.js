@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: the main entrance for badge
  *      - Create Time: Mar 20th, 2017
- *      - Update Time: Feb 3rd, 2018
+ *      - Update Time: Jun 26th, 2019
  *
  *
  **********************************************************************/
@@ -44,16 +44,19 @@ const skins = require('./skins');
  */
 const fs = require('fs');
 
+const ERROR = `\x1b[31m${'error   '}\x1b[0m`;
+const SUCCESS = `\x1b[32m${'success '}\x1b[0m`;
+
 const badges = {
 	run: function (options) {
 		/** options validation */
 		if (options.text === void 0) {
-			console.log('[Error: miss text]');
+			console.log(`${ERROR} Text missed`);
 			return;
 		}
 
 		if (options.output === void 0) {
-			console.log('[Error: miss output name]');
+			console.log(`${ERROR} Missed Output Name`);
 			return;
 		}
 
@@ -66,107 +69,84 @@ const badges = {
 		}, options);
 
 		/** calculate the width of a given text */
-		const textBlockWidth = this.calcWidthOfText(options.text);
+		const textBlockWidth = calcWidthOfText(options.text);
 
 		if (!textBlockWidth) {
-			console.log('[Error: the text should be composed with Ascii characters]');
+			console.log(`${ERROR} Text contains non-ascii characters`);
 			return;
 		}
 
 		const imgBlockWidth = 25;
-		const totalWidth = imgBlockWidth + textBlockWidth;
-		const leftDistance = imgBlockWidth + textBlockWidth / 2 - 1;
-		var imageData = '';
+		const [totalWidth, leftDistance] = [imgBlockWidth + textBlockWidth, imgBlockWidth + textBlockWidth / 2 - 1];
 
+		let imageData = options.data;
 		if (options.path !== '') {
-			if (/[\s\S]*?\.svg$/i.test(options.path)) {
-				imageData = 'data:image/svg+xml;base64,' + fs.readFileSync(options.path).toString('base64');
-			}
-
-			if (/[\s\S]*?\.(?:gif|png|jpg|jpeg)$/i.test(options.path)) {
-				imageData = 'data:image;base64,' + fs.readFileSync(options.path).toString('base64');
-			}
-		} else {
-			imageData = options.data;
+		    const content = fs.readFileSync(options.path).toString('base64');
+		    // vector
+            /[\s\S]*?\.svg$/i.test(options.path) && (imageData = `data:image/svg+xml;base64,${content}`);
+            // image
+            /[\s\S]*?\.(?:gif|png|jpg|jpeg)$/i.test(options.path) && (imageData = `data:image;base64,${fs.readFileSync(options.path).toString('base64')}`);
 		}
 
-		const content = '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="' + totalWidth + '" height="20">\
-				<linearGradient id="b" x2="0" y2="100%">\
-					<stop offset="0" stop-color="#bbb" stop-opacity=".1"/>\
-					<stop offset="1" stop-opacity=".1"/>\
-				</linearGradient>\
-				<clipPath id="a">\
-					<rect width="' + totalWidth + '" height="20" rx="3" fill="#fff"/>\
-				</clipPath>\
-				<g clip-path="url(#a)">\
-					<path fill="#' + options.skin.color + '" d="M0 0h' + imgBlockWidth + 'v20H0z"/>\
-					<path fill="#' + options.color + '" d="M' + imgBlockWidth + ' 0h' + textBlockWidth + 'v20H25z"/>\
-					<path fill="url(#b)" d="M0 0h' + totalWidth + 'v20H0z"/>\
-				</g>\
-				<g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">\
-					<image x="5" y="3" width="14" height="14" xlink:href="' + imageData + '"/>\
-					<text x="19.5" y="15" fill="#010101" fill-opacity=".3"></text>\
-					<text x="19.5" y="14"></text>\
-					<text x="' + leftDistance + '" y="15" fill="#010101" fill-opacity=".3">' + options.text + '</text>\
-					<text x="' + leftDistance + '" y="14">' + options.text + '</text>\
-				</g>\
-			</svg>';
+        // language=HTML
+        const content = `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="${totalWidth}" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="${totalWidth}" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#${options.skin.color}" d="M0 0h${imgBlockWidth}v20H0z"/>
+        <path fill="#${options.color}" d="M${imgBlockWidth} 0h${textBlockWidth}v20H25z"/>
+        <path fill="url(#b)" d="M0 0h${totalWidth}v20H0z"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="${imageData}"/>
+        <text x="19.5" y="15" fill="#010101" fill-opacity=".3"></text>
+        <text x="19.5" y="14"></text>
+        <text x="${leftDistance}" y="15" fill="#010101" fill-opacity=".3">${options.text}</text>
+        <text x="${leftDistance}" y="14">${options.text}</text>
+    </g>
+</svg>`;
 
 		/** start to create a local file */
-		fs.open(options.output, 'wx', function (err, fd) {
-			if (err) {
-				if (!options.y && err.code === "EEXIST") {
-					console.log('[Error: file already exists]');
-					return;
-				}
+		fs.open(options.output, 'wx', err => {
+			if (err && !options.y && err.code === 'EEXIST') {
+                console.log(`${ERROR} File already exists`);
+                return;
 			}
 
 			/** write to the file when it is not existed */
-			fs.writeFile(options.output, content.split('\t').join(''), function (err) {
+			fs.writeFile(options.output, content.split('\t').join(''), err => {
 				if (err) {
-					console.log('[Error: failed to create such file]');
+					console.log(`${ERROR} Failed to create the file`);
 					return;
 				}
 
-				console.log('[Success: succeed in creating a badge of `' + options.text + '`]');
+				console.log(`${SUCCESS}Create a badge for ${options.text}`);
 			});
 		});
-	},
-
-	calcWidthOfText: function (text) {
-		/** start to calculate the width of text */
-		var width = 0;
-		var len = text.length;
-
-        const padding = 3;
-
-		for (var i = 0; i < len; i++) {
-			var chCode = text.charCodeAt(i);
-			var chLen = map[chCode];
-
-            /** 13px for the width of non-ascii characters */
-			width += chLen ? chLen : (chCode >= 0 && chCode <= 127 ? 0 : 13);
-		}
-
-		return width + padding * 2;
 	},
 
 	/**
 	 * [test: test function of this module]
 	 * @return {[type]}    [description]
 	 */
-	test: function () {
-		return execSync('badge -h').toString();
-	},
-
-    /**
-     * [testWidth: test function for calculating widh of strings]
-     * @param  {[type]} strings [description]
-     * @return {[type]}         [description]
-     */
-    testWidth: function (strings) {
-        return this.calcWidthOfText(strings);
-    }
+	test: () => execSync('badge -h').toString(),
 };
+
+/** start to calculate the width of text */
+function calcWidthOfText(text) {
+    return text.split('').reduce((width, ch, index) => {
+        const chCode = text.charCodeAt(index);
+        const chLen = map[chCode];
+        /** 13px for the width of non-ascii characters */
+        return width += chLen ? chLen : (chCode >= 0 && chCode <= 127 ? 0 : 13);
+    }, 0) + 3 /** padding */ * 2;
+}
 
 module.exports = badges;

@@ -17,10 +17,25 @@
  *      - Author: aleen42
  *      - Description: for shell script to use
  *      - Create Time: Mar 20th, 2017
- *      - Update Time: Feb 3rd, 2018
+ *      - Update Time: Jun 26th, 2019
  *
  *
  **********************************************************************/
+
+const stats = require('../../package.json');
+const enhance = str => `\x1b[32m${str}\x1b[0m`;
+const brand = `
+                                                                  _
+      _____  _                           ____  _                 |_|
+     |  _  |/ \\   ____  ____ __ ___     / ___\\/ \\   __   _  ____  _
+     | |_| || |  / __ \\/ __ \\\\ '_  \\ _ / /    | |___\\ \\ | |/ __ \\| |
+     |  _  || |__. ___/. ___/| | | ||_|\\ \\___ |  _  | |_| |. ___/| |
+     |_/ \\_|\\___/\\____|\\____||_| |_|    \\____/|_| |_|_____|\\____||_| 
+                                                                     
+     ================================================================
+                More than a coder, More than a designer              
+     ================================================================
+`;
 
 /**
  * [badge: import the module]
@@ -44,35 +59,18 @@ const opt = require('node-getopt')
 		['v', 'version', '\tShow current version'],
 		['h' , 'help', '\tTutorial for this command']
 	])
-	.setHelp('\
-\n\n\nUseAge: badge -t <text> -o <output-file> [-c <color-value> -p <image-path>]\
-\n                                                                  _\
-\n      _____  _                           ____  _                 |_|\
-\n     |  _  |/ \\   ____  ____ __ ___     / ___\\/ \\   __   _  ____  _\
-\n     | |_| || |  / __ \\/ __ \\\\ \'_  \\ _ / /    | |___\\ \\ | |/ __ \\| |\
-\n     |  _  || |__. ___/. ___/| | | ||_|\\ \\___ |  _  | |_| |. ___/| |\
-\n     |_/ \\_|\\___/\\____|\\____||_| |_|    \\____/|_| |_|_____|\\____||_| \
-\n                                                                     \
-\n     ================================================================\
-\n                More than a coder, More than a designer              \
-\n     ================================================================\n\n\n\n[[OPTIONS]]\n\n\n\n')
+    .setHelp(`${brand}
+\tVersion: ${enhance(stats.version)}
+\tUsage: badge -t ${enhance('<text>')} -o ${enhance('<output-file>')} [-c ${enhance('<color-value>')} -p ${enhance('<image-path>')}]
+
+[[OPTIONS]]`)
 	.bindHelp()
 	.parseSystem();
 
-if (opt.options.version) {
-	console.log('\n\
-\n                                                                  _\
-\n      _____  _                           ____  _                 |_|\
-\n     |  _  |/ \\   ____  ____ __ ___     / ___\\/ \\   __   _  ____  _\
-\n     | |_| || |  / __ \\/ __ \\\\ \'_  \\ _ / /    | |___\\ \\ | |/ __ \\| |\
-\n     |  _  || |__. ___/. ___/| | | ||_|\\ \\___ |  _  | |_| |. ___/| |\
-\n     |_/ \\_|\\___/\\____|\\____||_| |_|    \\____/|_| |_|_____|\\____||_| \
-\n                                                                     \
-\n     ================================================================\
-\n                More than a coder, More than a designer              \
-\n     ================================================================\
-\n\
-\n         Badges Generator v1.1.5, Copyright © aleen42 2012-2018\n\n');
+const {version} = opt.options;
+if (version) {
+    console.log(`${brand}
+\t\tBadges v${enhance(stats.version)}, Copyright © aleen42 2012-2019`);
 	return;
 }
 
