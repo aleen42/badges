@@ -1,4 +1,4 @@
-## badges
+## badges (flat-square)
 
 <p align="center">
     <img src="./badges.png" width="20%" />
@@ -9,6 +9,8 @@
 </p>
 
 ![npm](https://aleen42.github.io/badges/src/npm_flat_square.svg) ![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20688L-f1e05a.svg?style=flat-square) ![html](https://img.shields.io/badge/%20%20HTML-%20%20%20%2043L-e34c26.svg?style=flat-square)
+
+Alternative: [**default**](./README.md), [**flat-square**](./README_flat_square.md).
 
 A collection of badges designed for personal repositories, and I hope that all of these badges can be widely accepted and used in the document of any project so that they can become more and more standard. If you also have some new ideas about badges, just open an issue. Always remember that: **More than a coder, more than a designer.**
 
