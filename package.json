@@ -27,7 +27,8 @@
   },
   "homepage": "https://github.com/aleen42/badges#readme",
   "dependencies": {
-    "node-getopt": "0.2.3"
+    "node-getopt": "0.2.3",
+    "@ctrl/tinycolor": "3.1.4"
   },
   "devDependencies": {
     "chai": "3.5.0",

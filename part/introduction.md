@@ -10,7 +10,7 @@
 
 ![npm](https://aleen42.github.io/badges/src/npm.svg) ![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20688L-f1e05a.svg) ![html](https://img.shields.io/badge/%20%20HTML-%20%20%20%2043L-e34c26.svg)
 
-Alternative: [**default**](./README.md), [**flat-square**](./README_flat_square.md).
+Alternative: [**default**](./README.md)<!-- @IGNORE PREVIOUS: link -->, [**flat-square**](./README_flat_square.md)<!-- @IGNORE PREVIOUS: link -->, [**dynamic-fore-color**](./README_dfc.md)<!-- @IGNORE PREVIOUS: link -->, [**dynamic-fore-color (flat_square)**](./README_flat_square_dfc.md)<!-- @IGNORE PREVIOUS: link -->.
 
 A collection of badges designed for personal repositories, and I hope that all of these badges can be widely accepted and used in the document of any project so that they can become more and more standard. If you also have some new ideas about badges, just open an issue. Always remember that: **More than a coder, more than a designer.**
 
@@ -25,7 +25,7 @@ Then you can use this command line tool for creating badges yourself:
 Take the following command as an example, `t` means text content, and `c` means color. If you want to create a badge with SVG sources, you can specify with `p` to tell the tool where to find your sources. Finally, `o` is used to specify where to export the badge.
 
 ```bash
-badge -t Alipay -c 1CACEB -p alipay.svg -o output.svg
+badge {{ARGS}}
 ```
 
 One more thing, according to [the suggestion](https://github.com/facebook/jest/issues/5438#issuecomment-362553867) during creating badges for Jest, this tool has been extended to support skins with `s` to specify, which value can be "light" or "dark" temporarily at this moment.
@@ -44,11 +44,14 @@ As for how to create a badge and add it in the collection? There are some steps 
 4. Save the logo in the folder `dist`
 5. Add data for your badge in the file `script/data.js`
     ```js
-    'React Router': {
-        fileName: 'router.svg',
-        color: '62DAFB',
-        description: 'A badge used for projects using React Router'
-    }
+   const data = { 
+        // ...
+        'React Router': {
+            fileName: 'router.svg',
+            color: '62DAFB',
+            description: 'A badge used for projects using React Router'
+        }
+    };
     ```
 5. Run the script by typing `npm run build`
 6. If succeed, the readme file will be automatically updated

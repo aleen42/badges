@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="20">
+    <g shape-rendering="crispEdges">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#205296" d="M25 0h105v20H25z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNy4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IuWbvuWxgl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9IjUwMHB4IiBoZWlnaHQ9IjUwMHB4IiB2aWV3Qm94PSIwIDAgNTAwIDUwMCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTAwIDUwMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cmVjdCB4PSIzOS4wMjciIHk9IjIxOS43OTkiIGZpbGw9IiMzNzZEQjYiIHdpZHRoPSIzOTguODcxIiBoZWlnaHQ9IjgyLjEyIi8+DQo8cmVjdCB4PSIzOS4wMjciIHk9IjExMy42ODMiIGZpbGw9IiM0Q0EyREEiIHdpZHRoPSIzOTguODcxIiBoZWlnaHQ9IjgyLjEyIi8+DQo8cGF0aCBmaWxsPSIjOTFEOEY0IiBkPSJNMzc1LjUwNywzLjgzM2gtMjcyLjQ5Yy0zNS4xOTQsMC02My45OSwyOS4zMjktNjMuOTksNjUuNTl2MjEuMzNoMzk4Ljg3MXYtMjEuMzMNCglDNDM3Ljg5NywzMy4xNjIsNDEwLjE2OCwzLjgzMywzNzUuNTA3LDMuODMzeiIvPg0KPHBhdGggZmlsbD0iIzFFNTM5NyIgZD0iTTM5LjAyNywzMjUuMzgzdjIxLjMzYzAsMzYuMjYxLDI4Ljc5NSw2NS41OSw2My45OSw2NS41OWgxNzAuNjR2ODYuOTJsODQuMjUzLTg2LjkyaDE4LjY2NA0KCWMzNS4xOTQsMCw2My45OS0yOS4zMjksNjMuOTktNjUuNTl2LTIxLjMzSDM5LjAyN3oiLz4NCjwvc3ZnPg0K"/>
+        <text x="76.5" y="14">Stack Exchange</text>
+    </g>
+</svg>

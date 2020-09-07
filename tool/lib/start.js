@@ -17,14 +17,13 @@
  *      - Author: aleen42
  *      - Description: for shell script to use
  *      - Create Time: Mar 20th, 2017
- *      - Update Time: Jun 26th, 2019
+ *      - Update Time: Sep 7th, 2020
  *
  *
  **********************************************************************/
 
 const stats = require('../../package.json');
 const enhance = str => `\x1b[32m${str}\x1b[0m`;
-const optional = str => `\x1b[90m${str}\x1b[0m`;
 const brand = `
                                                                   _
       _____  _                           ____  _                 |_|
@@ -51,14 +50,22 @@ const badge = require('./index');
 const opt = require('node-getopt')
 	.create([
 		['t', 'text=[Any text]', '\tThe text of your badge'],
-		['c', 'color=[RGB value]', '\tThe color of your badge'],
-		['s', 'skin=[Skin]', '\tThe skin of your badge'],
+        ['', 'dynamic-fore-color', '\tDynamic Fore Color'],
+		['c', 'color=[Color Value]', `\tThe color of your badge
+\t${enhance('--color=#000')} \t\t\t\t\tBlack background (${enhance('default')})
+\t${enhance('--color=rgb(0, 0, 0)')} \t\t\t\tBlack background
+\t${enhance('--color=black')} \t\t\t\t\tBlack background
+`],
+		['s', 'skin=[Skin]', `\tThe skin of your badge
+\t${enhance('--skin=dark')} \t\t\t\t\tDark theme (${enhance('default')})
+\t${enhance('--skin=light')} \t\t\t\t\tLight theme
+`],
 		['d', 'data=[Image Data Value with base64 encoding]', '\tThe image data value of your badge'],
 		['p', 'path=[SVG Path]', '\tLocal SVG file'],
 		['o', 'output=[File Name]', '\tThe image data value of your badge'],
 		['', 'style=[Badge Style]', `\tThe badge style
-\t${optional('--style=default')} \t\t\t\tDefault style (${enhance('default')})
-\t${optional('--style=flat_square')} \t\t\t\t\tFlat square style`],
+\t${enhance('--style=default')} \t\t\t\tDefault style (${enhance('default')})
+\t${enhance('--style=flat_square')} \t\t\t\tFlat square style`],
 		['y', '', '\tOverride'],
 		['v', 'version', '\tShow current version'],
 		['h' , 'help', '\tTutorial for this command']

@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: a script for building README.md
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Jun 26th, 2019
+ *      - Update Time: Sep 7th, 2020
  *
  *
  **********************************************************************/
@@ -42,14 +42,13 @@ const execSync = require('child_process').execSync;
 const data = require('./data');
 
 const rootPath = './';
-const footerPath = `${rootPath}footer.md`;
 const distPath = `${rootPath}dist/`;
 const outputPath = `${rootPath}src/`;
 const linkPath = 'https://aleen42.github.io/badges/src/';
 
-const suffix = (base, suffix) => [base, suffix].filter(x => x).join('_');
+const suffix = (base, ...suffix) => [base, ...suffix].filter(x => x).join('_');
 
-const generateBadge = style => (name, badgeItem, index) => {
+const generateBadge = (style, dfc) => (name, badgeItem, index) => {
     /** check whether badgeItem is an array */
     const {fileName: fname, color, skin, description} = badgeItem;
 
@@ -62,11 +61,19 @@ const generateBadge = style => (name, badgeItem, index) => {
     }
 
     /** generating */
-    const outputName = `${suffix(`${fileName}${index !== void 0 ? `_${index + 1}` : ''}`, style)}.svg`;
+    const outputName = `${suffix(`${fileName}${index !== void 0 ? `_${index + 1}` : ''}`, style, dfc ? 'dfc' : '')}.svg`;
     const output = `${outputPath}${outputName}`;
 
     if (!fs.existsSync(output)) {
-        console.log(execSync(`badge -c ${color} -s ${skin || 'dark'} -t "${name}" -p ${distPath}${fname} --style=${style} -o ${output}`, {
+        console.log(execSync(`badge ${[
+            ...dfc ? ['--dynamic-fore-color'] : [''],
+            `-c ${color}`,
+            `-s ${skin || 'dark'}`,
+            `-t "${name}"`,
+            `-p ${distPath}${fname}`,
+            `--style=${style}`,
+            `-o ${output}`,
+        ].join(' ')}`, {
             encoding: 'utf8'
         }));
     }
@@ -76,10 +83,10 @@ const generateBadge = style => (name, badgeItem, index) => {
 };
 
 /** generate badges and document it */
-const content = (style = '') => data.reduce((text, {name, data}) => text
+const content = (style = '', dfc) => data.reduce((text, {name, data}) => text
     + `\n### ${name}\n\n`
     + Object.entries(data).reduce((text, [name, badgeItem]) => {
-        const _generate = generateBadge(style);
+        const _generate = generateBadge(style, dfc);
         if (Object.prototype.toString.call(badgeItem) === '[object Array]') {
             /** badgeItem is an array */
             return text + badgeItem.map((item, j) => {
@@ -89,9 +96,18 @@ const content = (style = '') => data.reduce((text, {name, data}) => text
             return text + _generate(name, badgeItem);
         }
     }, '')
-    + '\n', fs.readFileSync(`${rootPath}/part/${suffix('introduction', style)}.md`, 'utf8'))
+    + '\n', fs.readFileSync(`${rootPath}/part/introduction.md`, 'utf8')
+        .replace(/{{ARGS}}/, [
+            '-t Alipay', '-c "#1CACEB"',  '-p alipay.svg',
+            ...style ? [`--style=${style}`] : [],
+            ...dfc ? [`--dynamic-fore-color`] : [],
+            '-o output.svg',
+        ].join(' '))
+        .replace(/<!-- @IGNORE PREVIOUS: link -->/g, ''))
     + fs.readFileSync(`${rootPath}/part/footer.md`, 'utf8');
 
 fs.writeFileSync(`${rootPath}README.md`, content());
 fs.writeFileSync(`${rootPath}README_flat_square.md`, content('flat_square'));
+fs.writeFileSync(`${rootPath}README_dfc.md`, content('', true));
+fs.writeFileSync(`${rootPath}README_flat_square_dfc.md`, content('flat_square', true));
 console.log(`${SUCCESS}Build completed`);

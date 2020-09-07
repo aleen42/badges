@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89" height="20">
+    <g shape-rendering="crispEdges">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#2ea5d8" d="M25 0h64v20H25z"/>
+    </g>
+    <g fill="#333"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDI0MCAyNDAiPgo8ZGVmcz4KCTxsaW5lYXJHcmFkaWVudCBpZD0iYiIgeDE9IjAuNjY2NyIgeTE9IjAuMTY2NyIgeDI9IjAuNDE2NyIgeTI9IjAuNzUiPgoJCTxzdG9wIHN0b3AtY29sb3I9IiMzN2FlZTIiIG9mZnNldD0iMCIvPgoJCTxzdG9wIHN0b3AtY29sb3I9IiMxZTk2YzgiIG9mZnNldD0iMSIvPgoJPC9saW5lYXJHcmFkaWVudD4KCTxsaW5lYXJHcmFkaWVudCBpZD0idyIgeDE9IjAuNjU5NyIgeTE9IjAuNDM2OSIgeDI9IjAuODUxMiIgeTI9IjAuODAyNCI+CgkJPHN0b3Agc3RvcC1jb2xvcj0iI2VmZjdmYyIgb2Zmc2V0PSIwIi8+CgkJPHN0b3Agc3RvcC1jb2xvcj0iI2ZmZiIgb2Zmc2V0PSIxIi8+Cgk8L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+CjxjaXJjbGUgY3g9IjEyMCIgY3k9IjEyMCIgcj0iMTIwIiBmaWxsPSJ1cmwoI2IpIi8+CjxwYXRoIGZpbGw9IiNjOGRhZWEiIGQ9Im05OCAxNzVjLTMuODg3NiAwLTMuMjI3LTEuNDY3OS00LjU2NzgtNS4xNjk1TDgyIDEzMi4yMDU5IDE3MCA4MCIvPgo8cGF0aCBmaWxsPSIjYTljOWRkIiBkPSJtOTggMTc1YzMgMCA0LjMyNTUtMS4zNzIgNi0zbDE2LTE1LjU1OC0xOS45NTgtMTIuMDM1Ii8+CjxwYXRoIGZpbGw9InVybCgjdykiIGQ9Im0xMDAuMDQgMTQ0LjQxIDQ4LjM2IDM1LjcyOWM1LjUxODUgMy4wNDQ5IDkuNTAxNCAxLjQ2ODQgMTAuODc2LTUuMTIzNWwxOS42ODUtOTIuNzYzYzIuMDE1NC04LjA4MDItMy4wODAxLTExLjc0NS04LjM1OTQtOS4zNDgybC0xMTUuNTkgNDQuNTcxYy03Ljg5MDEgMy4xNjQ3LTcuODQ0MSA3LjU2NjYtMS40MzgyIDkuNTI4bDI5LjY2MyA5LjI1ODMgNjguNjczLTQzLjMyNWMzLjI0MTktMS45NjU5IDYuMjE3My0wLjkwODk5IDMuNzc1MiAxLjI1ODQiLz4KPC9zdmc+"/>
+        <text x="56" y="14">Telegram</text>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="20">
+    <g shape-rendering="crispEdges">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#237dac" d="M25 0h57v20H25z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjI1NnB4IiBoZWlnaHQ9IjI1NnB4IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWluWU1pbiBtZWV0Ij4KCTxnPgoJCTxwYXRoIGQ9Ik0yNTYsMTI4IEMyNTYsMTk4LjY5MiAxOTguNjkyLDI1NiAxMjgsMjU2IEM1Ny4zMDcsMjU2IDAsMTk4LjY5MiAwLDEyOCBDMCw1Ny4zMDcgNTcuMzA3LDAgMTI4LDAgQzE5OC42OTIsMCAyNTYsNTcuMzA3IDI1NiwxMjgiIGZpbGw9IiMyMzdEQUMiPjwvcGF0aD4KCQk8cGF0aCBkPSJNMTI5LjI4Myw2MC43MzEgQzEyOS4yODMsNjAuNzMxIDE2OS4xMjIsMTI1LjYwMSAxNjkuMTIyLDE0OS4yMzEgQzE2OS4xMjIsMTY4LjA3IDE2MC4zMTIsMTkwLjczNiAxMjkuMjgzLDE5MC43MzYgQzk4LjI1NCwxOTAuNzM2IDg5LjQyOSwxNjguMDU3IDg5LjQyOSwxNDkuMjE5IEM4OS40MjksMTI2LjQwMSAxMjkuMjgzLDYwLjczMSAxMjkuMjgzLDYwLjczMSIgZmlsbD0iI0ZGRkZGRiI+PC9wYXRoPgoJCTxwYXRoIGQ9Ik0xMDAuNTMyLDgyLjUxOCBDMTAwLjUzMiw4Mi41MTggMTI1LjYwNiwxMjMuMzQ2IDEyNS42MDYsMTM4LjIxOSBDMTI1LjYwNiwxNTAuMDc2IDEyMC4wNjEsMTY0LjM0MiAxMDAuNTMyLDE2NC4zNDIgQzgxLjAwMiwxNjQuMzQyIDc1LjQ0OCwxNTAuMDY4IDc1LjQ0OCwxMzguMjExIEM3NS40NDgsMTIzLjg1IDEwMC41MzIsODIuNTE4IDEwMC41MzIsODIuNTE4IiBmaWxsPSIjNjFBQUQ0Ij48L3BhdGg+Cgk8L2c+Cjwvc3ZnPg=="/>
+        <text x="52.5" y="14">Codrops</text>
+    </g>
+</svg>
