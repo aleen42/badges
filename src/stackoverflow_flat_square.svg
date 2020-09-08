@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="127" height="20">
     <g shape-rendering="crispEdges">
         <path fill="#555" d="M0 0h25v20H0z"/>
-        <path fill="#F48023" d="M25 0h102v20H25z"/>
+        <path fill="#f48023" d="M25 0h102v20H25z"/>
     </g>
-    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
         <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNy4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IuWbvuWxgl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9IjUwMHB4IiBoZWlnaHQ9IjUwMHB4IiB2aWV3Qm94PSIwIDAgNTAwIDUwMCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTAwIDUwMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cG9seWdvbiBmaWxsPSIjQkNCQkJCIiBwb2ludHM9IjM5Ny4zNiw0NTMuNjc1IDM5Ny4zNiwzMjEuNDc2IDQ0MS4yMzYsMzIxLjQ3NiA0NDEuMjM2LDQ5Ny41NTEgNDUuMjA4LDQ5Ny41NTEgNDUuMjA4LDMyMS40NzYgDQoJODkuMDg1LDMyMS40NzYgODkuMDg1LDQ1My42NzUgIi8+DQo8cGF0aCBmaWxsPSIjRjQ4MDIzIiBkPSJNMTM3LjUyLDMwOC45MzlsMjE1LjM5NCw0NS4wMTZsOS4xMTctNDMuMzA3bC0yMTUuMzk0LTQ1LjAxNkwxMzcuNTIsMzA4LjkzOXogTTE2Ni4wMTEsMjA2LjM3MQ0KCWwxOTkuNDM5LDkyLjg4MWwxOC4yMzQtMzkuODg4bC0xOTkuNDM5LTkzLjQ1MUwxNjYuMDExLDIwNi4zNzF6IE0yMjEuMjg0LDEwOC4zNjFsMTY5LjIzOCwxNDAuNzQ3bDI3LjkyMS0zMy42MkwyNDkuMjA1LDc0Ljc0Mg0KCUwyMjEuMjg0LDEwOC4zNjF6IE0zMzAuNjksNC4wODNsLTM1LjMyOSwyNi4yMTJsMTMxLjA2LDE3Ni42NDZsMzUuMzI5LTI2LjIxMkwzMzAuNjksNC4wODN6IE0xMzIuOTYxLDQwOS4yMjloMjE5Ljk1MnYtNDMuODc2DQoJSDEzMi45NjFWNDA5LjIyOXoiLz4NCjwvc3ZnPg0K"/>
         <text x="75" y="14">Stack Overflow</text>
     </g>

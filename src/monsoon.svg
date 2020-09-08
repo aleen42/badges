@@ -10,14 +10,13 @@
 
     <g clip-path="url(#a)">
         <path fill="#555" d="M0 0h25v20H0z"/>
-        <path fill="#64AA51" d="M25 0h60v20H25z"/>
+        <path fill="#64aa51" d="M25 0h60v20H25z"/>
         <path fill="url(#b)" d="M0 0h85v20H0z"/>
     </g>
-    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
         <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNy4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IuWbvuWxgl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9IjUwMHB4IiBoZWlnaHQ9IjUwMHB4IiB2aWV3Qm94PSIwIDAgNTAwIDUwMCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTAwIDUwMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBmaWxsPSIjOURDNzNGIiBkPSJNMTI3Ljg1MywxODEuMTk3bDI5MC4xLTcxLjcxbDc5Ljg1NywzNzguMTA0bC0zNzQuODQ2LTYuNTE4TDEyNy44NTMsMTgxLjE5N3ogTTE2Ni4yMTIsMjEzLjM4OA0KCWw0LjA1MywyMDkuOTg1bDI0MC43OTQtNy4yOTdsLTM4LjkxNi0yNDYuNDY5TDE2Ni4yMTIsMjEzLjM4OHoiLz4NCjxnPg0KCTxnPg0KCQk8cGF0aCBmaWxsPSIjNjRBQTUxIiBkPSJNOC41MzQsODMuMDk3bDI5MC4xLTcxLjcxbDc5Ljg1NywzNzguMTA0TDMuNjQ2LDM4Mi45NzNMOC41MzQsODMuMDk3eiBNNDYuODkzLDExNS4yODdsNC4wNTMsMjA5Ljk4NQ0KCQkJbDI0MC43OTQtNy4yOTdMMjUyLjgyNSw3MS41MDdMNDYuODkzLDExNS4yODd6Ii8+DQoJPC9nPg0KPC9nPg0KPC9zdmc+DQo="/>
-        <text x="19.5" y="15" fill="#010101" fill-opacity=".3"></text>
-        <text x="19.5" y="14"></text>
-        <text x="54" y="15" fill="#010101" fill-opacity=".3">Monsoon</text>
+        <text x="54" y="14.6" fill="#010101" fill-opacity=".3">Monsoon</text>
         <text x="54" y="14">Monsoon</text>
     </g>
 </svg>

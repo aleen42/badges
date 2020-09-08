@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="20">
     <g shape-rendering="crispEdges">
         <path fill="#555" d="M0 0h25v20H0z"/>
-        <path fill="#DD1B16" d="M25 0h55v20H25z"/>
+        <path fill="#dd1b16" d="M25 0h55v20H25z"/>
     </g>
-    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
         <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNy4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IuWbvuWxgl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9IjUwMHB4IiBoZWlnaHQ9IjUwMHB4IiB2aWV3Qm94PSIwIDAgNTAwIDUwMCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTAwIDUwMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8ZyBpZD0iZzQ4Ij4NCgk8cG9seWdvbiBpZD0icG9seWdvbjUwIiBmaWxsPSIjQjNCM0IzIiBwb2ludHM9IjU1LjY3OCwzOTIuMjM1IDI1Mi40NTEsNTAwLjM4NSA0NTAuMjM3LDM5MC43NyA0ODcuMTA4LDg0Ljk3OCAyNTIuMjAzLDQuMjkgDQoJCTE4Ljc5NCw4Ni40MzEgCSIvPg0KCTxwb2x5Z29uIGlkPSJwb2x5Z29uNTIiIGZpbGw9IiNBNjEyMEQiIHBvaW50cz0iMjUxLjY1OCw0NzQuNTQ2IDQyOS40NjUsMzc2LjE0IDQ2My44MjYsMTAyLjY1MSAyNTEuNjU4LDMwLjI5OSAJIi8+DQoJPHBvbHlnb24gaWQ9InBvbHlnb241NCIgZmlsbD0iI0REMUIxNiIgcG9pbnRzPSIyNTEuNjU1LDQ3NC41NDYgMjUxLjY1NSwzMC4yOSA0NC45ODYsMTAzLjk1NSA3Ni41OTIsMzc3LjQ0NyAJIi8+DQoJPHBhdGggaWQ9InBhdGg1NiIgZmlsbD0iI0YyRjJGMiIgZD0iTTMxMC4wNiwyNjYuNzkzbC01OC40MDIsMjcuMzFoLTYxLjU1NWwtMjguOTM2LDcyLjM3NWwtNTMuODIxLDAuOTk2TDI1MS42NTgsNDYuNDMxDQoJCUwzMTAuMDYsMjY2Ljc5M3ogTTMwNC40MTUsMjUzLjA0M2wtNTIuMzctMTAzLjY3NmwtNDIuOTU2LDEwMS44OTJoNDIuNTY3TDMwNC40MTUsMjUzLjA0M3oiLz4NCgk8cG9seWdvbiBpZD0icG9seWdvbjU4IiBmaWxsPSIjQjNCM0IzIiBwb2ludHM9IjMwMC43ODUsMjUxLjMzOCAyNTEuNzY1LDI1MS4zMzggMjUxLjY1NSwyOTQuMDM4IDMxOS40MzcsMjk0LjEwMyAzNTEuMTE3LDM2Ny40ODUgDQoJCTQwMi42MTUsMzY4LjQzOSAyNTEuNjU1LDQ2LjQzMSAyNTIuMDQyLDE0OS4zNjcgCSIvPg0KPC9nPg0KPC9zdmc+DQo="/>
         <text x="51.5" y="14">Angular</text>
     </g>

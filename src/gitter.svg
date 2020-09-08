@@ -10,14 +10,13 @@
 
     <g clip-path="url(#a)">
         <path fill="#555" d="M0 0h25v20H0z"/>
-        <path fill="#4DB798" d="M25 0h41v20H25z"/>
+        <path fill="#4db798" d="M25 0h41v20H25z"/>
         <path fill="url(#b)" d="M0 0h66v20H0z"/>
     </g>
-    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
         <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNy4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IuWbvuWxgl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9IjI1MDBweCIgaGVpZ2h0PSIyNTAwcHgiIHZpZXdCb3g9IjAgMCAyNTAwIDI1MDAiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDI1MDAgMjUwMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNNDg0LjQ2OCwxMTAuNjQ2aDIwOS41ODN2MTM4My4xODFINDg0LjQ2OFYxMTAuNjQ2eiBNMTc1OC42ODMsNDQ1Ljk2MmgyMDkuNTY2djEwNDcuODY1aC0yMDkuNTY2VjQ0NS45NjJ6DQoJIE05MTIsNDQ1Ljk2MmgyMDkuNTY2VjIyOTQuNDFIOTEyVjQ0NS45NjJ6IE0xMzMxLjE1LDQ0NS45NjJoMjA5LjU4M1YyMjk0LjQxSDEzMzEuMTVWNDQ1Ljk2MnoiLz4NCjwvc3ZnPg0K"/>
-        <text x="19.5" y="15" fill="#010101" fill-opacity=".3"></text>
-        <text x="19.5" y="14"></text>
-        <text x="44.5" y="15" fill="#010101" fill-opacity=".3">Gitter</text>
+        <text x="44.5" y="14.6" fill="#010101" fill-opacity=".3">Gitter</text>
         <text x="44.5" y="14">Gitter</text>
     </g>
 </svg>

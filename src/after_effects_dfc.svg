@@ -16,9 +16,7 @@
     <g fill="#333"
         text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
         <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjM0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNDAgMjM0Ij48cmFkaWFsR3JhZGllbnQgaWQ9ImEiIGN4PSItMTgzLjgyOSIgY3k9IjUxMi40NzQiIHI9Ii43NiIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgyMjAgMCAwIC0yMTMgNDA1MjUgMTA5MjE1KSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzQ0MkY1NSIgc3RvcC1vcGFjaXR5PSIuOTgiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxMjAwMkMiLz48L3JhZGlhbEdyYWRpZW50PjxwYXRoIGZpbGw9InVybCgjYSkiIGQ9Ik0xMCAxMGgyMjB2MjE0SDEweiIvPjxnIGZpbGw9IiNEOEExRkYiPjxwYXRoIGQ9Ik0xMCAxMGgyMjB2MjE0SDEwVjEwek0wIDIzNGgyNDBWMEgwdjIzNHpNMTY5LjggMTEyLjhjNS4xIDAgNi45IDAgNy40LS4yIDAtLjcuMi0xLjIuMi0xLjcgMC01LjQtMi42LTE1LjQtMTMtMTUuNC05LjYgMC0xMy43IDguNC0xNC43IDE3LjNoMjAuMXptLTIwLjMgMTMuN2MuMiAxMy41IDYuNiAyMi42IDIxLjggMjIuNiA1LjkgMCAxMS0uOCAxNi4zLTMuMS43LS4zIDEuMi0uMiAxLjIuN3YxMi41YzAgMS0uMyAxLjUtMSAyLTUuMyAyLjYtMTEuOSAzLjgtMjAuMSAzLjgtMjYuNCAwLTM2LjMtMTkuNS0zNi4zLTQxLjIgMC0yMy42IDEyLjItNDIuOSAzMy43LTQyLjkgMjEuOCAwIDI5LjQgMTguMyAyOS40IDMzLjIgMCA0LjgtLjMgOC43LS44IDEwLjYtLjIuOC0uNSAxLjEtMS4zIDEuMy0yIC4zLTcuOS43LTE2LjcuN2gtMjYuMnYtLjJ6bS01My42LTEwLjJjLTIuOC0xMS4xLTkuNi0zNS4zLTEyLjEtNDdoLS4yYy0yLjEgMTEuNy03LjYgMzEuNS0xMS43IDQ3aDI0em0tMjguMSAxNi4ybC03LjkgMjkuOWMtLjIuOC0uNSAxLjEtMS41IDEuMUg0My43Yy0xIDAtMS4yLS4zLTEtMS41bDI4LjQtOTkuM2MuNS0xLjguOC0zLjIgMS04LjIgMC0uNy4zLTEgLjgtMWgyMWMuNyAwIDEgLjIgMS4yIDFsMzEuOCAxMDcuN2MuMi44IDAgMS4zLS44IDEuM2gtMTYuNWMtLjggMC0xLjMtLjMtMS41LTFsLTguMi0zMEg2Ny44eiIvPjwvZz48L3N2Zz4NCg=="/>
-        <text x="19.5" y="15" fill="#010101" fill-opacity=".3"></text>
-        <text x="19.5" y="14"></text>
-        <text x="69" y="15" fill="#010101" fill-opacity=".3">After Effects</text>
+        <text x="69" y="14.6" fill="#010101" fill-opacity=".3">After Effects</text>
         <text x="69" y="14">After Effects</text>
     </g>
 </svg>

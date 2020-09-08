@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="20">
     <g shape-rendering="crispEdges">
         <path fill="#555" d="M0 0h25v20H0z"/>
-        <path fill="#F7DF1E" d="M25 0h71v20H25z"/>
+        <path fill="#f7df1e" d="M25 0h71v20H25z"/>
     </g>
-    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
         <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDYzMCA2MzAiIHdpZHRoPSI2MzAiIGhlaWdodD0iNjMwIj4KPGc+CiAgPHJlY3QgIHg9IjAiIHk9IjAiIHdpZHRoPSI2MzAiIGhlaWdodD0iNjMwIiBmaWxsPSIjZjdkZjFlIiAvPgogIDxwYXRoIGlkPSJqIiBkPSJtIDE2NS42NSw1MjYuNDczNzUgNDguMjEyNSwtMjkuMTc3NSBDIDIyMy4xNjM3NSw1MTMuNzg3NSAyMzEuNjI1LDUyNy43NCAyNTEuOTIsNTI3Ljc0IGMgMTkuNDUzNzUsMCAzMS43MTg3NSwtNy42MDk3NSAzMS43MTg3NSwtMzcuMjEgbCAwLC0yMDEuMyA1OS4yMDM3NSwwIDAsMjAyLjEzNzUgYyAwLDYxLjMyIC0zNS45NDM3NSw4OS4yMzEyNSAtODguMzg1LDg5LjIzMTI1IC00Ny4zNjEyNSwwIC03NC44NTI1LC0yNC41Mjg3NSAtODguODA3NSwtNTQuMTMiIC8+CiAgPHBhdGggaWQ9InMiIGQ9Im0gMzc1LDUyMC4xMyA0OC4yMDYyNSwtMjcuOTExMjUgYyAxMi42OSwyMC43MjM3NSAyOS4xODI1LDM1Ljk0NzUgNTguMzYxMjUsMzUuOTQ3NSAyNC41MzEyNSwwIDQwLjE3Mzc1LC0xMi4yNjQ3NSA0MC4xNzM3NSwtMjkuMTgxMjUgMCwtMjAuMjk4NzUgLTE2LjA2ODc1LC0yNy40ODg3NSAtNDMuMTM1LC0zOS4zMjYyNSBsIC0xNC43OTc1LC02LjM0NzUgYyAtNDIuNzE1LC0xOC4xODEyNSAtNzEuMDUsLTQxLjAxNzUgLTcxLjA1LC04OS4yMjc1IDAsLTQ0LjQwMzc1IDMzLjgzMTI1LC03OC4yMzc1IDg2LjY5NSwtNzguMjM3NSAzNy42Mzc1LDAgNjQuNzAyNSwxMy4xMTEyNSA4NC4xNTM3NSw0Ny4zNjYyNSBsIC00Ni4wOTYyNSwyOS42MDEyNSBjIC0xMC4xNSwtMTguMTgyNSAtMjEuMTQyNSwtMjUuMzcxMjUgLTM4LjA1NzUsLTI1LjM3MTI1IC0xNy4zMzg3NSwwIC0yOC4zMzUsMTAuOTk1IC0yOC4zMzUsMjUuMzcxMjUgMCwxNy43NjI1IDEwLjk5NjI1LDI0Ljk1MjUgMzYuMzY3NSwzNS45NDg3NSBsIDE0LjgsNi4zNDI1IGMgNTAuMzI1LDIxLjU2ODc1IDc4LjY2LDQzLjU1NzUgNzguNjYsOTMuMDMzNzUgMCw1My4yODc1IC00MS44NjYyNSw4Mi40NjUgLTk4LjExLDgyLjQ2NSAtNTQuOTc2MjUsMCAtOTAuNSwtMjYuMjE3NSAtMTA3LjgzNjI1LC02MC40NzM3NSIgLz4KPC9nPgo8L3N2Zz4K"/>
         <text x="59.5" y="14">JavaScript</text>
     </g>

@@ -10,14 +10,13 @@
 
     <g clip-path="url(#a)">
         <path fill="#555" d="M0 0h25v20H0z"/>
-        <path fill="#009BFF" d="M25 0h72v20H25z"/>
+        <path fill="#009bff" d="M25 0h72v20H25z"/>
         <path fill="url(#b)" d="M0 0h97v20H0z"/>
     </g>
-    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
         <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjIyNnB4IiB3aWR0aD0iMjI0cHgiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDIyNCAyMjYiPgogPGRlZnM+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJhIiB5MT0iNi43NiUiIHgyPSI1MCUiIHgxPSI1MCUiIHkyPSI5NS42JSI+CiAgIDxzdG9wIHN0b3AtY29sb3I9IiMwMEM2RkYiIG9mZnNldD0iMCIvPgogICA8c3RvcCBzdG9wLWNvbG9yPSIjMDA2OEZGIiBvZmZzZXQ9IjEiLz4KICA8L2xpbmVhckdyYWRpZW50PgogPC9kZWZzPgo8cGF0aCBmaWxsPSJ1cmwoI2EpIiBkPSJtNDEuMjU1IDE4NS41MnY0MC4ybDM3LjU4OS0yMS4zN2MxMC40NzggMy4wMiAyMS42MTYgNC42NSAzMy4xNTYgNC42NSA2MS44NiAwIDExMi00Ni43OSAxMTItMTA0LjUgMC01Ny43MTQtNTAuMTQtMTA0LjUtMTEyLTEwNC41LTYxLjg1NiAwLTExMiA0Ni43ODYtMTEyIDEwNC41IDAgMzIuNjggMTYuMDc4IDYxLjg2IDQxLjI1NSA4MS4wMnoiLz4KPHBhdGggZmlsbD0iI2ZmZiIgZD0ibTEwMC4wNCA3NS44NzhsLTYwLjQwMSA2My45NTIgNTQuOTctMzAuMTYgMjguNzIxIDMwLjE2IDYwLjA2LTYzLjk1Mi01NC4zNiAyOS42MzItMjguOTktMjkuNjMyeiIvPgo8L3N2Zz4K"/>
-        <text x="19.5" y="15" fill="#010101" fill-opacity=".3"></text>
-        <text x="19.5" y="14"></text>
-        <text x="60" y="15" fill="#010101" fill-opacity=".3">Messenger</text>
+        <text x="60" y="14.6" fill="#010101" fill-opacity=".3">Messenger</text>
         <text x="60" y="14">Messenger</text>
     </g>
 </svg>

@@ -10,14 +10,13 @@
 
     <g clip-path="url(#a)">
         <path fill="#555" d="M0 0h25v20H0z"/>
-        <path fill="#CE0F19" d="M25 0h62v20H25z"/>
+        <path fill="#ce0f19" d="M25 0h62v20H25z"/>
         <path fill="url(#b)" d="M0 0h87v20H0z"/>
     </g>
-    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
         <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNy4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxvZ28iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iMjc5LjMzMnB4IiBoZWlnaHQ9IjI4MS4zMzNweCIgdmlld0JveD0iMCAwIDI3OS4zMzIgMjgxLjMzMyIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjc5LjMzMiAyODEuMzMzIg0KCSB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxnPg0KCTxwYXRoIGZpbGw9IiNDRTBGMTkiIGQ9Ik0xMzkuNjQ1LDMuOTU3QzYzLjg3OSwzLjk1NywyLjQ1LDY1LjM4MSwyLjQ1LDE0MS4xNWMwLDU2LjE3NywzMy43ODEsMTA0LjQzOCw4Mi4xMiwxMjUuNjU2DQoJCWMtMC4zODYtOS41OC0wLjA2OS0yMS4wOCwyLjM4OC0zMS41MDNjMi42MzgtMTEuMTM4LDE3LjY1My03NC43NTYsMTcuNjUzLTc0Ljc1NnMtNC4zODMtOC43Ni00LjM4My0yMS43MDcNCgkJYzAtMjAuMzMsMTEuNzg0LTM1LjUxNSwyNi40NTktMzUuNTE1YzEyLjQ3OSwwLDE4LjUwNyw5LjM3MywxOC41MDcsMjAuNTk3YzAsMTIuNTQ1LTguMDAxLDMxLjMwOS0xMi4xMTYsNDguNjg4DQoJCWMtMy40MzcsMTQuNTUzLDcuMjk3LDI2LjQyMywyMS42NTQsMjYuNDIzYzI1Ljk5MywwLDQzLjUtMzMuMzg1LDQzLjUtNzIuOTRjMC0zMC4wNjgtMjAuMjUyLTUyLjU3NC01Ny4wODYtNTIuNTc0DQoJCWMtNDEuNjE2LDAtNjcuNTQyLDMxLjAzNS02Ny41NDIsNjUuNzAxYzAsMTEuOTUyLDMuNTI0LDIwLjM4Miw5LjA0NCwyNi45MDhjMi41MzgsMi45OTgsMi44OTEsNC4yMDQsMS45NzIsNy42NDYNCgkJYy0wLjY1OCwyLjUyNC0yLjE2OSw4LjYwMi0yLjc5NSwxMS4wMWMtMC45MTQsMy40NzUtMy43MjksNC43MTctNi44NjksMy40MzRjLTE5LjE2OC03LjgyNS0yOC4wOTYtMjguODE2LTI4LjA5Ni01Mi40MTMNCgkJYzAtMzguOTcyLDMyLjg2OC04NS43MDIsOTguMDUxLTg1LjcwMmM1Mi4zNzksMCw4Ni44NTMsMzcuOTAzLDg2Ljg1Myw3OC41OWMwLDUzLjgxOC0yOS45Miw5NC4wMjUtNzQuMDI0LDk0LjAyNQ0KCQljLTE0LjgxMiwwLTI4Ljc0NC04LjAwNy0zMy41MTctMTcuMTAxYzAsMC03Ljk2NSwzMS42MDktOS42NTIsMzcuNzEzYy0yLjkwOCwxMC41NzgtOC42MDIsMjEuMTQ5LTEzLjgwOCwyOS4zOQ0KCQljMTIuMzM5LDMuNjQzLDI1LjM3Myw1LjYyNiwzOC44ODIsNS42MjZjNzUuNzYsMCwxMzcuMTg2LTYxLjQyNCwxMzcuMTg2LTEzNy4xOTVDMjc2LjgzMSw2NS4zODEsMjE1LjQwNSwzLjk1NywxMzkuNjQ1LDMuOTU3eiIvPg0KPC9nPg0KPC9zdmc+DQo="/>
-        <text x="19.5" y="15" fill="#010101" fill-opacity=".3"></text>
-        <text x="19.5" y="14"></text>
-        <text x="55" y="15" fill="#010101" fill-opacity=".3">Pinterest</text>
+        <text x="55" y="14.6" fill="#010101" fill-opacity=".3">Pinterest</text>
         <text x="55" y="14">Pinterest</text>
     </g>
 </svg>
