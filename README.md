@@ -1,12 +1,14 @@
 ## badges
 
 <p align="center">
-    <img src="./badges.png" width="20%" />
+    <img src="./badges.svg" width="23%" height="300px" />
 </p>
 
-<p align="center">
-    To make badges more standard and acceptable.
-</p>
+<p align="center">To make badges more standard and acceptable.</p>
+
+<br />
+<br />
+<br />
 
 ![npm](https://aleen42.github.io/badges/src/npm.svg) ![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20688L-f1e05a.svg) ![html](https://img.shields.io/badge/%20%20HTML-%20%20%20%2043L-e34c26.svg)
 
