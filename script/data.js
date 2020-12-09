@@ -69,8 +69,8 @@ module.exports = [
             'JSFiddle': { fileName: 'jsfiddle.svg', color: '#4679A4', description: 'A badge used for projects running on JSFiddle' },
             'Webpack': { fileName: 'webpack.svg', color: '#6F95DB', description: 'A badge used for projects built with Webpack' },
             'Slack': { fileName: 'slack.svg', color: '#392538', description: 'A badge used for projects discussed on Slack' },
-            'IDEA': { fileName: 'idea.svg', color: '#000000', description: 'A badge for the IDEA editor' },
-            'CodePen': { fileName: 'codepen.svg', color: '#000000', description: 'A badge used for projects running on CodePen' },
+            'IDEA': { fileName: 'idea.svg', color: '#24292E', description: 'A badge for the IDEA editor' },
+            'CodePen': { fileName: 'codepen.svg', color: '#24292E', description: 'A badge used for projects running on CodePen' },
             'Hacker': { fileName: 'hacker.svg', color: '#1C1C1C', description: 'A badge used for hacking projects (**Business Using is not allowed)**' },
             'GitHub': { fileName: 'github.svg', color: '#24292E', description: 'A badge used for GitHub repositories' }
         }
