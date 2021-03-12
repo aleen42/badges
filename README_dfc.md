@@ -143,16 +143,21 @@ As for how to create a badge and add it in the collection? There are some steps 
 
 - [![nasa](./src/nasa_dfc.svg)](https://aleen42.github.io/badges/src/nasa_dfc.svg) A badge used for projects of NASA
 - [![codrops](./src/codrops_dfc.svg)](https://aleen42.github.io/badges/src/codrops_dfc.svg) A badge used for any project of Codrops Inc.
-- [![paypal](./src/paypal_dfc.svg)](https://aleen42.github.io/badges/src/paypal_dfc.svg) A badge used for the Paypal Inc.
-- [![alipay](./src/alipay_dfc.svg)](https://aleen42.github.io/badges/src/alipay_dfc.svg) A badge used for the Alipay Inc.
 - [![xitu](./src/xitu_dfc.svg)](https://aleen42.github.io/badges/src/xitu_dfc.svg) A badge used for any articles of Xitu Inc.
 - [![coremail](./src/coremail_dfc.svg)](https://aleen42.github.io/badges/src/coremail_dfc.svg) A badge used for the Coremail Inc.
 - [![soundtooth](./src/soundtooth_dfc.svg)](https://aleen42.github.io/badges/src/soundtooth_dfc.svg) A badge used for any project of Soundtooth Inc.
-- [![patreon](./src/patreon_dfc.svg)](https://aleen42.github.io/badges/src/patreon_dfc.svg) A badge used for the Patreon Inc.
 - [![amazon](./src/amazon_dfc.svg)](https://aleen42.github.io/badges/src/amazon_dfc.svg) A badge used for the Amazon Inc.
 - [![bitcoin](./src/bitcoin_dfc.svg)](https://aleen42.github.io/badges/src/bitcoin_dfc.svg) A badge used for the Bitcoin Inc.
 - [![airbnb](./src/airbnb_dfc.svg)](https://aleen42.github.io/badges/src/airbnb_dfc.svg) A badge used for the Airbnb Inc.
 - [![monsoon](./src/monsoon_dfc.svg)](https://aleen42.github.io/badges/src/monsoon_dfc.svg) A badge used for the Monsoon Inc.
+
+
+### Sponsors
+
+- [![paypal](./src/paypal_dfc.svg)](https://aleen42.github.io/badges/src/paypal_dfc.svg) A badge used for Paypal sponsors.
+- [![alipay](./src/alipay_dfc.svg)](https://aleen42.github.io/badges/src/alipay_dfc.svg) A badge used for Alipay sponsors.
+- [![patreon](./src/patreon_dfc.svg)](https://aleen42.github.io/badges/src/patreon_dfc.svg) A badge used for the Patreon Inc.
+- [![issuehunt](./src/issuehunt_dfc.svg)](https://aleen42.github.io/badges/src/issuehunt_dfc.svg) A badge used for IssueHunt sponsors.
 
 
 ### Car

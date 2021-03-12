@@ -112,16 +112,21 @@ module.exports = [
         data: {
             'NASA': { fileName: 'nasa.svg', color: '#1A5DAD', description: 'A badge used for projects of NASA' },
             'Codrops': { fileName: 'codrops.svg', color: '#237DAC', description: 'A badge used for any project of Codrops Inc.' },
-            'Paypal': { fileName: 'paypal.svg', color: '#179BD7', description: 'A badge used for the Paypal Inc.' },
-            'Alipay': { fileName: 'alipay.svg', color: '#1CACEB', description: 'A badge used for the Alipay Inc.' },
             'xitu': { fileName: 'xitu.svg', color: '#006CFF', description: 'A badge used for any articles of Xitu Inc.' },
             'Coremail': { fileName: 'coremail.svg', color: '#0065AC', description: 'A badge used for the Coremail Inc.' },
             'Soundtooth': { fileName: 'soundtooth.svg', color: '#E15132', description: 'A badge used for any project of Soundtooth Inc.' },
-            'Patreon': { fileName: 'patreon.svg', color: '#FF5900', description: 'A badge used for the Patreon Inc.' },
             'Amazon': { fileName: 'amazon.svg', color: '#FF9900', description: 'A badge used for the Amazon Inc.' },
             'Bitcoin': { fileName: 'bitcoin.svg', color: '#F7931A', description: 'A badge used for the Bitcoin Inc.' },
             'Airbnb': { fileName: 'airbnb.svg', color: '#FF5A5F', description: 'A badge used for the Airbnb Inc.' },
             'Monsoon': { fileName: 'monsoon.svg', color: '#64AA51', description: 'A badge used for the Monsoon Inc.' }
+        }
+    }, {
+        name: 'Sponsors',
+        data: {
+            'Paypal': { fileName: 'paypal.svg', color: '#179BD7', description: 'A badge used for Paypal sponsors.' },
+            'Alipay': { fileName: 'alipay.svg', color: '#1CACEB', description: 'A badge used for Alipay sponsors.' },
+            'Patreon': { fileName: 'patreon.svg', color: '#FF5900', description: 'A badge used for the Patreon Inc.' },
+            'IssueHunt': { fileName: 'issuehunt.svg', color: '#147853', description: 'A badge used for IssueHunt sponsors.' }
         }
     }, {
         name: 'Car',

@@ -143,16 +143,21 @@ As for how to create a badge and add it in the collection? There are some steps 
 
 - [![nasa](./src/nasa.svg)](https://aleen42.github.io/badges/src/nasa.svg) A badge used for projects of NASA
 - [![codrops](./src/codrops.svg)](https://aleen42.github.io/badges/src/codrops.svg) A badge used for any project of Codrops Inc.
-- [![paypal](./src/paypal.svg)](https://aleen42.github.io/badges/src/paypal.svg) A badge used for the Paypal Inc.
-- [![alipay](./src/alipay.svg)](https://aleen42.github.io/badges/src/alipay.svg) A badge used for the Alipay Inc.
 - [![xitu](./src/xitu.svg)](https://aleen42.github.io/badges/src/xitu.svg) A badge used for any articles of Xitu Inc.
 - [![coremail](./src/coremail.svg)](https://aleen42.github.io/badges/src/coremail.svg) A badge used for the Coremail Inc.
 - [![soundtooth](./src/soundtooth.svg)](https://aleen42.github.io/badges/src/soundtooth.svg) A badge used for any project of Soundtooth Inc.
-- [![patreon](./src/patreon.svg)](https://aleen42.github.io/badges/src/patreon.svg) A badge used for the Patreon Inc.
 - [![amazon](./src/amazon.svg)](https://aleen42.github.io/badges/src/amazon.svg) A badge used for the Amazon Inc.
 - [![bitcoin](./src/bitcoin.svg)](https://aleen42.github.io/badges/src/bitcoin.svg) A badge used for the Bitcoin Inc.
 - [![airbnb](./src/airbnb.svg)](https://aleen42.github.io/badges/src/airbnb.svg) A badge used for the Airbnb Inc.
 - [![monsoon](./src/monsoon.svg)](https://aleen42.github.io/badges/src/monsoon.svg) A badge used for the Monsoon Inc.
+
+
+### Sponsors
+
+- [![paypal](./src/paypal.svg)](https://aleen42.github.io/badges/src/paypal.svg) A badge used for Paypal sponsors.
+- [![alipay](./src/alipay.svg)](https://aleen42.github.io/badges/src/alipay.svg) A badge used for Alipay sponsors.
+- [![patreon](./src/patreon.svg)](https://aleen42.github.io/badges/src/patreon.svg) A badge used for the Patreon Inc.
+- [![issuehunt](./src/issuehunt.svg)](https://aleen42.github.io/badges/src/issuehunt.svg) A badge used for IssueHunt sponsors.
 
 
 ### Car
