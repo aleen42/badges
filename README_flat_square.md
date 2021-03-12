@@ -62,6 +62,10 @@ As for how to create a badge and add it in the collection? There are some steps 
 
 > Note that: so far haven't I thought out a perfect solution for calculating width of text accurately yet, and it means that the text can not be aligned in some cases.
 
+*Note: if you really like this project, feel free to buy me a swimming chance:*
+
+[![badges](https://aleen42.github.io/badges/src/paypal.svg)](http://paypal.me/aleen42) [![badges](https://aleen42.github.io/badges/src/patreon.svg)](https://www.patreon.com/aleen42) [![badges](https://aleen42.github.io/badges/src/buymeacoffee.svg)](https://www.patreon.com/aleen42)
+
 ### Coder
 
 - [![angular](./src/angular_flat_square.svg)](https://aleen42.github.io/badges/src/angular_flat_square.svg) A badge used for repositories which has used the framework, Angular
