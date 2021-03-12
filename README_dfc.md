@@ -156,7 +156,8 @@ As for how to create a badge and add it in the collection? There are some steps 
 
 - [![paypal](./src/paypal_dfc.svg)](https://aleen42.github.io/badges/src/paypal_dfc.svg) A badge used for Paypal sponsors.
 - [![alipay](./src/alipay_dfc.svg)](https://aleen42.github.io/badges/src/alipay_dfc.svg) A badge used for Alipay sponsors.
-- [![patreon](./src/patreon_dfc.svg)](https://aleen42.github.io/badges/src/patreon_dfc.svg) A badge used for the Patreon Inc.
+- [![patreon](./src/patreon_dfc.svg)](https://aleen42.github.io/badges/src/patreon_dfc.svg) A badge used for Patreon sponsors.
+- [![buymeacoffee](./src/buymeacoffee_dfc.svg)](https://aleen42.github.io/badges/src/buymeacoffee_dfc.svg) A badge used for BuyMeACoffee sponsors.
 - [![issuehunt](./src/issuehunt_dfc.svg)](https://aleen42.github.io/badges/src/issuehunt_dfc.svg) A badge used for IssueHunt sponsors.
 
 

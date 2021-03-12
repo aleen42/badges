@@ -125,8 +125,9 @@ module.exports = [
         data: {
             'Paypal': { fileName: 'paypal.svg', color: '#179BD7', description: 'A badge used for Paypal sponsors.' },
             'Alipay': { fileName: 'alipay.svg', color: '#1CACEB', description: 'A badge used for Alipay sponsors.' },
-            'Patreon': { fileName: 'patreon.svg', color: '#FF5900', description: 'A badge used for the Patreon Inc.' },
-            'IssueHunt': { fileName: 'issuehunt.svg', color: '#147853', description: 'A badge used for IssueHunt sponsors.' }
+            'Patreon': { fileName: 'patreon.svg', color: '#FF5900', description: 'A badge used for Patreon sponsors.' },
+            'Buy Me A Coffee': { fileName: 'buymeacoffee.svg', color: '#FFDD00', description: 'A badge used for BuyMeACoffee sponsors.' },
+            'IssueHunt': { fileName: 'issuehunt.svg', color: '#2CC28C', description: 'A badge used for IssueHunt sponsors.' }
         }
     }, {
         name: 'Car',
