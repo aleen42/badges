@@ -1,0 +1,17 @@
+/*!
+ * GitHub Dark v0.5.0
+ * Copyright (c) 2012 - 2021 GitHub, Inc.
+ * Licensed under MIT (https://github.com/primer/github-syntax-theme-generator/blob/master/LICENSE)
+ */
+
+@mixin dark {
+  .highlight .fm {
+    color: #c8e1ff;
+  }
+
+  .highlight .go,
+  .highlight .gp,
+  .highlight .gt {
+    color: #0366d6;
+  }
+}

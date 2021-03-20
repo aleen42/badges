@@ -1,0 +1,39 @@
+---
+---
+
+// TODO: dynamic import github dark mode style
+@import "./github-behaviors.css";
+@import "./github-frameworks.css";
+
+//noinspection CssUnknownTarget
+@import "github-syntax-base";
+//noinspection CssUnknownTarget
+@import "github-syntax-highlight-dark";
+//noinspection CssUnknownTarget
+@import "github-syntax-highlight-light";
+[data-color-mode=dark][data-dark-theme*=dark] {
+  //noinspection SassScssResolvedByNameOnly
+  @include dark;
+}
+[data-color-mode=light][data-light-theme*=light] {
+  //noinspection SassScssResolvedByNameOnly
+  @include light;
+}
+
+.markdown-body .emoji {
+  vertical-align: middle;
+}
+
+.profile-color-modes-toggle:focus {
+  outline: none;
+}
+
+.footer .footprint {
+  span {
+    opacity: .5;
+  }
+
+  a {
+    opacity: 1;
+  }
+}
