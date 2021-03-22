@@ -44,7 +44,7 @@ const data = require('./data');
 const rootPath = './';
 const distPath = `${rootPath}dist/`;
 const outputPath = `${rootPath}src/`;
-const linkPath = 'https://aleen42.github.io/badges/src/';
+const linkPath = 'https://badges.aleen42.com/src/';
 
 const suffix = (base, ...suffix) => [base, ...suffix].filter(x => x).join('_');
 

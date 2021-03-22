@@ -10,7 +10,7 @@
 <br />
 <br />
 
-![npm](https://aleen42.github.io/badges/src/npm.svg) ![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20688L-f1e05a.svg) ![html](https://img.shields.io/badge/%20%20HTML-%20%20%20%2043L-e34c26.svg)
+![npm](./src/npm.svg) ![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20688L-f1e05a.svg) ![html](https://img.shields.io/badge/%20%20HTML-%20%20%20%2043L-e34c26.svg)
 
 Alternative: [**default**](./README.md)<!-- @IGNORE PREVIOUS: link -->, [**flat-square**](./README_flat_square.md)<!-- @IGNORE PREVIOUS: link -->, [**dynamic-fore-color**](./README_dfc.md)<!-- @IGNORE PREVIOUS: link -->, [**dynamic-fore-color (flat_square)**](./README_flat_square_dfc.md)<!-- @IGNORE PREVIOUS: link -->.
 
@@ -64,4 +64,4 @@ As for how to create a badge and add it in the collection? There are some steps 
 
 *Note: if you really like this project, feel free to buy me a swimming chance:*
 
-[![badges](https://aleen42.github.io/badges/src/paypal.svg)](http://paypal.me/aleen42) [![badges](https://aleen42.github.io/badges/src/patreon.svg)](https://www.patreon.com/aleen42) [![badges](https://aleen42.github.io/badges/src/buymeacoffee.svg)](https://www.patreon.com/aleen42)
+[![badges](./src/paypal.svg)](http://paypal.me/aleen42) [![badges](./src/patreon.svg)](https://www.patreon.com/aleen42) [![badges](./src/buymeacoffee.svg)](https://www.patreon.com/aleen42)
