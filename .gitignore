@@ -34,3 +34,5 @@ node_modules
 
 # Editor
 .idea
+
+package-lock.json

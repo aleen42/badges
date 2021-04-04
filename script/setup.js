@@ -66,7 +66,7 @@ const generateBadge = (style, dfc) => (name, badgeItem, index) => {
 
     if (!fs.existsSync(output)) {
         console.log(execSync(`badge ${[
-            ...dfc ? ['--dynamic-fore-color'] : [''],
+            ...dfc ? '--dynamic-fore-color' : '',
             `-c ${color}`,
             `-s ${skin || 'dark'}`,
             `-t "${name}"`,

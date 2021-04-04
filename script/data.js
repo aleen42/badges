@@ -78,17 +78,15 @@ module.exports = [
         name: 'Community',
         data: {
             '掘金翻译计划': { fileName: 'juejin_translation.svg', color: '#006CFF', description: 'A badge used for any articles translated by gold-miner' },
-            'Facebook': { fileName: 'facebook.svg', color: '#3C5A99', description: 'A badge used for sharing communities on Facebook' },
             'Stack Exchange': { fileName: 'stackexchange.svg', color: '#205296', description: 'A badge used for references on Stack Exchange' },
             'Super User': { fileName: 'superuser.svg', color: '#2EACE3', description: 'A badge used for references on Super User' },
-            'Twitter': { fileName: 'twitter.svg', color: '#1DA1F2', description: 'A badge used for sharing communities on Twitter' },
             'Google+': { fileName: 'google_plus.svg', color: '#DC4A38', description: 'A badge used for sharing communities on Google+' },
             'Pinterest': { fileName: 'pinterest.svg', color: '#CE0F19', description: 'A badge used for sharing communities on Pinterest' },
             'Sina': { fileName: 'sina_weibo.svg', color: '#E6162D', description: 'A badge used for sharing communities on Sina Weibo' },
             'Reddit': { fileName: 'reddit.svg', color: '#FF4500', description: 'A badge used for articles shared on Reddit' },
             'Stack Overflow': { fileName: 'stackoverflow.svg', color: '#F48023', description: 'A badge used for GitHub repositories' },
             'Medium': { fileName: 'medium.svg', color: '#14C767', description: 'A badge used for articles shared on Medium' },
-            'Server Fault': { fileName: 'serverfault.svg', color: '#231F20', description: 'A badge used for references on Server Fault' }
+            'Server Fault': { fileName: 'serverfault.svg', color: '#231F20', description: 'A badge used for references on Server Fault' },
         }
     }, {
         name: 'Communication',
@@ -120,7 +118,16 @@ module.exports = [
             'Airbnb': { fileName: 'airbnb.svg', color: '#FF5A5F', description: 'A badge used for the Airbnb Inc.' },
             'Monsoon': { fileName: 'monsoon.svg', color: '#64AA51', description: 'A badge used for the Monsoon Inc.' }
         }
-    }, {
+    },
+    {
+        name: 'Social Media',
+        data: {
+            'Youtube': { fileName: 'youtube.svg', color: "FF0000", description: 'A badge used for Youtube References'},
+            'Facebook': { fileName: 'facebook.svg', color: '#3C5A99', description: 'A badge used for sharing communities on Facebook' },
+            'Twitter': { fileName: 'twitter.svg', color: '#1DA1F2', description: 'A badge used for sharing communities on Twitter' },
+        }
+    },
+    {
         name: 'Sponsors',
         data: {
             'Paypal': { fileName: 'paypal.svg', color: '#179BD7', description: 'A badge used for Paypal sponsors.' },
