@@ -113,10 +113,8 @@ As for how to create a badge and add it in the collection? There are some steps 
 ### Community
 
 - [![juejin_translation](./src/juejin_translation.svg)](https://badges.aleen42.com/src/juejin_translation.svg) A badge used for any articles translated by gold-miner
-- [![facebook](./src/facebook.svg)](https://badges.aleen42.com/src/facebook.svg) A badge used for sharing communities on Facebook
 - [![stackexchange](./src/stackexchange.svg)](https://badges.aleen42.com/src/stackexchange.svg) A badge used for references on Stack Exchange
 - [![superuser](./src/superuser.svg)](https://badges.aleen42.com/src/superuser.svg) A badge used for references on Super User
-- [![twitter](./src/twitter.svg)](https://badges.aleen42.com/src/twitter.svg) A badge used for sharing communities on Twitter
 - [![google_plus](./src/google_plus.svg)](https://badges.aleen42.com/src/google_plus.svg) A badge used for sharing communities on Google+
 - [![pinterest](./src/pinterest.svg)](https://badges.aleen42.com/src/pinterest.svg) A badge used for sharing communities on Pinterest
 - [![sina_weibo](./src/sina_weibo.svg)](https://badges.aleen42.com/src/sina_weibo.svg) A badge used for sharing communities on Sina Weibo
@@ -154,6 +152,13 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![bitcoin](./src/bitcoin.svg)](https://badges.aleen42.com/src/bitcoin.svg) A badge used for the Bitcoin Inc.
 - [![airbnb](./src/airbnb.svg)](https://badges.aleen42.com/src/airbnb.svg) A badge used for the Airbnb Inc.
 - [![monsoon](./src/monsoon.svg)](https://badges.aleen42.com/src/monsoon.svg) A badge used for the Monsoon Inc.
+
+
+### Social Media
+
+- [![youtube](./src/youtube.svg)](https://badges.aleen42.com/src/youtube.svg) A badge used for Youtube References
+- [![facebook](./src/facebook.svg)](https://badges.aleen42.com/src/facebook.svg) A badge used for sharing communities on Facebook
+- [![twitter](./src/twitter.svg)](https://badges.aleen42.com/src/twitter.svg) A badge used for sharing communities on Twitter
 
 
 ### Sponsors

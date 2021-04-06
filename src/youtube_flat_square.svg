@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="83" height="20">
+    <g shape-rendering="crispEdges">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#FF0000" d="M25 0h58v20H25z"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHlsZT0iZmlsbDpyZ2JhKDI1NSwgMCwgMCwgMSk7dHJhbnNmb3JtOjstbXMtZmlsdGVyOiI+PHBhdGggZD0iTTIxLjU5Myw3LjIwM2MtMC4yMy0wLjg1OC0wLjkwNS0xLjUzNS0xLjc2Mi0xLjc2NkMxOC4yNjUsNS4wMDcsMTIsNSwxMiw1UzUuNzM2LDQuOTkzLDQuMTY5LDUuNDA0IGMtMC44NCwwLjIyOS0xLjUzNCwwLjkyMS0xLjc2NiwxLjc3OGMtMC40MTMsMS41NjYtMC40MTcsNC44MTQtMC40MTcsNC44MTRzLTAuMDA0LDMuMjY0LDAuNDA2LDQuODE0IGMwLjIzLDAuODU3LDAuOTA1LDEuNTM0LDEuNzYzLDEuNzY1YzEuNTgyLDAuNDMsNy44MywwLjQzNyw3LjgzLDAuNDM3czYuMjY1LDAuMDA3LDcuODMxLTAuNDAzYzAuODU2LTAuMjMsMS41MzQtMC45MDYsMS43NjctMS43NjMgQzIxLjk5NywxNS4yODEsMjIsMTIuMDM0LDIyLDEyLjAzNFMyMi4wMiw4Ljc2OSwyMS41OTMsNy4yMDN6IE05Ljk5NiwxNS4wMDVsMC4wMDUtNmw1LjIwNywzLjAwNUw5Ljk5NiwxNS4wMDV6Ij48L3BhdGg+PC9zdmc+"/>
+        <text x="53" y="14">Youtube</text>
+    </g>
+</svg>

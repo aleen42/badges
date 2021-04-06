@@ -113,10 +113,8 @@ As for how to create a badge and add it in the collection? There are some steps 
 ### Community
 
 - [![juejin_translation](./src/juejin_translation_dfc.svg)](https://badges.aleen42.com/src/juejin_translation_dfc.svg) A badge used for any articles translated by gold-miner
-- [![facebook](./src/facebook_dfc.svg)](https://badges.aleen42.com/src/facebook_dfc.svg) A badge used for sharing communities on Facebook
 - [![stackexchange](./src/stackexchange_dfc.svg)](https://badges.aleen42.com/src/stackexchange_dfc.svg) A badge used for references on Stack Exchange
 - [![superuser](./src/superuser_dfc.svg)](https://badges.aleen42.com/src/superuser_dfc.svg) A badge used for references on Super User
-- [![twitter](./src/twitter_dfc.svg)](https://badges.aleen42.com/src/twitter_dfc.svg) A badge used for sharing communities on Twitter
 - [![google_plus](./src/google_plus_dfc.svg)](https://badges.aleen42.com/src/google_plus_dfc.svg) A badge used for sharing communities on Google+
 - [![pinterest](./src/pinterest_dfc.svg)](https://badges.aleen42.com/src/pinterest_dfc.svg) A badge used for sharing communities on Pinterest
 - [![sina_weibo](./src/sina_weibo_dfc.svg)](https://badges.aleen42.com/src/sina_weibo_dfc.svg) A badge used for sharing communities on Sina Weibo
@@ -154,6 +152,13 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![bitcoin](./src/bitcoin_dfc.svg)](https://badges.aleen42.com/src/bitcoin_dfc.svg) A badge used for the Bitcoin Inc.
 - [![airbnb](./src/airbnb_dfc.svg)](https://badges.aleen42.com/src/airbnb_dfc.svg) A badge used for the Airbnb Inc.
 - [![monsoon](./src/monsoon_dfc.svg)](https://badges.aleen42.com/src/monsoon_dfc.svg) A badge used for the Monsoon Inc.
+
+
+### Social Media
+
+- [![youtube](./src/youtube_dfc.svg)](https://badges.aleen42.com/src/youtube_dfc.svg) A badge used for Youtube References
+- [![facebook](./src/facebook_dfc.svg)](https://badges.aleen42.com/src/facebook_dfc.svg) A badge used for sharing communities on Facebook
+- [![twitter](./src/twitter_dfc.svg)](https://badges.aleen42.com/src/twitter_dfc.svg) A badge used for sharing communities on Twitter
 
 
 ### Sponsors
