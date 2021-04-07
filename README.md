@@ -113,7 +113,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 
 ### Community
 
-- [![juejin_translation](./src/juejin_translation.svg)](https://badges.aleen42.com/src/juejin_translation.svg) A badge used for any articles translated by gold-miner.
+- [![juejin_translation](./src/juejin_translation.svg)](https://badges.aleen42.com/src/juejin_translation.svg) A badge used for any articles translated by [gold-miner](https://github.com/xitu/gold-miner).
 - [![stackexchange](./src/stackexchange.svg)](https://badges.aleen42.com/src/stackexchange.svg) A badge used for references on Stack Exchange.
 - [![superuser](./src/superuser.svg)](https://badges.aleen42.com/src/superuser.svg) A badge used for references on Super User
 - [![stackoverflow](./src/stackoverflow.svg)](https://badges.aleen42.com/src/stackoverflow.svg) A badge used for references on Stack Overflow.

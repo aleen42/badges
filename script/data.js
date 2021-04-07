@@ -78,7 +78,7 @@ module.exports = [
     }, {
         name: 'Community',
         data: {
-            '掘金翻译计划': { fileName: 'juejin_translation.svg', color: '#006CFF', description: 'A badge used for any articles translated by gold-miner.' },
+            '掘金翻译计划': { fileName: 'juejin_translation.svg', color: '#006CFF', description: 'A badge used for any articles translated by [gold-miner](https://github.com/xitu/gold-miner).' },
             'Stack Exchange': { fileName: 'stackexchange.svg', color: '#205296', description: 'A badge used for references on Stack Exchange.' },
             'Super User': { fileName: 'superuser.svg', color: '#2EACE3', description: 'A badge used for references on Super User' },
             'Stack Overflow': { fileName: 'stackoverflow.svg', color: '#F48023', description: 'A badge used for references on Stack Overflow.' },
