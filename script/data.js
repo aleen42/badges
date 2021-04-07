@@ -58,6 +58,7 @@ module.exports = [
             'Sublime Text': { fileName: 'sublime_text.png', color: '#FFAD46', description: 'A badge for the Sulime Text editor' },
             'Tensorflow': { fileName: 'tensorflow.svg', color: '#F8BF3C', description: 'A badge use for projects using Tensorflow' },
             'Bower': { fileName: 'bower.svg', color: '#F68A31', description: 'A badge used for bower packages' },
+	        'TC39': { fileName: 'tc39.svg', color: '#FC7C00', description: 'A badge used for [TC39](https://github.com/tc39) committee' },
             'Gitlab': { fileName: 'gitlab.svg', color: '#FC6D26', description: 'A badge used for Gitlab repositories' },
             'Java': { fileName: 'java.svg', color: '#E76F00', description: 'A badge used for projects that coded with Java' },
             'Grunt': { fileName: 'grunt.svg', color: '#FBA919', description: 'A badge used for projects using grunt to build' },
