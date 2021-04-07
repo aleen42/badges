@@ -71,8 +71,6 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![angular](./src/angular_flat_square.svg)](https://badges.aleen42.com/src/angular_flat_square.svg) A badge used for repositories which has used the framework, Angular
 - [![npm](./src/npm_flat_square.svg)](https://badges.aleen42.com/src/npm_flat_square.svg) A badge used for npm packages
 - [![gulp](./src/gulp_flat_square.svg)](https://badges.aleen42.com/src/gulp_flat_square.svg) A badge used for projects using Gulp to build
-- [![react](./src/react_flat_square.svg)](https://badges.aleen42.com/src/react_flat_square.svg) A badge used for repositories which has used the framework, React
-- [![router](./src/router_flat_square.svg)](https://badges.aleen42.com/src/router_flat_square.svg) A badge used for projects using React Router
 - [![erlang](./src/erlang_flat_square.svg)](https://badges.aleen42.com/src/erlang_flat_square.svg) A badge used for projects that coded with Erlang
 - [![modernizr](./src/modernizr_flat_square.svg)](https://badges.aleen42.com/src/modernizr_flat_square.svg) A badge for projects using Modernizr
 - [![reactivex](./src/reactivex_flat_square.svg)](https://badges.aleen42.com/src/reactivex_flat_square.svg) A badge for projects using ReactiveX
@@ -102,6 +100,8 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![javascript](./src/javascript_flat_square.svg)](https://badges.aleen42.com/src/javascript_flat_square.svg) A badge used for projects that coded with JavaScript
 - [![mocha](./src/mocha_flat_square.svg)](https://badges.aleen42.com/src/mocha_flat_square.svg) A badge used for projects using Mocha for unit tests
 - [![apiary](./src/apiary_flat_square.svg)](https://badges.aleen42.com/src/apiary_flat_square.svg) A badge used for documents written on Apiary
+- [![react](./src/react_flat_square.svg)](https://badges.aleen42.com/src/react_flat_square.svg) A badge used for repositories which has used the framework, React
+- [![router](./src/router_flat_square.svg)](https://badges.aleen42.com/src/router_flat_square.svg) A badge used for projects using React Router
 - [![golang](./src/golang_flat_square.svg)](https://badges.aleen42.com/src/golang_flat_square.svg) A badge used for projects that coded with Golang
 - [![docker](./src/docker_flat_square.svg)](https://badges.aleen42.com/src/docker_flat_square.svg) A badge used for projects deployed on Docker
 - [![kotlin](./src/kotlin_flat_square.svg)](https://badges.aleen42.com/src/kotlin_flat_square.svg) A badge used for projects that coded with Kotlin
