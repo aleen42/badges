@@ -160,6 +160,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![reddit](./src/reddit_dfc.svg)](https://badges.aleen42.com/src/reddit_dfc.svg) A badge used for articles shared on Reddit.
 - [![snapchat](./src/snapchat_dfc.svg)](https://badges.aleen42.com/src/snapchat_dfc.svg) A badge used for Snapchat.
 - [![facebook](./src/facebook_dfc.svg)](https://badges.aleen42.com/src/facebook_dfc.svg) A badge used for Facebook.
+- [![instagram](./src/instagram_dfc.svg)](https://badges.aleen42.com/src/instagram_dfc.svg) A badge used for Instagram.
 - [![twitter](./src/twitter_dfc.svg)](https://badges.aleen42.com/src/twitter_dfc.svg) A badge used for Twitter.
 
 

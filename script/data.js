@@ -126,6 +126,7 @@ module.exports = [
             'Reddit': { fileName: 'reddit.svg', color: '#FF4500', description: 'A badge used for articles shared on Reddit.' },
             'Snapchat': { fileName: 'snapchat.svg', color: "#FFFC00", description: 'A badge used for Snapchat.'},
             'Facebook': { fileName: 'facebook.svg', color: '#3C5A99', description: 'A badge used for Facebook.' },
+            'Instagram': { fileName: 'instagram.svg', color: '#B900B4', description: 'A badge used for Instagram.' },
             'Twitter': { fileName: 'twitter.svg', color: '#1DA1F2', description: 'A badge used for Twitter.' },
         }
     },
