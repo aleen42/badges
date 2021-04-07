@@ -74,8 +74,8 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![erlang](./src/erlang.svg)](https://badges.aleen42.com/src/erlang.svg) A badge used for projects that coded with Erlang
 - [![modernizr](./src/modernizr.svg)](https://badges.aleen42.com/src/modernizr.svg) A badge for projects using Modernizr
 - [![reactivex](./src/reactivex.svg)](https://badges.aleen42.com/src/reactivex.svg) A badge for projects using ReactiveX
-- [![jest](./src/jest_1.svg)](https://badges.aleen42.com/src/jest_1.svg) A badge used for projects using Jest for testing JavaScript
-- [![jest](./src/jest_2.svg)](https://badges.aleen42.com/src/jest_2.svg) A badge used for projects using Jest for testing JavaScript
+- [![jest](./src/jest_1.svg)](https://badges.aleen42.com/src/jest_1.svg) A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript.
+- [![jest](./src/jest_2.svg)](https://badges.aleen42.com/src/jest_2.svg) A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript. *(**official accepted** by [facebook/jest#5348](https://github.com/facebook/jest/issues/5438))*
 - [![jasmine](./src/jasmine.svg)](https://badges.aleen42.com/src/jasmine.svg) A badge used for projects using Jasmine for testing JavaScript
 - [![visual_studio](./src/visual_studio.svg)](https://badges.aleen42.com/src/visual_studio.svg) A badge for the Visual Studio IDE
 - [![visual_studio_code](./src/visual_studio_code.svg)](https://badges.aleen42.com/src/visual_studio_code.svg) A badge for the Visual Studio Code IDE

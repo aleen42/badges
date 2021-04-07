@@ -35,8 +35,8 @@ module.exports = [
             'Modernizr': { fileName: 'modernizr.svg', color: '#D91B77', description: 'A badge for projects using Modernizr' },
             'ReactiveX': { fileName: 'reactivex.svg', color: '#C7008F', description: 'A badge for projects using ReactiveX' },
             'Jest': [
-                { fileName: 'jest.svg', color: '#99425b', description: 'A badge used for projects using Jest for testing JavaScript' },
-                { fileName: 'jest.svg', skin: 'light', color: '#99425b', description: 'A badge used for projects using Jest for testing JavaScript' }
+                { fileName: 'jest.svg', color: '#99425b', description: 'A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript.' },
+                { fileName: 'jest.svg', skin: 'light', color: '#99425b', description: 'A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript. *(**official accepted** by [facebook/jest#5348](https://github.com/facebook/jest/issues/5438))*' }
             ],
             'Jasmine': { fileName: 'jasmine.svg', color: '#8A4182', description: 'A badge used for projects using Jasmine for testing JavaScript' },
             'Visual Studio': { fileName: 'visual_studio.svg', color: '#68217A', description: 'A badge for the Visual Studio IDE' },
