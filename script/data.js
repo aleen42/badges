@@ -78,12 +78,12 @@ module.exports = [
     }, {
         name: 'Community',
         data: {
-            '掘金翻译计划': { fileName: 'juejin_translation.svg', color: '#006CFF', description: 'A badge used for any articles translated by gold-miner' },
-            'Stack Exchange': { fileName: 'stackexchange.svg', color: '#205296', description: 'A badge used for references on Stack Exchange' },
+            '掘金翻译计划': { fileName: 'juejin_translation.svg', color: '#006CFF', description: 'A badge used for any articles translated by gold-miner.' },
+            'Stack Exchange': { fileName: 'stackexchange.svg', color: '#205296', description: 'A badge used for references on Stack Exchange.' },
             'Super User': { fileName: 'superuser.svg', color: '#2EACE3', description: 'A badge used for references on Super User' },
-            'Stack Overflow': { fileName: 'stackoverflow.svg', color: '#F48023', description: 'A badge used for GitHub repositories' },
-            'Medium': { fileName: 'medium.svg', color: '#14C767', description: 'A badge used for articles shared on Medium' },
-            'Server Fault': { fileName: 'serverfault.svg', color: '#231F20', description: 'A badge used for references on Server Fault' },
+            'Stack Overflow': { fileName: 'stackoverflow.svg', color: '#F48023', description: 'A badge used for references on Stack Overflow.' },
+            'Medium': { fileName: 'medium.svg', color: '#14C767', description: 'A badge used for articles shared on Medium.' },
+            'Server Fault': { fileName: 'serverfault.svg', color: '#231F20', description: 'A badge used for references on Server Fault.' },
         }
     }, {
         name: 'Communication',
@@ -120,10 +120,10 @@ module.exports = [
         name: 'Social Media',
         data: {
             'Youtube': { fileName: 'youtube.svg', color: "#FF0000", description: 'A badge used for Youtube.'},
-            'Pinterest': { fileName: 'pinterest.svg', color: '#CE0F19', description: 'A badge used for sharing communities on Pinterest' },
-            'Google+': { fileName: 'google_plus.svg', color: '#DC4A38', description: 'A badge used for sharing communities on Google+' },
-            'Sina': { fileName: 'sina_weibo.svg', color: '#E6162D', description: 'A badge used for sharing communities on Sina Weibo' },
-            'Reddit': { fileName: 'reddit.svg', color: '#FF4500', description: 'A badge used for articles shared on Reddit' },
+            'Pinterest': { fileName: 'pinterest.svg', color: '#CE0F19', description: 'A badge used for sharing communities on Pinterest.' },
+            'Google+': { fileName: 'google_plus.svg', color: '#DC4A38', description: 'A badge used for sharing communities on Google Plus.' },
+            'Sina': { fileName: 'sina_weibo.svg', color: '#E6162D', description: 'A badge used for sharing communities on Sina Weibo.' },
+            'Reddit': { fileName: 'reddit.svg', color: '#FF4500', description: 'A badge used for articles shared on Reddit.' },
             'Snapchat': { fileName: 'snapchat.svg', color: "#FFFC00", description: 'A badge used for Snapchat.'},
             'Facebook': { fileName: 'facebook.svg', color: '#3C5A99', description: 'A badge used for Facebook.' },
             'Twitter': { fileName: 'twitter.svg', color: '#1DA1F2', description: 'A badge used for Twitter.' },

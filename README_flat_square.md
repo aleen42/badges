@@ -113,12 +113,12 @@ As for how to create a badge and add it in the collection? There are some steps 
 
 ### Community
 
-- [![juejin_translation](./src/juejin_translation_flat_square.svg)](https://badges.aleen42.com/src/juejin_translation_flat_square.svg) A badge used for any articles translated by gold-miner
-- [![stackexchange](./src/stackexchange_flat_square.svg)](https://badges.aleen42.com/src/stackexchange_flat_square.svg) A badge used for references on Stack Exchange
+- [![juejin_translation](./src/juejin_translation_flat_square.svg)](https://badges.aleen42.com/src/juejin_translation_flat_square.svg) A badge used for any articles translated by gold-miner.
+- [![stackexchange](./src/stackexchange_flat_square.svg)](https://badges.aleen42.com/src/stackexchange_flat_square.svg) A badge used for references on Stack Exchange.
 - [![superuser](./src/superuser_flat_square.svg)](https://badges.aleen42.com/src/superuser_flat_square.svg) A badge used for references on Super User
-- [![stackoverflow](./src/stackoverflow_flat_square.svg)](https://badges.aleen42.com/src/stackoverflow_flat_square.svg) A badge used for GitHub repositories
-- [![medium](./src/medium_flat_square.svg)](https://badges.aleen42.com/src/medium_flat_square.svg) A badge used for articles shared on Medium
-- [![serverfault](./src/serverfault_flat_square.svg)](https://badges.aleen42.com/src/serverfault_flat_square.svg) A badge used for references on Server Fault
+- [![stackoverflow](./src/stackoverflow_flat_square.svg)](https://badges.aleen42.com/src/stackoverflow_flat_square.svg) A badge used for references on Stack Overflow.
+- [![medium](./src/medium_flat_square.svg)](https://badges.aleen42.com/src/medium_flat_square.svg) A badge used for articles shared on Medium.
+- [![serverfault](./src/serverfault_flat_square.svg)](https://badges.aleen42.com/src/serverfault_flat_square.svg) A badge used for references on Server Fault.
 
 
 ### Communication
@@ -154,10 +154,10 @@ As for how to create a badge and add it in the collection? There are some steps 
 ### Social Media
 
 - [![youtube](./src/youtube_flat_square.svg)](https://badges.aleen42.com/src/youtube_flat_square.svg) A badge used for Youtube.
-- [![pinterest](./src/pinterest_flat_square.svg)](https://badges.aleen42.com/src/pinterest_flat_square.svg) A badge used for sharing communities on Pinterest
-- [![google_plus](./src/google_plus_flat_square.svg)](https://badges.aleen42.com/src/google_plus_flat_square.svg) A badge used for sharing communities on Google+
-- [![sina_weibo](./src/sina_weibo_flat_square.svg)](https://badges.aleen42.com/src/sina_weibo_flat_square.svg) A badge used for sharing communities on Sina Weibo
-- [![reddit](./src/reddit_flat_square.svg)](https://badges.aleen42.com/src/reddit_flat_square.svg) A badge used for articles shared on Reddit
+- [![pinterest](./src/pinterest_flat_square.svg)](https://badges.aleen42.com/src/pinterest_flat_square.svg) A badge used for sharing communities on Pinterest.
+- [![google_plus](./src/google_plus_flat_square.svg)](https://badges.aleen42.com/src/google_plus_flat_square.svg) A badge used for sharing communities on Google Plus.
+- [![sina_weibo](./src/sina_weibo_flat_square.svg)](https://badges.aleen42.com/src/sina_weibo_flat_square.svg) A badge used for sharing communities on Sina Weibo.
+- [![reddit](./src/reddit_flat_square.svg)](https://badges.aleen42.com/src/reddit_flat_square.svg) A badge used for articles shared on Reddit.
 - [![snapchat](./src/snapchat_flat_square.svg)](https://badges.aleen42.com/src/snapchat_flat_square.svg) A badge used for Snapchat.
 - [![facebook](./src/facebook_flat_square.svg)](https://badges.aleen42.com/src/facebook_flat_square.svg) A badge used for Facebook.
 - [![twitter](./src/twitter_flat_square.svg)](https://badges.aleen42.com/src/twitter_flat_square.svg) A badge used for Twitter.
