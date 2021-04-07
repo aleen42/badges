@@ -33,6 +33,7 @@ module.exports = [
             'Gulp': { fileName: 'gulp.svg', color: '#D34A47', description: 'A badge used for projects using Gulp to build' },
             'React': { fileName: 'react.svg', color: '#61DAFB', description: 'A badge used for repositories which has used the framework, React' },
             'React Router': { fileName: 'router.svg', color: '#62DAFB', description: 'A badge used for projects using React Router' },
+            'Erlang': { fileName: 'erlang.svg', color: '#A90533', description: 'A badge used for projects that coded with Erlang' },
             'Modernizr': { fileName: 'modernizr.svg', color: '#D91B77', description: 'A badge for projects using Modernizr' },
             'ReactiveX': { fileName: 'reactivex.svg', color: '#C7008F', description: 'A badge for projects using ReactiveX' },
             'Jest': [

@@ -73,6 +73,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![gulp](./src/gulp.svg)](https://badges.aleen42.com/src/gulp.svg) A badge used for projects using Gulp to build
 - [![react](./src/react.svg)](https://badges.aleen42.com/src/react.svg) A badge used for repositories which has used the framework, React
 - [![router](./src/router.svg)](https://badges.aleen42.com/src/router.svg) A badge used for projects using React Router
+- [![erlang](./src/erlang.svg)](https://badges.aleen42.com/src/erlang.svg) A badge used for projects that coded with Erlang
 - [![modernizr](./src/modernizr.svg)](https://badges.aleen42.com/src/modernizr.svg) A badge for projects using Modernizr
 - [![reactivex](./src/reactivex.svg)](https://badges.aleen42.com/src/reactivex.svg) A badge for projects using ReactiveX
 - [![jest](./src/jest_1.svg)](https://badges.aleen42.com/src/jest_1.svg) A badge used for projects using Jest for testing JavaScript
