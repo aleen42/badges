@@ -101,6 +101,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![mocha](./src/mocha_dfc.svg)](https://badges.aleen42.com/src/mocha_dfc.svg) A badge used for projects using Mocha for unit tests
 - [![apiary](./src/apiary_dfc.svg)](https://badges.aleen42.com/src/apiary_dfc.svg) A badge used for documents written on Apiary
 - [![docker](./src/docker_dfc.svg)](https://badges.aleen42.com/src/docker_dfc.svg) A badge used for projects deployed on Docker
+- [![kotlin](./src/kotlin_dfc.svg)](https://badges.aleen42.com/src/kotlin_dfc.svg) A badge used for projects that coded with Kotlin
 - [![typescript](./src/typescript_dfc.svg)](https://badges.aleen42.com/src/typescript_dfc.svg) A badge used for projects that coded with TypeScript
 - [![jsfiddle](./src/jsfiddle_dfc.svg)](https://badges.aleen42.com/src/jsfiddle_dfc.svg) A badge used for projects running on JSFiddle
 - [![webpack](./src/webpack_dfc.svg)](https://badges.aleen42.com/src/webpack_dfc.svg) A badge used for projects built with Webpack
