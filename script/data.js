@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: data for building badges
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Sep 7th, 2020
+ *      - Update Time: Apr 7th, 2021
  *
  *
  **********************************************************************/
@@ -59,6 +59,7 @@ module.exports = [
             'Tensorflow': { fileName: 'tensorflow.svg', color: '#F8BF3C', description: 'A badge use for projects using Tensorflow' },
             'Bower': { fileName: 'bower.svg', color: '#F68A31', description: 'A badge used for bower packages' },
             'Gitlab': { fileName: 'gitlab.svg', color: '#FC6D26', description: 'A badge used for Gitlab repositories' },
+            'Java': { fileName: 'java.svg', color: '#E76F00', description: 'A badge used for projects that coded with Java' },
             'Grunt': { fileName: 'grunt.svg', color: '#FBA919', description: 'A badge used for projects using grunt to build' },
             'RSS': { fileName: 'rss.svg', color: '#FF9911', description: 'A badge used for RSS subscribing' },
             'JavaScript': { fileName: 'javascript.svg', color: '#F7DF1E', description: 'A badge used for projects that coded with JavaScript' },

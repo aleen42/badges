@@ -94,6 +94,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![tensorflow](./src/tensorflow_flat_square_dfc.svg)](https://badges.aleen42.com/src/tensorflow_flat_square_dfc.svg) A badge use for projects using Tensorflow
 - [![bower](./src/bower_flat_square_dfc.svg)](https://badges.aleen42.com/src/bower_flat_square_dfc.svg) A badge used for bower packages
 - [![gitlab](./src/gitlab_flat_square_dfc.svg)](https://badges.aleen42.com/src/gitlab_flat_square_dfc.svg) A badge used for Gitlab repositories
+- [![java](./src/java_flat_square_dfc.svg)](https://badges.aleen42.com/src/java_flat_square_dfc.svg) A badge used for projects that coded with Java
 - [![grunt](./src/grunt_flat_square_dfc.svg)](https://badges.aleen42.com/src/grunt_flat_square_dfc.svg) A badge used for projects using grunt to build
 - [![rss](./src/rss_flat_square_dfc.svg)](https://badges.aleen42.com/src/rss_flat_square_dfc.svg) A badge used for RSS subscribing
 - [![javascript](./src/javascript_flat_square_dfc.svg)](https://badges.aleen42.com/src/javascript_flat_square_dfc.svg) A badge used for projects that coded with JavaScript
