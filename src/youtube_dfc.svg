@@ -10,14 +10,13 @@
 
     <g clip-path="url(#a)">
         <path fill="#555" d="M0 0h25v20H0z"/>
-        <path fill="#FF0000" d="M25 0h58v20H25z"/>
+        <path fill="#ff0000" d="M25 0h58v20H25z"/>
         <path fill="url(#b)" d="M0 0h83v20H0z"/>
     </g>
-    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
-        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHlsZT0iZmlsbDpyZ2JhKDI1NSwgMCwgMCwgMSk7dHJhbnNmb3JtOjstbXMtZmlsdGVyOiI+PHBhdGggZD0iTTIxLjU5Myw3LjIwM2MtMC4yMy0wLjg1OC0wLjkwNS0xLjUzNS0xLjc2Mi0xLjc2NkMxOC4yNjUsNS4wMDcsMTIsNSwxMiw1UzUuNzM2LDQuOTkzLDQuMTY5LDUuNDA0IGMtMC44NCwwLjIyOS0xLjUzNCwwLjkyMS0xLjc2NiwxLjc3OGMtMC40MTMsMS41NjYtMC40MTcsNC44MTQtMC40MTcsNC44MTRzLTAuMDA0LDMuMjY0LDAuNDA2LDQuODE0IGMwLjIzLDAuODU3LDAuOTA1LDEuNTM0LDEuNzYzLDEuNzY1YzEuNTgyLDAuNDMsNy44MywwLjQzNyw3LjgzLDAuNDM3czYuMjY1LDAuMDA3LDcuODMxLTAuNDAzYzAuODU2LTAuMjMsMS41MzQtMC45MDYsMS43NjctMS43NjMgQzIxLjk5NywxNS4yODEsMjIsMTIuMDM0LDIyLDEyLjAzNFMyMi4wMiw4Ljc2OSwyMS41OTMsNy4yMDN6IE05Ljk5NiwxNS4wMDVsMC4wMDUtNmw1LjIwNywzLjAwNUw5Ljk5NiwxNS4wMDV6Ij48L3BhdGg+PC9zdmc+"/>
-        <text x="19.5" y="15" fill="#010101" fill-opacity=".3"></text>
-        <text x="19.5" y="14"></text>
-        <text x="53" y="15" fill="#010101" fill-opacity=".3">Youtube</text>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNy4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iMTkycHgiIGhlaWdodD0iMTkycHgiIHZpZXdCb3g9IjAgMCAxOTIgMTkyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxOTIgMTkyIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxnPg0KCTxwYXRoIGZpbGw9IiNFOTAwMDAiIGQ9Ik0xODAuMzIyLDUzLjM2M2MtMi4wMjQtNy42MjItNy45ODgtMTMuNjI0LTE1LjU2LTE1LjY2MUMxNTEuMDM3LDM0LDk2LDM0LDk2LDM0cy01NS4wMzcsMC02OC43NjIsMy43MDINCgkJYy03LjU3MiwyLjAzNy0xMy41MzYsOC4wNC0xNS41NiwxNS42NjFDOCw2Ny4xNzcsOCw5Niw4LDk2czAsMjguODIzLDMuNjc4LDQyLjYzN2MyLjAyNCw3LjYyMiw3Ljk4OCwxMy42MjQsMTUuNTYsMTUuNjYxDQoJCUM0MC45NjMsMTU4LDk2LDE1OCw5NiwxNThzNTUuMDM3LDAsNjguNzYyLTMuNzAyYzcuNTcyLTIuMDM3LDEzLjUzNi04LjA0LDE1LjU2LTE1LjY2MUMxODQsMTI0LjgyMywxODQsOTYsMTg0LDk2DQoJCVMxODQsNjcuMTc3LDE4MC4zMjIsNTMuMzYzeiIvPg0KCTxwb2x5Z29uIGZpbGw9IiNGRkZGRkUiIHBvaW50cz0iNzgsMTIyLjE2OSA3OCw2OS44MzEgMTI0LDk2LjAwMSAJIi8+DQo8L2c+DQo8L3N2Zz4NCg=="/>
+        <text x="53" y="14.6" fill="#010101" fill-opacity=".3">Youtube</text>
         <text x="53" y="14">Youtube</text>
     </g>
 </svg>
