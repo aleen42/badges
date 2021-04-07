@@ -124,8 +124,9 @@ module.exports = [
         name: 'Social Media',
         data: {
             'Youtube': { fileName: 'youtube.svg', color: "FF0000", description: 'A badge used for Youtube References'},
-            'Facebook': { fileName: 'facebook.svg', color: '#3C5A99', description: 'A badge used for sharing communities on Facebook' },
-            'Twitter': { fileName: 'twitter.svg', color: '#1DA1F2', description: 'A badge used for sharing communities on Twitter' },
+            'Snapchat': { fileName: 'snapchat.svg', color: "#FFFC00", description: 'A badge used for Snapchat'},
+            'Facebook': { fileName: 'facebook.svg', color: '#3C5A99', description: 'A badge used for Facebook' },
+            'Twitter': { fileName: 'twitter.svg', color: '#1DA1F2', description: 'A badge used for Twitter' },
         }
     },
     {

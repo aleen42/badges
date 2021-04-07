@@ -158,8 +158,9 @@ As for how to create a badge and add it in the collection? There are some steps 
 ### Social Media
 
 - [![youtube](./src/youtube.svg)](https://badges.aleen42.com/src/youtube.svg) A badge used for Youtube References
-- [![facebook](./src/facebook.svg)](https://badges.aleen42.com/src/facebook.svg) A badge used for sharing communities on Facebook
-- [![twitter](./src/twitter.svg)](https://badges.aleen42.com/src/twitter.svg) A badge used for sharing communities on Twitter
+- [![snapchat](./src/snapchat.svg)](https://badges.aleen42.com/src/snapchat.svg) A badge used for Snapchat
+- [![facebook](./src/facebook.svg)](https://badges.aleen42.com/src/facebook.svg) A badge used for Facebook
+- [![twitter](./src/twitter.svg)](https://badges.aleen42.com/src/twitter.svg) A badge used for Twitter
 
 
 ### Sponsors
