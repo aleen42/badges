@@ -116,10 +116,6 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![juejin_translation](./src/juejin_translation.svg)](https://badges.aleen42.com/src/juejin_translation.svg) A badge used for any articles translated by gold-miner
 - [![stackexchange](./src/stackexchange.svg)](https://badges.aleen42.com/src/stackexchange.svg) A badge used for references on Stack Exchange
 - [![superuser](./src/superuser.svg)](https://badges.aleen42.com/src/superuser.svg) A badge used for references on Super User
-- [![google_plus](./src/google_plus.svg)](https://badges.aleen42.com/src/google_plus.svg) A badge used for sharing communities on Google+
-- [![pinterest](./src/pinterest.svg)](https://badges.aleen42.com/src/pinterest.svg) A badge used for sharing communities on Pinterest
-- [![sina_weibo](./src/sina_weibo.svg)](https://badges.aleen42.com/src/sina_weibo.svg) A badge used for sharing communities on Sina Weibo
-- [![reddit](./src/reddit.svg)](https://badges.aleen42.com/src/reddit.svg) A badge used for articles shared on Reddit
 - [![stackoverflow](./src/stackoverflow.svg)](https://badges.aleen42.com/src/stackoverflow.svg) A badge used for GitHub repositories
 - [![medium](./src/medium.svg)](https://badges.aleen42.com/src/medium.svg) A badge used for articles shared on Medium
 - [![serverfault](./src/serverfault.svg)](https://badges.aleen42.com/src/serverfault.svg) A badge used for references on Server Fault
@@ -157,10 +153,14 @@ As for how to create a badge and add it in the collection? There are some steps 
 
 ### Social Media
 
-- [![youtube](./src/youtube.svg)](https://badges.aleen42.com/src/youtube.svg) A badge used for Youtube References
-- [![snapchat](./src/snapchat.svg)](https://badges.aleen42.com/src/snapchat.svg) A badge used for Snapchat
-- [![facebook](./src/facebook.svg)](https://badges.aleen42.com/src/facebook.svg) A badge used for Facebook
-- [![twitter](./src/twitter.svg)](https://badges.aleen42.com/src/twitter.svg) A badge used for Twitter
+- [![youtube](./src/youtube.svg)](https://badges.aleen42.com/src/youtube.svg) A badge used for Youtube.
+- [![pinterest](./src/pinterest.svg)](https://badges.aleen42.com/src/pinterest.svg) A badge used for sharing communities on Pinterest
+- [![google_plus](./src/google_plus.svg)](https://badges.aleen42.com/src/google_plus.svg) A badge used for sharing communities on Google+
+- [![sina_weibo](./src/sina_weibo.svg)](https://badges.aleen42.com/src/sina_weibo.svg) A badge used for sharing communities on Sina Weibo
+- [![reddit](./src/reddit.svg)](https://badges.aleen42.com/src/reddit.svg) A badge used for articles shared on Reddit
+- [![snapchat](./src/snapchat.svg)](https://badges.aleen42.com/src/snapchat.svg) A badge used for Snapchat.
+- [![facebook](./src/facebook.svg)](https://badges.aleen42.com/src/facebook.svg) A badge used for Facebook.
+- [![twitter](./src/twitter.svg)](https://badges.aleen42.com/src/twitter.svg) A badge used for Twitter.
 
 
 ### Sponsors
