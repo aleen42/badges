@@ -65,6 +65,7 @@ module.exports = [
             'JavaScript': { fileName: 'javascript.svg', color: '#F7DF1E', description: 'A badge used for projects that coded with JavaScript' },
             'Mocha': { fileName: 'mocha.svg', color: '#8D6748', description: 'A badge used for projects using Mocha for unit tests' },
             'Apiary': { fileName: 'apiary.svg', color: '#59C5AC', description: 'A badge used for documents written on Apiary' },
+            'Golang': { fileName: 'golang.svg', color: '#00ACD7', description: 'A badge used for projects that coded with Golang' },
             'Docker': { fileName: 'docker.svg', color: '#1D91B4', description: 'A badge used for projects deployed on Docker' },
             'Kotlin': { fileName: 'kotlin.svg', color: '#0593D6', description: 'A badge used for projects that coded with Kotlin' },
             'TypeScript': { fileName: 'typescript.svg', color: '#007ACC', description: 'A badge used for projects that coded with TypeScript' },

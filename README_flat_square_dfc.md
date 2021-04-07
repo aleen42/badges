@@ -100,6 +100,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![javascript](./src/javascript_flat_square_dfc.svg)](https://badges.aleen42.com/src/javascript_flat_square_dfc.svg) A badge used for projects that coded with JavaScript
 - [![mocha](./src/mocha_flat_square_dfc.svg)](https://badges.aleen42.com/src/mocha_flat_square_dfc.svg) A badge used for projects using Mocha for unit tests
 - [![apiary](./src/apiary_flat_square_dfc.svg)](https://badges.aleen42.com/src/apiary_flat_square_dfc.svg) A badge used for documents written on Apiary
+- [![golang](./src/golang_flat_square_dfc.svg)](https://badges.aleen42.com/src/golang_flat_square_dfc.svg) A badge used for projects that coded with Golang
 - [![docker](./src/docker_flat_square_dfc.svg)](https://badges.aleen42.com/src/docker_flat_square_dfc.svg) A badge used for projects deployed on Docker
 - [![kotlin](./src/kotlin_flat_square_dfc.svg)](https://badges.aleen42.com/src/kotlin_flat_square_dfc.svg) A badge used for projects that coded with Kotlin
 - [![typescript](./src/typescript_flat_square_dfc.svg)](https://badges.aleen42.com/src/typescript_flat_square_dfc.svg) A badge used for projects that coded with TypeScript
