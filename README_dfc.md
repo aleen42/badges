@@ -92,7 +92,11 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![sublime_text](./src/sublime_text_dfc.svg)](https://badges.aleen42.com/src/sublime_text_dfc.svg) A badge for the Sulime Text editor
 - [![tensorflow](./src/tensorflow_dfc.svg)](https://badges.aleen42.com/src/tensorflow_dfc.svg) A badge use for projects using Tensorflow
 - [![bower](./src/bower_dfc.svg)](https://badges.aleen42.com/src/bower_dfc.svg) A badge used for bower packages
-- [![tc39](./src/tc39_dfc.svg)](https://badges.aleen42.com/src/tc39_dfc.svg) A badge used for [TC39](https://github.com/tc39) committee
+- [![tc39](./src/tc39_1_dfc.svg)](https://badges.aleen42.com/src/tc39_1_dfc.svg) A badge used for [TC39](https://github.com/tc39) committee
+- [![tc39](./src/tc39_2_dfc.svg)](https://badges.aleen42.com/src/tc39_2_dfc.svg) A badge used for proposals under stage 1 of [TC39](https://github.com/tc39) committee
+- [![tc39](./src/tc39_3_dfc.svg)](https://badges.aleen42.com/src/tc39_3_dfc.svg) A badge used for proposals under stage 2 of [TC39](https://github.com/tc39) committee
+- [![tc39](./src/tc39_4_dfc.svg)](https://badges.aleen42.com/src/tc39_4_dfc.svg) A badge used for proposals under stage 3 of [TC39](https://github.com/tc39) committee
+- [![tc39](./src/tc39_5_dfc.svg)](https://badges.aleen42.com/src/tc39_5_dfc.svg) A badge used for proposals under stage 4 of [TC39](https://github.com/tc39) committee
 - [![gitlab](./src/gitlab_dfc.svg)](https://badges.aleen42.com/src/gitlab_dfc.svg) A badge used for Gitlab repositories
 - [![java](./src/java_dfc.svg)](https://badges.aleen42.com/src/java_dfc.svg) A badge used for projects that coded with Java
 - [![grunt](./src/grunt_dfc.svg)](https://badges.aleen42.com/src/grunt_dfc.svg) A badge used for projects using grunt to build

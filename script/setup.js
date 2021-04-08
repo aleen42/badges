@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: a script for building README.md
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Sep 7th, 2020
+ *      - Update Time: Apr 8th, 2021
  *
  *
  **********************************************************************/
@@ -50,7 +50,7 @@ const suffix = (base, ...suffix) => [base, ...suffix].filter(x => x).join('_');
 
 const generateBadge = (style, dfc) => (name, badgeItem, index) => {
     /** check whether badgeItem is an array */
-    const {fileName: fname, color, skin, description} = badgeItem;
+    const {text, fileName: fname, color, skin, description} = badgeItem;
 
     /** extracting name from the file name */
     let fileName = /([\s\S]+)\.[\s\S]+/.exec(fname);
@@ -69,7 +69,7 @@ const generateBadge = (style, dfc) => (name, badgeItem, index) => {
             dfc ? '--dynamic-fore-color' : '',
             `-c ${color}`,
             `-s ${skin || 'dark'}`,
-            `-t "${name}"`,
+            `-t "${text || name}"`,
             `-p ${distPath}${fname}`,
             `--style=${style}`,
             `-o ${output}`,
