@@ -68,77 +68,77 @@ As for how to create a badge and add it in the collection? There are some steps 
 
 ### Coder
 
-- [![angular](./src/angular_dfc.svg)](https://badges.aleen42.com/src/angular_dfc.svg) A badge used for repositories which has used the framework, Angular
-- [![npm](./src/npm_dfc.svg)](https://badges.aleen42.com/src/npm_dfc.svg) A badge used for npm packages
-- [![rollup](./src/rollup_dfc.svg)](https://badges.aleen42.com/src/rollup_dfc.svg) A badge used for projects built with [Rollup](https://github.com/rollup/rollup)
-- [![gulp](./src/gulp_dfc.svg)](https://badges.aleen42.com/src/gulp_dfc.svg) A badge used for projects using Gulp to build
-- [![erlang](./src/erlang_dfc.svg)](https://badges.aleen42.com/src/erlang_dfc.svg) A badge used for projects that coded with Erlang
-- [![modernizr](./src/modernizr_dfc.svg)](https://badges.aleen42.com/src/modernizr_dfc.svg) A badge for projects using Modernizr
-- [![reactivex](./src/reactivex_dfc.svg)](https://badges.aleen42.com/src/reactivex_dfc.svg) A badge for projects using ReactiveX
-- [![jest](./src/jest_1_dfc.svg)](https://badges.aleen42.com/src/jest_1_dfc.svg) A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript.
-- [![jest](./src/jest_2_dfc.svg)](https://badges.aleen42.com/src/jest_2_dfc.svg) A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript. *(**official accepted** by [facebook/jest#5348](https://github.com/facebook/jest/issues/5438))*
-- [![jasmine](./src/jasmine_dfc.svg)](https://badges.aleen42.com/src/jasmine_dfc.svg) A badge used for projects using Jasmine for testing JavaScript
-- [![visual_studio](./src/visual_studio_dfc.svg)](https://badges.aleen42.com/src/visual_studio_dfc.svg) A badge for the Visual Studio IDE
-- [![visual_studio_code](./src/visual_studio_code_dfc.svg)](https://badges.aleen42.com/src/visual_studio_code_dfc.svg) A badge for the Visual Studio Code IDE
-- [![qunit](./src/qunit_dfc.svg)](https://badges.aleen42.com/src/qunit_dfc.svg) A badge for projects using QUnit for unit tests
-- [![redux](./src/redux_dfc.svg)](https://badges.aleen42.com/src/redux_dfc.svg) A badge used for projects using React Redux
-- [![eslint](./src/eslint_dfc.svg)](https://badges.aleen42.com/src/eslint_dfc.svg) A badge used for projects using ESLint
 - [![gitbook](./src/gitbook_1_dfc.svg)](https://badges.aleen42.com/src/gitbook_1_dfc.svg) A badge used for books publish by Gitbook
 - [![gitbook](./src/gitbook_2_dfc.svg)](https://badges.aleen42.com/src/gitbook_2_dfc.svg) A badge used for books publish by Gitbook
-- [![node](./src/node_dfc.svg)](https://badges.aleen42.com/src/node_dfc.svg) A badge used for projects built with Node.js
-- [![vue](./src/vue_dfc.svg)](https://badges.aleen42.com/src/vue_dfc.svg) A badge used for repositories which has used the framework, Vue
-- [![vuepress](./src/vuepress_dfc.svg)](https://badges.aleen42.com/src/vuepress_dfc.svg) A badge used for books publish by Vuepress
-- [![gitter](./src/gitter_dfc.svg)](https://badges.aleen42.com/src/gitter_dfc.svg) A badge used for projects can be discussed on Gitter
-- [![atom](./src/atom_dfc.svg)](https://badges.aleen42.com/src/atom_dfc.svg) A badge for the Atom editor
-- [![sublime_text](./src/sublime_text_dfc.svg)](https://badges.aleen42.com/src/sublime_text_dfc.svg) A badge for the Sulime Text editor
-- [![tensorflow](./src/tensorflow_dfc.svg)](https://badges.aleen42.com/src/tensorflow_dfc.svg) A badge use for projects using Tensorflow
+- [![hacker](./src/hacker_dfc.svg)](https://badges.aleen42.com/src/hacker_dfc.svg) A badge used for hacking projects (**Business Using is not allowed)**
+- [![gulp](./src/gulp_dfc.svg)](https://badges.aleen42.com/src/gulp_dfc.svg) A badge used for projects using Gulp to build
+- [![angular](./src/angular_dfc.svg)](https://badges.aleen42.com/src/angular_dfc.svg) A badge used for repositories which has used the framework, Angular
+- [![gitlab](./src/gitlab_dfc.svg)](https://badges.aleen42.com/src/gitlab_dfc.svg) A badge used for Gitlab repositories
+- [![mocha](./src/mocha_dfc.svg)](https://badges.aleen42.com/src/mocha_dfc.svg) A badge used for projects using Mocha for unit tests
 - [![bower](./src/bower_dfc.svg)](https://badges.aleen42.com/src/bower_dfc.svg) A badge used for bower packages
+- [![java](./src/java_dfc.svg)](https://badges.aleen42.com/src/java_dfc.svg) A badge used for projects that coded with Java
 - [![tc39](./src/tc39_1_dfc.svg)](https://badges.aleen42.com/src/tc39_1_dfc.svg) A badge used for [TC39](https://github.com/tc39) committee
 - [![tc39](./src/tc39_2_dfc.svg)](https://badges.aleen42.com/src/tc39_2_dfc.svg) A badge used for proposals under stage 1 of [TC39](https://github.com/tc39) committee
 - [![tc39](./src/tc39_3_dfc.svg)](https://badges.aleen42.com/src/tc39_3_dfc.svg) A badge used for proposals under stage 2 of [TC39](https://github.com/tc39) committee
 - [![tc39](./src/tc39_4_dfc.svg)](https://badges.aleen42.com/src/tc39_4_dfc.svg) A badge used for proposals under stage 3 of [TC39](https://github.com/tc39) committee
 - [![tc39](./src/tc39_5_dfc.svg)](https://badges.aleen42.com/src/tc39_5_dfc.svg) A badge used for proposals under stage 4 of [TC39](https://github.com/tc39) committee
-- [![gitlab](./src/gitlab_dfc.svg)](https://badges.aleen42.com/src/gitlab_dfc.svg) A badge used for Gitlab repositories
-- [![java](./src/java_dfc.svg)](https://badges.aleen42.com/src/java_dfc.svg) A badge used for projects that coded with Java
-- [![grunt](./src/grunt_dfc.svg)](https://badges.aleen42.com/src/grunt_dfc.svg) A badge used for projects using grunt to build
+- [![sublime_text](./src/sublime_text_dfc.svg)](https://badges.aleen42.com/src/sublime_text_dfc.svg) A badge for the Sulime Text editor
 - [![rss](./src/rss_dfc.svg)](https://badges.aleen42.com/src/rss_dfc.svg) A badge used for RSS subscribing
+- [![grunt](./src/grunt_dfc.svg)](https://badges.aleen42.com/src/grunt_dfc.svg) A badge used for projects using grunt to build
+- [![tensorflow](./src/tensorflow_dfc.svg)](https://badges.aleen42.com/src/tensorflow_dfc.svg) A badge use for projects using Tensorflow
 - [![javascript](./src/javascript_dfc.svg)](https://badges.aleen42.com/src/javascript_dfc.svg) A badge used for projects that coded with JavaScript
-- [![mocha](./src/mocha_dfc.svg)](https://badges.aleen42.com/src/mocha_dfc.svg) A badge used for projects using Mocha for unit tests
+- [![node](./src/node_dfc.svg)](https://badges.aleen42.com/src/node_dfc.svg) A badge used for projects built with Node.js
+- [![atom](./src/atom_dfc.svg)](https://badges.aleen42.com/src/atom_dfc.svg) A badge for the Atom editor
+- [![vue](./src/vue_dfc.svg)](https://badges.aleen42.com/src/vue_dfc.svg) A badge used for repositories which has used the framework, Vue
+- [![vuepress](./src/vuepress_dfc.svg)](https://badges.aleen42.com/src/vuepress_dfc.svg) A badge used for books publish by Vuepress
+- [![gitter](./src/gitter_dfc.svg)](https://badges.aleen42.com/src/gitter_dfc.svg) A badge used for projects can be discussed on Gitter
 - [![apiary](./src/apiary_dfc.svg)](https://badges.aleen42.com/src/apiary_dfc.svg) A badge used for documents written on Apiary
+- [![golang](./src/golang_dfc.svg)](https://badges.aleen42.com/src/golang_dfc.svg) A badge used for projects that coded with Golang
 - [![react](./src/react_dfc.svg)](https://badges.aleen42.com/src/react_dfc.svg) A badge used for repositories which has used the framework, React
 - [![router](./src/router_dfc.svg)](https://badges.aleen42.com/src/router_dfc.svg) A badge used for projects using React Router
-- [![golang](./src/golang_dfc.svg)](https://badges.aleen42.com/src/golang_dfc.svg) A badge used for projects that coded with Golang
 - [![docker](./src/docker_dfc.svg)](https://badges.aleen42.com/src/docker_dfc.svg) A badge used for projects deployed on Docker
 - [![kotlin](./src/kotlin_dfc.svg)](https://badges.aleen42.com/src/kotlin_dfc.svg) A badge used for projects that coded with Kotlin
+- [![visual_studio_code](./src/visual_studio_code_dfc.svg)](https://badges.aleen42.com/src/visual_studio_code_dfc.svg) A badge for the Visual Studio Code IDE
 - [![typescript](./src/typescript_dfc.svg)](https://badges.aleen42.com/src/typescript_dfc.svg) A badge used for projects that coded with TypeScript
 - [![jsfiddle](./src/jsfiddle_dfc.svg)](https://badges.aleen42.com/src/jsfiddle_dfc.svg) A badge used for projects running on JSFiddle
-- [![webpack](./src/webpack_dfc.svg)](https://badges.aleen42.com/src/webpack_dfc.svg) A badge used for projects built with Webpack
-- [![slack](./src/slack_dfc.svg)](https://badges.aleen42.com/src/slack_dfc.svg) A badge used for projects discussed on Slack
 - [![idea](./src/idea_dfc.svg)](https://badges.aleen42.com/src/idea_dfc.svg) A badge for the IDEA editor
 - [![codepen](./src/codepen_dfc.svg)](https://badges.aleen42.com/src/codepen_dfc.svg) A badge used for projects running on CodePen
-- [![hacker](./src/hacker_dfc.svg)](https://badges.aleen42.com/src/hacker_dfc.svg) A badge used for hacking projects (**Business Using is not allowed)**
 - [![github](./src/github_dfc.svg)](https://badges.aleen42.com/src/github_dfc.svg) A badge used for GitHub repositories
+- [![webpack](./src/webpack_dfc.svg)](https://badges.aleen42.com/src/webpack_dfc.svg) A badge used for projects built with Webpack
+- [![eslint](./src/eslint_dfc.svg)](https://badges.aleen42.com/src/eslint_dfc.svg) A badge used for projects using ESLint
+- [![redux](./src/redux_dfc.svg)](https://badges.aleen42.com/src/redux_dfc.svg) A badge used for projects using React Redux
+- [![visual_studio](./src/visual_studio_dfc.svg)](https://badges.aleen42.com/src/visual_studio_dfc.svg) A badge for the Visual Studio IDE
+- [![slack](./src/slack_dfc.svg)](https://badges.aleen42.com/src/slack_dfc.svg) A badge used for projects discussed on Slack
+- [![jasmine](./src/jasmine_dfc.svg)](https://badges.aleen42.com/src/jasmine_dfc.svg) A badge used for projects using Jasmine for testing JavaScript
+- [![qunit](./src/qunit_dfc.svg)](https://badges.aleen42.com/src/qunit_dfc.svg) A badge for projects using QUnit for unit tests
+- [![reactivex](./src/reactivex_dfc.svg)](https://badges.aleen42.com/src/reactivex_dfc.svg) A badge for projects using ReactiveX
+- [![modernizr](./src/modernizr_dfc.svg)](https://badges.aleen42.com/src/modernizr_dfc.svg) A badge for projects using Modernizr
+- [![jest](./src/jest_1_dfc.svg)](https://badges.aleen42.com/src/jest_1_dfc.svg) A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript.
+- [![jest](./src/jest_2_dfc.svg)](https://badges.aleen42.com/src/jest_2_dfc.svg) A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript. *(**official accepted** by [facebook/jest#5348](https://github.com/facebook/jest/issues/5438))*
+- [![erlang](./src/erlang_dfc.svg)](https://badges.aleen42.com/src/erlang_dfc.svg) A badge used for projects that coded with Erlang
+- [![npm](./src/npm_dfc.svg)](https://badges.aleen42.com/src/npm_dfc.svg) A badge used for npm packages
+- [![rollup](./src/rollup_dfc.svg)](https://badges.aleen42.com/src/rollup_dfc.svg) A badge used for projects built with [Rollup](https://github.com/rollup/rollup)
 
 
 ### Community
 
-- [![juejin_translation](./src/juejin_translation_dfc.svg)](https://badges.aleen42.com/src/juejin_translation_dfc.svg) A badge used for any articles translated by [gold-miner](https://github.com/xitu/gold-miner).
-- [![stackexchange](./src/stackexchange_dfc.svg)](https://badges.aleen42.com/src/stackexchange_dfc.svg) A badge used for references on Stack Exchange.
-- [![superuser](./src/superuser_dfc.svg)](https://badges.aleen42.com/src/superuser_dfc.svg) A badge used for references on Super User
 - [![stackoverflow](./src/stackoverflow_dfc.svg)](https://badges.aleen42.com/src/stackoverflow_dfc.svg) A badge used for references on Stack Overflow.
 - [![medium](./src/medium_dfc.svg)](https://badges.aleen42.com/src/medium_dfc.svg) A badge used for articles shared on Medium.
+- [![superuser](./src/superuser_dfc.svg)](https://badges.aleen42.com/src/superuser_dfc.svg) A badge used for references on Super User
+- [![stackexchange](./src/stackexchange_dfc.svg)](https://badges.aleen42.com/src/stackexchange_dfc.svg) A badge used for references on Stack Exchange.
+- [![juejin_translation](./src/juejin_translation_dfc.svg)](https://badges.aleen42.com/src/juejin_translation_dfc.svg) A badge used for any articles translated by [gold-miner](https://github.com/xitu/gold-miner).
 - [![serverfault](./src/serverfault_dfc.svg)](https://badges.aleen42.com/src/serverfault_dfc.svg) A badge used for references on Server Fault.
 
 
 ### Communication
 
-- [![messenger](./src/messenger_dfc.svg)](https://badges.aleen42.com/src/messenger_dfc.svg) A badge used for sharing communication ways on Messenger
-- [![telegram](./src/telegram_dfc.svg)](https://badges.aleen42.com/src/telegram_dfc.svg) A badge used for sharing communication ways on Telegram
-- [![skype](./src/skype_dfc.svg)](https://badges.aleen42.com/src/skype_dfc.svg) A badge used for sharing communication ways on Skype
-- [![whatsapp](./src/whatsapp_dfc.svg)](https://badges.aleen42.com/src/whatsapp_dfc.svg) A badge used for sharing communication ways on WhatsApp
-- [![line](./src/line_dfc.svg)](https://badges.aleen42.com/src/line_dfc.svg) A badge used for sharing communication ways on Line
-- [![wechat](./src/wechat_dfc.svg)](https://badges.aleen42.com/src/wechat_dfc.svg) A badge used for sharing communication ways on WeChat
 - [![lunkr](./src/lunkr_dfc.svg)](https://badges.aleen42.com/src/lunkr_dfc.svg) A badge used for sharing communication ways on Coremail Lunkr
+- [![wechat](./src/wechat_dfc.svg)](https://badges.aleen42.com/src/wechat_dfc.svg) A badge used for sharing communication ways on WeChat
+- [![line](./src/line_dfc.svg)](https://badges.aleen42.com/src/line_dfc.svg) A badge used for sharing communication ways on Line
+- [![whatsapp](./src/whatsapp_dfc.svg)](https://badges.aleen42.com/src/whatsapp_dfc.svg) A badge used for sharing communication ways on WhatsApp
+- [![skype](./src/skype_dfc.svg)](https://badges.aleen42.com/src/skype_dfc.svg) A badge used for sharing communication ways on Skype
+- [![telegram](./src/telegram_dfc.svg)](https://badges.aleen42.com/src/telegram_dfc.svg) A badge used for sharing communication ways on Telegram
+- [![messenger](./src/messenger_dfc.svg)](https://badges.aleen42.com/src/messenger_dfc.svg) A badge used for sharing communication ways on Messenger
 
 
 ### Multimedia
@@ -149,86 +149,86 @@ As for how to create a badge and add it in the collection? There are some steps 
 
 ### Inc
 
-- [![nasa](./src/nasa_dfc.svg)](https://badges.aleen42.com/src/nasa_dfc.svg) A badge used for projects of NASA
-- [![codrops](./src/codrops_dfc.svg)](https://badges.aleen42.com/src/codrops_dfc.svg) A badge used for any project of Codrops Inc.
-- [![xitu](./src/xitu_dfc.svg)](https://badges.aleen42.com/src/xitu_dfc.svg) A badge used for any articles of Xitu Inc.
-- [![coremail](./src/coremail_dfc.svg)](https://badges.aleen42.com/src/coremail_dfc.svg) A badge used for the Coremail Inc.
 - [![soundtooth](./src/soundtooth_dfc.svg)](https://badges.aleen42.com/src/soundtooth_dfc.svg) A badge used for any project of Soundtooth Inc.
-- [![amazon](./src/amazon_dfc.svg)](https://badges.aleen42.com/src/amazon_dfc.svg) A badge used for the Amazon Inc.
 - [![bitcoin](./src/bitcoin_dfc.svg)](https://badges.aleen42.com/src/bitcoin_dfc.svg) A badge used for the Bitcoin Inc.
-- [![airbnb](./src/airbnb_dfc.svg)](https://badges.aleen42.com/src/airbnb_dfc.svg) A badge used for the Airbnb Inc.
+- [![amazon](./src/amazon_dfc.svg)](https://badges.aleen42.com/src/amazon_dfc.svg) A badge used for the Amazon Inc.
 - [![monsoon](./src/monsoon_dfc.svg)](https://badges.aleen42.com/src/monsoon_dfc.svg) A badge used for the Monsoon Inc.
+- [![codrops](./src/codrops_dfc.svg)](https://badges.aleen42.com/src/codrops_dfc.svg) A badge used for any project of Codrops Inc.
+- [![coremail](./src/coremail_dfc.svg)](https://badges.aleen42.com/src/coremail_dfc.svg) A badge used for the Coremail Inc.
+- [![nasa](./src/nasa_dfc.svg)](https://badges.aleen42.com/src/nasa_dfc.svg) A badge used for projects of NASA
+- [![xitu](./src/xitu_dfc.svg)](https://badges.aleen42.com/src/xitu_dfc.svg) A badge used for any articles of Xitu Inc.
+- [![airbnb](./src/airbnb_dfc.svg)](https://badges.aleen42.com/src/airbnb_dfc.svg) A badge used for the Airbnb Inc.
 
 
 ### Social Media
 
 - [![youtube](./src/youtube_dfc.svg)](https://badges.aleen42.com/src/youtube_dfc.svg) A badge used for Youtube.
-- [![pinterest](./src/pinterest_dfc.svg)](https://badges.aleen42.com/src/pinterest_dfc.svg) A badge used for sharing communities on Pinterest.
 - [![google_plus](./src/google_plus_dfc.svg)](https://badges.aleen42.com/src/google_plus_dfc.svg) A badge used for sharing communities on Google Plus.
-- [![sina_weibo](./src/sina_weibo_dfc.svg)](https://badges.aleen42.com/src/sina_weibo_dfc.svg) A badge used for sharing communities on Sina Weibo.
 - [![reddit](./src/reddit_dfc.svg)](https://badges.aleen42.com/src/reddit_dfc.svg) A badge used for articles shared on Reddit.
 - [![snapchat](./src/snapchat_dfc.svg)](https://badges.aleen42.com/src/snapchat_dfc.svg) A badge used for Snapchat.
+- [![twitter](./src/twitter_dfc.svg)](https://badges.aleen42.com/src/twitter_dfc.svg) A badge used for Twitter.
 - [![facebook](./src/facebook_dfc.svg)](https://badges.aleen42.com/src/facebook_dfc.svg) A badge used for Facebook.
 - [![instagram](./src/instagram_dfc.svg)](https://badges.aleen42.com/src/instagram_dfc.svg) A badge used for Instagram.
-- [![twitter](./src/twitter_dfc.svg)](https://badges.aleen42.com/src/twitter_dfc.svg) A badge used for Twitter.
+- [![sina_weibo](./src/sina_weibo_dfc.svg)](https://badges.aleen42.com/src/sina_weibo_dfc.svg) A badge used for sharing communities on Sina Weibo.
+- [![pinterest](./src/pinterest_dfc.svg)](https://badges.aleen42.com/src/pinterest_dfc.svg) A badge used for sharing communities on Pinterest.
 
 
 ### Sponsors
 
-- [![paypal](./src/paypal_dfc.svg)](https://badges.aleen42.com/src/paypal_dfc.svg) A badge used for Paypal sponsors.
-- [![alipay](./src/alipay_dfc.svg)](https://badges.aleen42.com/src/alipay_dfc.svg) A badge used for Alipay sponsors.
 - [![patreon](./src/patreon_dfc.svg)](https://badges.aleen42.com/src/patreon_dfc.svg) A badge used for Patreon sponsors.
 - [![buymeacoffee](./src/buymeacoffee_dfc.svg)](https://badges.aleen42.com/src/buymeacoffee_dfc.svg) A badge used for BuyMeACoffee sponsors.
 - [![issuehunt](./src/issuehunt_dfc.svg)](https://badges.aleen42.com/src/issuehunt_dfc.svg) A badge used for IssueHunt sponsors.
+- [![alipay](./src/alipay_dfc.svg)](https://badges.aleen42.com/src/alipay_dfc.svg) A badge used for Alipay sponsors.
+- [![paypal](./src/paypal_dfc.svg)](https://badges.aleen42.com/src/paypal_dfc.svg) A badge used for Paypal sponsors.
 
 
 ### Car
 
+- [![toyota](./src/toyota_dfc.svg)](https://badges.aleen42.com/src/toyota_dfc.svg) A badge used for cars of Toyota
+- [![mercedes_benz](./src/mercedes_benz_dfc.svg)](https://badges.aleen42.com/src/mercedes_benz_dfc.svg) A badge used for cars of Mercedes Benz
 - [![lamborghini](./src/lamborghini_dfc.svg)](https://badges.aleen42.com/src/lamborghini_dfc.svg) A badge used for cars of Lamborghini
+- [![land_rover](./src/land_rover_dfc.svg)](https://badges.aleen42.com/src/land_rover_dfc.svg) A badge used for cars of Land Rover
+- [![bmw](./src/bmw_dfc.svg)](https://badges.aleen42.com/src/bmw_dfc.svg) A badge used for cars of BMW
+- [![audi](./src/audi_dfc.svg)](https://badges.aleen42.com/src/audi_dfc.svg) A badge used for cars of Audi
+- [![marussia](./src/marussia_dfc.svg)](https://badges.aleen42.com/src/marussia_dfc.svg) A badge used for cars of Marussia
+- [![maserati](./src/maserati_dfc.svg)](https://badges.aleen42.com/src/maserati_dfc.svg) A badge used for cars of Maserati
+- [![koenigsegg](./src/koenigsegg_dfc.svg)](https://badges.aleen42.com/src/koenigsegg_dfc.svg) A badge used for cars of Koenigsegg
 - [![bugatti](./src/bugatti_dfc.svg)](https://badges.aleen42.com/src/bugatti_dfc.svg) A badge used for cars of Bugatti
 - [![porsche](./src/porsche_dfc.svg)](https://badges.aleen42.com/src/porsche_dfc.svg) A badge used for cars of Porsche
-- [![tesla](./src/tesla_dfc.svg)](https://badges.aleen42.com/src/tesla_dfc.svg) A badge used for cars of Tesla
-- [![ferrari](./src/ferrari_dfc.svg)](https://badges.aleen42.com/src/ferrari_dfc.svg) A badge used for cars of Ferrari
-- [![toyota](./src/toyota_dfc.svg)](https://badges.aleen42.com/src/toyota_dfc.svg) A badge used for cars of Toyota
 - [![mitsubishi](./src/mitsubishi_dfc.svg)](https://badges.aleen42.com/src/mitsubishi_dfc.svg) A badge used for cars of Mitsubishi
-- [![maserati](./src/maserati_dfc.svg)](https://badges.aleen42.com/src/maserati_dfc.svg) A badge used for cars of Maserati
-- [![marussia](./src/marussia_dfc.svg)](https://badges.aleen42.com/src/marussia_dfc.svg) A badge used for cars of Marussia
-- [![koenigsegg](./src/koenigsegg_dfc.svg)](https://badges.aleen42.com/src/koenigsegg_dfc.svg) A badge used for cars of Koenigsegg
-- [![bmw](./src/bmw_dfc.svg)](https://badges.aleen42.com/src/bmw_dfc.svg) A badge used for cars of BMW
-- [![land_rover](./src/land_rover_dfc.svg)](https://badges.aleen42.com/src/land_rover_dfc.svg) A badge used for cars of Land Rover
-- [![mercedes_benz](./src/mercedes_benz_dfc.svg)](https://badges.aleen42.com/src/mercedes_benz_dfc.svg) A badge used for cars of Mercedes Benz
-- [![audi](./src/audi_dfc.svg)](https://badges.aleen42.com/src/audi_dfc.svg) A badge used for cars of Audi
+- [![ferrari](./src/ferrari_dfc.svg)](https://badges.aleen42.com/src/ferrari_dfc.svg) A badge used for cars of Ferrari
+- [![tesla](./src/tesla_dfc.svg)](https://badges.aleen42.com/src/tesla_dfc.svg) A badge used for cars of Tesla
 
 
 ### Football Clubs
 
-- [![liverpool](./src/liverpool_dfc.svg)](https://badges.aleen42.com/src/liverpool_dfc.svg) A badge used for FC Liverpool
-- [![real_madrid](./src/real_madrid_dfc.svg)](https://badges.aleen42.com/src/real_madrid_dfc.svg) A badge used for FC Real Madrid
 - [![manchester_united](./src/manchester_united_dfc.svg)](https://badges.aleen42.com/src/manchester_united_dfc.svg) A badge used for FC Manchester United
+- [![real_madrid](./src/real_madrid_dfc.svg)](https://badges.aleen42.com/src/real_madrid_dfc.svg) A badge used for FC Real Madrid
+- [![liverpool](./src/liverpool_dfc.svg)](https://badges.aleen42.com/src/liverpool_dfc.svg) A badge used for FC Liverpool
+- [![chelsea](./src/chelsea_dfc.svg)](https://badges.aleen42.com/src/chelsea_dfc.svg) A badge used for FC Chelsea
+- [![barcelona](./src/barcelona_dfc.svg)](https://badges.aleen42.com/src/barcelona_dfc.svg) A badge used for FC Barcelona
+- [![bayern_munchen](./src/bayern_munchen_dfc.svg)](https://badges.aleen42.com/src/bayern_munchen_dfc.svg) A badge used for FC Bayern Munchen
 - [![arsenal](./src/arsenal_dfc.svg)](https://badges.aleen42.com/src/arsenal_dfc.svg) A badge used for FC Arsenal
 - [![ac_milan](./src/ac_milan_dfc.svg)](https://badges.aleen42.com/src/ac_milan_dfc.svg) A badge used for FC AC Milan
-- [![bayern_munchen](./src/bayern_munchen_dfc.svg)](https://badges.aleen42.com/src/bayern_munchen_dfc.svg) A badge used for FC Bayern Munchen
-- [![barcelona](./src/barcelona_dfc.svg)](https://badges.aleen42.com/src/barcelona_dfc.svg) A badge used for FC Barcelona
-- [![chelsea](./src/chelsea_dfc.svg)](https://badges.aleen42.com/src/chelsea_dfc.svg) A badge used for FC Chelsea
 
 
 ### Game
 
-- [![steam](./src/steam_dfc.svg)](https://badges.aleen42.com/src/steam_dfc.svg) A badge used for any game supported on the platform Steam
 - [![ingress](./src/ingress_dfc.svg)](https://badges.aleen42.com/src/ingress_dfc.svg) A badge used for the game Ingress published by Niantic Inc.
+- [![steam](./src/steam_dfc.svg)](https://badges.aleen42.com/src/steam_dfc.svg) A badge used for any game supported on the platform Steam
 - [![osu](./src/osu_dfc.svg)](https://badges.aleen42.com/src/osu_dfc.svg) A badge used for the game osu! published by ppy
 
 
 ### Designer
 
-- [![behance](./src/behance_dfc.svg)](https://badges.aleen42.com/src/behance_dfc.svg) A badge used for designing projects sharing on Behance
-- [![photoshop](./src/photoshop_dfc.svg)](https://badges.aleen42.com/src/photoshop_dfc.svg) A badge used for designing projects using Photoshop as a tool
+- [![flash](./src/flash_dfc.svg)](https://badges.aleen42.com/src/flash_dfc.svg) A badge used for designing projects using Flash as a tool
 - [![illustrator](./src/illustrator_dfc.svg)](https://badges.aleen42.com/src/illustrator_dfc.svg) A badge used for designing projects using Illustrator as a tool
+- [![zeplin](./src/zeplin_dfc.svg)](https://badges.aleen42.com/src/zeplin_dfc.svg) A badge used for designing projects with Zeplin
 - [![dreamweaver](./src/dreamweaver_dfc.svg)](https://badges.aleen42.com/src/dreamweaver_dfc.svg) A badge used for projects using Dreamweaver as a tool
+- [![photoshop](./src/photoshop_dfc.svg)](https://badges.aleen42.com/src/photoshop_dfc.svg) A badge used for designing projects using Photoshop as a tool
+- [![behance](./src/behance_dfc.svg)](https://badges.aleen42.com/src/behance_dfc.svg) A badge used for designing projects sharing on Behance
 - [![after_effects](./src/after_effects_dfc.svg)](https://badges.aleen42.com/src/after_effects_dfc.svg) A badge used for designing projects using After Effect as a tool
 - [![premiere](./src/premiere_dfc.svg)](https://badges.aleen42.com/src/premiere_dfc.svg) A badge used for designing projects using Premiere as a tool
-- [![flash](./src/flash_dfc.svg)](https://badges.aleen42.com/src/flash_dfc.svg) A badge used for designing projects using Flash as a tool
-- [![zeplin](./src/zeplin_dfc.svg)](https://badges.aleen42.com/src/zeplin_dfc.svg) A badge used for designing projects with Zeplin
 
 ### :fuelpump: How to contribute
 

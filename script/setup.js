@@ -39,7 +39,7 @@ const execSync = require('child_process').execSync;
  * @param  {[type]} 'data' [description]
  * @return {[type]}        [description]
  */
-const data = require('./data');
+const data = require('./sorted-data');
 
 const rootPath = './';
 const distPath = `${rootPath}dist/`;
