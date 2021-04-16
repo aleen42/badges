@@ -70,6 +70,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 
 - [![angular](./src/angular_dfc.svg)](https://badges.aleen42.com/src/angular_dfc.svg) A badge used for repositories which has used the framework, Angular
 - [![npm](./src/npm_dfc.svg)](https://badges.aleen42.com/src/npm_dfc.svg) A badge used for npm packages
+- [![rollup](./src/rollup_dfc.svg)](https://badges.aleen42.com/src/rollup_dfc.svg) A badge used for projects built with [Rollup](https://github.com/rollup/rollup)
 - [![gulp](./src/gulp_dfc.svg)](https://badges.aleen42.com/src/gulp_dfc.svg) A badge used for projects using Gulp to build
 - [![erlang](./src/erlang_dfc.svg)](https://badges.aleen42.com/src/erlang_dfc.svg) A badge used for projects that coded with Erlang
 - [![modernizr](./src/modernizr_dfc.svg)](https://badges.aleen42.com/src/modernizr_dfc.svg) A badge for projects using Modernizr

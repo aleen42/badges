@@ -30,6 +30,7 @@ module.exports = [
              */
             'Angular': { fileName: 'angular.svg', color: '#DD1B16', description: 'A badge used for repositories which has used the framework, Angular' },
             'npm': { fileName: 'npm.svg', color: '#C12127', description: 'A badge used for npm packages' },
+			'Rollup': { fileName: 'rollup.svg', color: '#DA3336', description: 'A badge used for projects built with [Rollup](https://github.com/rollup/rollup)' },
             'Gulp': { fileName: 'gulp.svg', color: '#D34A47', description: 'A badge used for projects using Gulp to build' },
             'Erlang': { fileName: 'erlang.svg', color: '#A90533', description: 'A badge used for projects that coded with Erlang' },
             'Modernizr': { fileName: 'modernizr.svg', color: '#D91B77', description: 'A badge for projects using Modernizr' },
