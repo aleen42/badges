@@ -27,12 +27,6 @@
 const execSync = require('child_process').execSync;
 
 /**
- * [map: the map list of width for a single character]
- * @type {[type]}
- */
-const map = require('./map');
-
-/**
  * [skins: skins for badges]
  * @type {[type]}
  */
@@ -46,6 +40,7 @@ const fs = require('fs');
 
 const TinyColor = require('@ctrl/tinycolor').default;
 
+const FONT_FAMILY = 'DejaVu Sans,Verdana,Geneva,sans-serif', FONT_SIZE = 12;
 const ERROR = `\x1b[31m${'error   '}\x1b[0m`;
 const SUCCESS = `\x1b[32m${'success '}\x1b[0m`;
 
@@ -72,7 +67,7 @@ const badges = {
         };
 
         /** calculate the width of a given text */
-        const textBlockWidth = calcWidthOfText(options.text);
+        const textBlockWidth = measureWidth(options.text);
 
         if (!textBlockWidth) {
             console.log(`${ERROR} Text contains non-ascii characters`);
@@ -109,7 +104,7 @@ const badges = {
         <path fill="url(#b)" d="M0 0h${totalWidth}v20H0z"/>
     </g>
     <g fill="${!options.dynamicFC || new TinyColor(options.color).isDark() ? '#fff' : '#333'}"
-        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        text-anchor="middle" font-family="${FONT_FAMILY}" font-size="${FONT_SIZE}">
         <image x="5" y="3" width="14" height="14" xlink:href="${imageData}"/>
         <text x="${leftDistance}" y="14.6" fill="#010101" fill-opacity=".3">${options.text}</text>
         <text x="${leftDistance}" y="14">${options.text}</text>
@@ -121,7 +116,7 @@ const badges = {
         <path fill="${options.color}" d="M${imgBlockWidth} 0h${textBlockWidth}v20H25z"/>
     </g>
     <g fill="${!options.dynamicFC || new TinyColor(options.color).isDark() ? '#fff' : '#333'}"
-        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        text-anchor="middle" font-family="${FONT_FAMILY}" font-size="${FONT_SIZE}">
         <image x="5" y="3" width="14" height="14" xlink:href="${imageData}"/>
         <text x="${leftDistance}" y="14">${options.text}</text>
     </g>
@@ -155,13 +150,12 @@ const badges = {
 };
 
 /** start to calculate the width of text */
-function calcWidthOfText(text) {
-    return text.split('').reduce((width, ch, index) => {
-        const chCode = text.charCodeAt(index);
-        const chLen = map[chCode];
-        /** 13px for the width of non-ascii characters */
-        return width += chLen ? chLen : (chCode >= 0 && chCode <= 127 ? 0 : 13);
-    }, 0) + 3 /** padding */ * 2;
+function measureWidth(text) {
+	const {createCanvas} = require('canvas');
+	const measure = createCanvas(200, 50);
+	const measureContext = measure.getContext('2d');
+	measureContext.font = `${FONT_SIZE}px ${FONT_FAMILY}`;
+	return measureContext.measureText(text).width + /* padding = */5 * 2;
 }
 
 module.exports = badges;
