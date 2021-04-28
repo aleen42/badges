@@ -15,34 +15,20 @@
  *      - Author: aleen42
  *      - Description: the main entrance for badge
  *      - Create Time: Mar 20th, 2017
- *      - Update Time: Sep 7th, 2020
+ *      - Update Time: Apr 28th, 2021
  *
  *
  **********************************************************************/
 
-/**
- * [exec: shell_exec module]
- * @type {[type]}
- */
 const execSync = require('child_process').execSync;
-
-/**
- * [skins: skins for badges]
- * @type {[type]}
- */
 const skins = require('./skins');
-
-/**
- * [fs: file system module]
- * @type {[type]}
- */
 const fs = require('fs');
 
 const TinyColor = require('@ctrl/tinycolor').default;
 
 const FONT_FAMILY = 'DejaVu Sans,Verdana,Geneva,sans-serif', FONT_SIZE = 12;
-const ERROR = `\x1b[31m${'error   '}\x1b[0m`;
-const SUCCESS = `\x1b[32m${'success '}\x1b[0m`;
+const ERROR = `\x1b[31merror   \x1b[0m`;
+const SUCCESS = `\x1b[32msuccess \x1b[0m`;
 
 const badges = {
     run: options => {
@@ -142,10 +128,6 @@ const badges = {
         });
     },
 
-    /**
-     * [test: test function of this module]
-     * @return {[type]}    [description]
-     */
     test: () => execSync('badge -h').toString(),
 };
 
