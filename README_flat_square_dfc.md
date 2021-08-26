@@ -64,7 +64,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 
 *Note: if you really like this project, feel free to buy me a swimming chance:*
 
-[![badges](./src/paypal.svg)](http://paypal.me/aleen42) [![badges](./src/patreon.svg)](https://www.patreon.com/aleen42) [![badges](./src/buymeacoffee.svg)](https://www.patreon.com/aleen42)
+[![badges](./src/paypal.svg)](http://paypal.me/aleen42) [![badges](./src/patreon.svg)](https://www.patreon.com/aleen42) [![badges](./src/buymeacoffee.svg)](https://www.buymeacoffee.com/aleen42)
 
 ### Coder
 
