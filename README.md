@@ -85,6 +85,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![tc39](./src/tc39_4.svg)](https://badges.aleen42.com/src/tc39_4.svg) A badge used for proposals under stage 3 of [TC39](https://github.com/tc39) committee
 - [![tc39](./src/tc39_5.svg)](https://badges.aleen42.com/src/tc39_5.svg) A badge used for proposals under stage 4 of [TC39](https://github.com/tc39) committee
 - [![parcel](./src/parcel.svg)](https://badges.aleen42.com/src/parcel.svg) A badge used for projects built with [Parcel](https://github.com/parcel-bundler/parcel)
+- [![grafana](./src/grafana.svg)](https://badges.aleen42.com/src/grafana.svg) A badge used for projects using [Grafana](https://github.com/grafana/grafana)
 - [![sublime_text](./src/sublime_text.svg)](https://badges.aleen42.com/src/sublime_text.svg) A badge for the Sulime Text editor
 - [![rss](./src/rss.svg)](https://badges.aleen42.com/src/rss.svg) A badge used for RSS subscribing
 - [![grunt](./src/grunt.svg)](https://badges.aleen42.com/src/grunt.svg) A badge used for projects using grunt to build

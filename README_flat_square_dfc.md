@@ -85,6 +85,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![tc39](./src/tc39_4_flat_square_dfc.svg)](https://badges.aleen42.com/src/tc39_4_flat_square_dfc.svg) A badge used for proposals under stage 3 of [TC39](https://github.com/tc39) committee
 - [![tc39](./src/tc39_5_flat_square_dfc.svg)](https://badges.aleen42.com/src/tc39_5_flat_square_dfc.svg) A badge used for proposals under stage 4 of [TC39](https://github.com/tc39) committee
 - [![parcel](./src/parcel_flat_square_dfc.svg)](https://badges.aleen42.com/src/parcel_flat_square_dfc.svg) A badge used for projects built with [Parcel](https://github.com/parcel-bundler/parcel)
+- [![grafana](./src/grafana_flat_square_dfc.svg)](https://badges.aleen42.com/src/grafana_flat_square_dfc.svg) A badge used for projects using [Grafana](https://github.com/grafana/grafana)
 - [![sublime_text](./src/sublime_text_flat_square_dfc.svg)](https://badges.aleen42.com/src/sublime_text_flat_square_dfc.svg) A badge for the Sulime Text editor
 - [![rss](./src/rss_flat_square_dfc.svg)](https://badges.aleen42.com/src/rss_flat_square_dfc.svg) A badge used for RSS subscribing
 - [![grunt](./src/grunt_flat_square_dfc.svg)](https://badges.aleen42.com/src/grunt_flat_square_dfc.svg) A badge used for projects using grunt to build
