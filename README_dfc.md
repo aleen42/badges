@@ -86,6 +86,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![rss](./src/rss_dfc.svg)](https://badges.aleen42.com/src/rss_dfc.svg) A badge used for RSS subscribing
 - [![grunt](./src/grunt_dfc.svg)](https://badges.aleen42.com/src/grunt_dfc.svg) A badge used for projects using grunt to build
 - [![tensorflow](./src/tensorflow_dfc.svg)](https://badges.aleen42.com/src/tensorflow_dfc.svg) A badge use for projects using Tensorflow
+- [![esbuild](./src/esbuild_dfc.svg)](https://badges.aleen42.com/src/esbuild_dfc.svg) A badge used for projects built with [ESBuild](https://github.com/evanw/esbuild)
 - [![javascript](./src/javascript_dfc.svg)](https://badges.aleen42.com/src/javascript_dfc.svg) A badge used for projects that coded with JavaScript
 - [![node](./src/node_dfc.svg)](https://badges.aleen42.com/src/node_dfc.svg) A badge used for projects built with Node.js
 - [![atom](./src/atom_dfc.svg)](https://badges.aleen42.com/src/atom_dfc.svg) A badge for the Atom editor
@@ -103,7 +104,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![idea](./src/idea_dfc.svg)](https://badges.aleen42.com/src/idea_dfc.svg) A badge for the IDEA editor
 - [![codepen](./src/codepen_dfc.svg)](https://badges.aleen42.com/src/codepen_dfc.svg) A badge used for projects running on CodePen
 - [![github](./src/github_dfc.svg)](https://badges.aleen42.com/src/github_dfc.svg) A badge used for GitHub repositories
-- [![webpack](./src/webpack_dfc.svg)](https://badges.aleen42.com/src/webpack_dfc.svg) A badge used for projects built with Webpack
+- [![webpack](./src/webpack_dfc.svg)](https://badges.aleen42.com/src/webpack_dfc.svg) A badge used for projects built with [Webpack](https://github.com/webpack/webpack)
 - [![vitejs](./src/vitejs_dfc.svg)](https://badges.aleen42.com/src/vitejs_dfc.svg) A badge used for projects using [Vite](https://github.com/vitejs/vite)
 - [![eslint](./src/eslint_dfc.svg)](https://badges.aleen42.com/src/eslint_dfc.svg) A badge used for projects using ESLint
 - [![redux](./src/redux_dfc.svg)](https://badges.aleen42.com/src/redux_dfc.svg) A badge used for projects using React Redux

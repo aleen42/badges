@@ -86,6 +86,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![rss](./src/rss.svg)](https://badges.aleen42.com/src/rss.svg) A badge used for RSS subscribing
 - [![grunt](./src/grunt.svg)](https://badges.aleen42.com/src/grunt.svg) A badge used for projects using grunt to build
 - [![tensorflow](./src/tensorflow.svg)](https://badges.aleen42.com/src/tensorflow.svg) A badge use for projects using Tensorflow
+- [![esbuild](./src/esbuild.svg)](https://badges.aleen42.com/src/esbuild.svg) A badge used for projects built with [ESBuild](https://github.com/evanw/esbuild)
 - [![javascript](./src/javascript.svg)](https://badges.aleen42.com/src/javascript.svg) A badge used for projects that coded with JavaScript
 - [![node](./src/node.svg)](https://badges.aleen42.com/src/node.svg) A badge used for projects built with Node.js
 - [![atom](./src/atom.svg)](https://badges.aleen42.com/src/atom.svg) A badge for the Atom editor
@@ -103,7 +104,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![idea](./src/idea.svg)](https://badges.aleen42.com/src/idea.svg) A badge for the IDEA editor
 - [![codepen](./src/codepen.svg)](https://badges.aleen42.com/src/codepen.svg) A badge used for projects running on CodePen
 - [![github](./src/github.svg)](https://badges.aleen42.com/src/github.svg) A badge used for GitHub repositories
-- [![webpack](./src/webpack.svg)](https://badges.aleen42.com/src/webpack.svg) A badge used for projects built with Webpack
+- [![webpack](./src/webpack.svg)](https://badges.aleen42.com/src/webpack.svg) A badge used for projects built with [Webpack](https://github.com/webpack/webpack)
 - [![vitejs](./src/vitejs.svg)](https://badges.aleen42.com/src/vitejs.svg) A badge used for projects using [Vite](https://github.com/vitejs/vite)
 - [![eslint](./src/eslint.svg)](https://badges.aleen42.com/src/eslint.svg) A badge used for projects using ESLint
 - [![redux](./src/redux.svg)](https://badges.aleen42.com/src/redux.svg) A badge used for projects using React Redux
