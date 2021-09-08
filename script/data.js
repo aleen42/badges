@@ -67,6 +67,7 @@ module.exports = [
             'Kotlin': { fileName: 'kotlin.svg', color: '#0593D6', description: 'A badge used for projects that coded with Kotlin' },
             'Visual Studio Code': { fileName: 'visual_studio_code.svg', color: '#028FD6', description: 'A badge for the Visual Studio Code IDE' },
             'TypeScript': { fileName: 'typescript.svg', color: '#007ACC', description: 'A badge used for projects that coded with TypeScript' },
+            'Python': { fileName: 'python.svg', color: '#3771A1', description: 'A badge used for projects that coded with Python' },
             'JSFiddle': { fileName: 'jsfiddle.svg', color: '#4679A4', description: 'A badge used for projects running on JSFiddle' },
             'IDEA': { fileName: 'idea.svg', color: '#24292E', description: 'A badge for the IDEA editor' },
             'CodePen': { fileName: 'codepen.svg', color: '#24292E', description: 'A badge used for projects running on CodePen' },

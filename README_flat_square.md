@@ -107,6 +107,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![kotlin](./src/kotlin_flat_square.svg)](https://badges.aleen42.com/src/kotlin_flat_square.svg) A badge used for projects that coded with Kotlin
 - [![visual_studio_code](./src/visual_studio_code_flat_square.svg)](https://badges.aleen42.com/src/visual_studio_code_flat_square.svg) A badge for the Visual Studio Code IDE
 - [![typescript](./src/typescript_flat_square.svg)](https://badges.aleen42.com/src/typescript_flat_square.svg) A badge used for projects that coded with TypeScript
+- [![python](./src/python_flat_square.svg)](https://badges.aleen42.com/src/python_flat_square.svg) A badge used for projects that coded with Python
 - [![jsfiddle](./src/jsfiddle_flat_square.svg)](https://badges.aleen42.com/src/jsfiddle_flat_square.svg) A badge used for projects running on JSFiddle
 - [![idea](./src/idea_flat_square.svg)](https://badges.aleen42.com/src/idea_flat_square.svg) A badge for the IDEA editor
 - [![codepen](./src/codepen_flat_square.svg)](https://badges.aleen42.com/src/codepen_flat_square.svg) A badge used for projects running on CodePen
