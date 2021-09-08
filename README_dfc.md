@@ -46,13 +46,13 @@ As for how to create a badge and add it in the collection? There are some steps 
 4. Save the logo in the folder `dist`
 5. Add data for your badge in the file `script/data.js`
     ```js
-   const data = { 
+    const data = {
         // ...
         'React Router': {
-            fileName: 'router.svg',
-            color: '62DAFB',
+            fileName: 'react-router.svg',
+            color: '#D0021B',
             description: 'A badge used for projects using React Router'
-        }
+        },
     };
     ```
 5. Run the script by typing `npm run build`
@@ -102,7 +102,6 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![tailwindcss](./src/tailwindcss_dfc.svg)](https://badges.aleen42.com/src/tailwindcss_dfc.svg) A badge used for projects using [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 - [![golang](./src/golang_dfc.svg)](https://badges.aleen42.com/src/golang_dfc.svg) A badge used for projects that coded with Golang
 - [![react](./src/react_dfc.svg)](https://badges.aleen42.com/src/react_dfc.svg) A badge used for repositories which has used the framework, React
-- [![router](./src/router_dfc.svg)](https://badges.aleen42.com/src/router_dfc.svg) A badge used for projects using React Router
 - [![docker](./src/docker_dfc.svg)](https://badges.aleen42.com/src/docker_dfc.svg) A badge used for projects deployed on Docker
 - [![kotlin](./src/kotlin_dfc.svg)](https://badges.aleen42.com/src/kotlin_dfc.svg) A badge used for projects that coded with Kotlin
 - [![visual_studio_code](./src/visual_studio_code_dfc.svg)](https://badges.aleen42.com/src/visual_studio_code_dfc.svg) A badge for the Visual Studio Code IDE
@@ -127,6 +126,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![jest](./src/jest_2_dfc.svg)](https://badges.aleen42.com/src/jest_2_dfc.svg) A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript. *(**official accepted** by [facebook/jest#5348](https://github.com/facebook/jest/issues/5438))*
 - [![erlang](./src/erlang_dfc.svg)](https://badges.aleen42.com/src/erlang_dfc.svg) A badge used for projects that coded with Erlang
 - [![elasticsearch](./src/elasticsearch_dfc.svg)](https://badges.aleen42.com/src/elasticsearch_dfc.svg) A badge used for projects using [Elasticsearch](https://github.com/elastic/elasticsearch)
+- [![react-router](./src/react-router_dfc.svg)](https://badges.aleen42.com/src/react-router_dfc.svg) A badge used for projects using [React Router](https://github.com/remix-run/react-router)
 - [![npm](./src/npm_dfc.svg)](https://badges.aleen42.com/src/npm_dfc.svg) A badge used for npm packages
 - [![rollup](./src/rollup_dfc.svg)](https://badges.aleen42.com/src/rollup_dfc.svg) A badge used for projects built with [Rollup](https://github.com/rollup/rollup)
 

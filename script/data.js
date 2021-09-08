@@ -62,7 +62,6 @@ module.exports = [
             'TailwindCSS': { fileName: 'tailwindcss.svg', color: '#18B5B9', description: 'A badge used for projects using [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)' },
             'Golang': { fileName: 'golang.svg', color: '#00ACD7', description: 'A badge used for projects that coded with Golang' },
             'React': { fileName: 'react.svg', color: '#61DAFB', description: 'A badge used for repositories which has used the framework, React' },
-            'React Router': { fileName: 'router.svg', color: '#62DAFB', description: 'A badge used for projects using React Router' },
             'Docker': { fileName: 'docker.svg', color: '#1D91B4', description: 'A badge used for projects deployed on Docker' },
             'Kotlin': { fileName: 'kotlin.svg', color: '#0593D6', description: 'A badge used for projects that coded with Kotlin' },
             'Visual Studio Code': { fileName: 'visual_studio_code.svg', color: '#028FD6', description: 'A badge for the Visual Studio Code IDE' },
@@ -89,6 +88,7 @@ module.exports = [
             ],
             'Erlang': { fileName: 'erlang.svg', color: '#A90533', description: 'A badge used for projects that coded with Erlang' },
             'Elasticsearch': { fileName: 'elasticsearch.svg', color: '#231F20', description: 'A badge used for projects using [Elasticsearch](https://github.com/elastic/elasticsearch)' },
+            'React Router': { fileName: 'react-router.svg', color: '#D0021B', description: 'A badge used for projects using [React Router](https://github.com/remix-run/react-router)' },
             'npm': { fileName: 'npm.svg', color: '#C12127', description: 'A badge used for npm packages' },
             'Rollup': { fileName: 'rollup.svg', color: '#DA3336', description: 'A badge used for projects built with [Rollup](https://github.com/rollup/rollup)' }
         }

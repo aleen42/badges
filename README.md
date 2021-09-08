@@ -46,13 +46,13 @@ As for how to create a badge and add it in the collection? There are some steps 
 4. Save the logo in the folder `dist`
 5. Add data for your badge in the file `script/data.js`
     ```js
-   const data = { 
+    const data = {
         // ...
         'React Router': {
-            fileName: 'router.svg',
-            color: '62DAFB',
+            fileName: 'react-router.svg',
+            color: '#D0021B',
             description: 'A badge used for projects using React Router'
-        }
+        },
     };
     ```
 5. Run the script by typing `npm run build`
@@ -102,7 +102,6 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![tailwindcss](./src/tailwindcss.svg)](https://badges.aleen42.com/src/tailwindcss.svg) A badge used for projects using [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 - [![golang](./src/golang.svg)](https://badges.aleen42.com/src/golang.svg) A badge used for projects that coded with Golang
 - [![react](./src/react.svg)](https://badges.aleen42.com/src/react.svg) A badge used for repositories which has used the framework, React
-- [![router](./src/router.svg)](https://badges.aleen42.com/src/router.svg) A badge used for projects using React Router
 - [![docker](./src/docker.svg)](https://badges.aleen42.com/src/docker.svg) A badge used for projects deployed on Docker
 - [![kotlin](./src/kotlin.svg)](https://badges.aleen42.com/src/kotlin.svg) A badge used for projects that coded with Kotlin
 - [![visual_studio_code](./src/visual_studio_code.svg)](https://badges.aleen42.com/src/visual_studio_code.svg) A badge for the Visual Studio Code IDE
@@ -127,6 +126,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![jest](./src/jest_2.svg)](https://badges.aleen42.com/src/jest_2.svg) A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript. *(**official accepted** by [facebook/jest#5348](https://github.com/facebook/jest/issues/5438))*
 - [![erlang](./src/erlang.svg)](https://badges.aleen42.com/src/erlang.svg) A badge used for projects that coded with Erlang
 - [![elasticsearch](./src/elasticsearch.svg)](https://badges.aleen42.com/src/elasticsearch.svg) A badge used for projects using [Elasticsearch](https://github.com/elastic/elasticsearch)
+- [![react-router](./src/react-router.svg)](https://badges.aleen42.com/src/react-router.svg) A badge used for projects using [React Router](https://github.com/remix-run/react-router)
 - [![npm](./src/npm.svg)](https://badges.aleen42.com/src/npm.svg) A badge used for npm packages
 - [![rollup](./src/rollup.svg)](https://badges.aleen42.com/src/rollup.svg) A badge used for projects built with [Rollup](https://github.com/rollup/rollup)
 

@@ -46,13 +46,13 @@ As for how to create a badge and add it in the collection? There are some steps 
 4. Save the logo in the folder `dist`
 5. Add data for your badge in the file `script/data.js`
     ```js
-   const data = { 
+    const data = {
         // ...
         'React Router': {
-            fileName: 'router.svg',
-            color: '62DAFB',
+            fileName: 'react-router.svg',
+            color: '#D0021B',
             description: 'A badge used for projects using React Router'
-        }
+        },
     };
     ```
 5. Run the script by typing `npm run build`
