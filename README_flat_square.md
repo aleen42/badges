@@ -101,7 +101,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![apiary](./src/apiary_flat_square.svg)](https://badges.aleen42.com/src/apiary_flat_square.svg) A badge used for documents written on Apiary
 - [![tailwindcss](./src/tailwindcss_flat_square.svg)](https://badges.aleen42.com/src/tailwindcss_flat_square.svg) A badge used for projects using [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 - [![golang](./src/golang_flat_square.svg)](https://badges.aleen42.com/src/golang_flat_square.svg) A badge used for projects that coded with Golang
-- [![react](./src/react_flat_square.svg)](https://badges.aleen42.com/src/react_flat_square.svg) A badge used for repositories which has used the framework, React
+- [![react](./src/react_flat_square.svg)](https://badges.aleen42.com/src/react_flat_square.svg) A badge used for repositories that using [React](https://github.com/facebook/react)
 - [![docker](./src/docker_flat_square.svg)](https://badges.aleen42.com/src/docker_flat_square.svg) A badge used for projects deployed on Docker
 - [![kotlin](./src/kotlin_flat_square.svg)](https://badges.aleen42.com/src/kotlin_flat_square.svg) A badge used for projects that coded with Kotlin
 - [![visual_studio_code](./src/visual_studio_code_flat_square.svg)](https://badges.aleen42.com/src/visual_studio_code_flat_square.svg) A badge for the Visual Studio Code IDE
@@ -116,6 +116,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![rome](./src/rome_flat_square.svg)](https://badges.aleen42.com/src/rome_flat_square.svg) A badge used for projects built with [Rome](https://github.com/rome/tools)
 - [![vitejs](./src/vitejs_flat_square.svg)](https://badges.aleen42.com/src/vitejs_flat_square.svg) A badge used for projects using [Vite](https://github.com/vitejs/vite)
 - [![eslint](./src/eslint_flat_square.svg)](https://badges.aleen42.com/src/eslint_flat_square.svg) A badge used for projects using ESLint
+- [![preact](./src/preact_flat_square.svg)](https://badges.aleen42.com/src/preact_flat_square.svg) A badge used for repositories that using [Preact](https://github.com/preactjs/preact)
 - [![redux](./src/redux_flat_square.svg)](https://badges.aleen42.com/src/redux_flat_square.svg) A badge used for projects using React Redux
 - [![visual_studio](./src/visual_studio_flat_square.svg)](https://badges.aleen42.com/src/visual_studio_flat_square.svg) A badge for the Visual Studio IDE
 - [![jasmine](./src/jasmine_flat_square.svg)](https://badges.aleen42.com/src/jasmine_flat_square.svg) A badge used for projects using Jasmine for testing JavaScript

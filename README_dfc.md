@@ -101,7 +101,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![apiary](./src/apiary_dfc.svg)](https://badges.aleen42.com/src/apiary_dfc.svg) A badge used for documents written on Apiary
 - [![tailwindcss](./src/tailwindcss_dfc.svg)](https://badges.aleen42.com/src/tailwindcss_dfc.svg) A badge used for projects using [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 - [![golang](./src/golang_dfc.svg)](https://badges.aleen42.com/src/golang_dfc.svg) A badge used for projects that coded with Golang
-- [![react](./src/react_dfc.svg)](https://badges.aleen42.com/src/react_dfc.svg) A badge used for repositories which has used the framework, React
+- [![react](./src/react_dfc.svg)](https://badges.aleen42.com/src/react_dfc.svg) A badge used for repositories that using [React](https://github.com/facebook/react)
 - [![docker](./src/docker_dfc.svg)](https://badges.aleen42.com/src/docker_dfc.svg) A badge used for projects deployed on Docker
 - [![kotlin](./src/kotlin_dfc.svg)](https://badges.aleen42.com/src/kotlin_dfc.svg) A badge used for projects that coded with Kotlin
 - [![visual_studio_code](./src/visual_studio_code_dfc.svg)](https://badges.aleen42.com/src/visual_studio_code_dfc.svg) A badge for the Visual Studio Code IDE
@@ -116,6 +116,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![rome](./src/rome_dfc.svg)](https://badges.aleen42.com/src/rome_dfc.svg) A badge used for projects built with [Rome](https://github.com/rome/tools)
 - [![vitejs](./src/vitejs_dfc.svg)](https://badges.aleen42.com/src/vitejs_dfc.svg) A badge used for projects using [Vite](https://github.com/vitejs/vite)
 - [![eslint](./src/eslint_dfc.svg)](https://badges.aleen42.com/src/eslint_dfc.svg) A badge used for projects using ESLint
+- [![preact](./src/preact_dfc.svg)](https://badges.aleen42.com/src/preact_dfc.svg) A badge used for repositories that using [Preact](https://github.com/preactjs/preact)
 - [![redux](./src/redux_dfc.svg)](https://badges.aleen42.com/src/redux_dfc.svg) A badge used for projects using React Redux
 - [![visual_studio](./src/visual_studio_dfc.svg)](https://badges.aleen42.com/src/visual_studio_dfc.svg) A badge for the Visual Studio IDE
 - [![jasmine](./src/jasmine_dfc.svg)](https://badges.aleen42.com/src/jasmine_dfc.svg) A badge used for projects using Jasmine for testing JavaScript
