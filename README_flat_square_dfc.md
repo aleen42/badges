@@ -91,7 +91,6 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![atom](./src/atom_flat_square_dfc.svg)](https://badges.aleen42.com/src/atom_flat_square_dfc.svg) A badge for the Atom editor
 - [![vue](./src/vue_flat_square_dfc.svg)](https://badges.aleen42.com/src/vue_flat_square_dfc.svg) A badge used for repositories which has used the framework, Vue
 - [![vuepress](./src/vuepress_flat_square_dfc.svg)](https://badges.aleen42.com/src/vuepress_flat_square_dfc.svg) A badge used for books publish by Vuepress
-- [![gitter](./src/gitter_flat_square_dfc.svg)](https://badges.aleen42.com/src/gitter_flat_square_dfc.svg) A badge used for projects can be discussed on Gitter
 - [![apiary](./src/apiary_flat_square_dfc.svg)](https://badges.aleen42.com/src/apiary_flat_square_dfc.svg) A badge used for documents written on Apiary
 - [![golang](./src/golang_flat_square_dfc.svg)](https://badges.aleen42.com/src/golang_flat_square_dfc.svg) A badge used for projects that coded with Golang
 - [![react](./src/react_flat_square_dfc.svg)](https://badges.aleen42.com/src/react_flat_square_dfc.svg) A badge used for repositories which has used the framework, React
@@ -109,7 +108,6 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![eslint](./src/eslint_flat_square_dfc.svg)](https://badges.aleen42.com/src/eslint_flat_square_dfc.svg) A badge used for projects using ESLint
 - [![redux](./src/redux_flat_square_dfc.svg)](https://badges.aleen42.com/src/redux_flat_square_dfc.svg) A badge used for projects using React Redux
 - [![visual_studio](./src/visual_studio_flat_square_dfc.svg)](https://badges.aleen42.com/src/visual_studio_flat_square_dfc.svg) A badge for the Visual Studio IDE
-- [![slack](./src/slack_flat_square_dfc.svg)](https://badges.aleen42.com/src/slack_flat_square_dfc.svg) A badge used for projects discussed on Slack
 - [![jasmine](./src/jasmine_flat_square_dfc.svg)](https://badges.aleen42.com/src/jasmine_flat_square_dfc.svg) A badge used for projects using Jasmine for testing JavaScript
 - [![qunit](./src/qunit_flat_square_dfc.svg)](https://badges.aleen42.com/src/qunit_flat_square_dfc.svg) A badge for projects using QUnit for unit tests
 - [![reactivex](./src/reactivex_flat_square_dfc.svg)](https://badges.aleen42.com/src/reactivex_flat_square_dfc.svg) A badge for projects using ReactiveX
@@ -137,9 +135,12 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![wechat](./src/wechat_flat_square_dfc.svg)](https://badges.aleen42.com/src/wechat_flat_square_dfc.svg) A badge used for sharing communication ways on WeChat
 - [![line](./src/line_flat_square_dfc.svg)](https://badges.aleen42.com/src/line_flat_square_dfc.svg) A badge used for sharing communication ways on Line
 - [![whatsapp](./src/whatsapp_flat_square_dfc.svg)](https://badges.aleen42.com/src/whatsapp_flat_square_dfc.svg) A badge used for sharing communication ways on WhatsApp
+- [![gitter](./src/gitter_flat_square_dfc.svg)](https://badges.aleen42.com/src/gitter_flat_square_dfc.svg) A badge used for groups discussed on [Gitter](https://gitter.im/)
 - [![skype](./src/skype_flat_square_dfc.svg)](https://badges.aleen42.com/src/skype_flat_square_dfc.svg) A badge used for sharing communication ways on Skype
 - [![telegram](./src/telegram_flat_square_dfc.svg)](https://badges.aleen42.com/src/telegram_flat_square_dfc.svg) A badge used for sharing communication ways on Telegram
 - [![messenger](./src/messenger_flat_square_dfc.svg)](https://badges.aleen42.com/src/messenger_flat_square_dfc.svg) A badge used for sharing communication ways on Messenger
+- [![discord](./src/discord_flat_square_dfc.svg)](https://badges.aleen42.com/src/discord_flat_square_dfc.svg) A badge used for groups discussed on [Discord](https://discord.com/)
+- [![slack](./src/slack_flat_square_dfc.svg)](https://badges.aleen42.com/src/slack_flat_square_dfc.svg) A badge used for groups discussed on [Slack](https://slack.com/)
 
 
 ### Multimedia

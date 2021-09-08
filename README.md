@@ -91,7 +91,6 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![atom](./src/atom.svg)](https://badges.aleen42.com/src/atom.svg) A badge for the Atom editor
 - [![vue](./src/vue.svg)](https://badges.aleen42.com/src/vue.svg) A badge used for repositories which has used the framework, Vue
 - [![vuepress](./src/vuepress.svg)](https://badges.aleen42.com/src/vuepress.svg) A badge used for books publish by Vuepress
-- [![gitter](./src/gitter.svg)](https://badges.aleen42.com/src/gitter.svg) A badge used for projects can be discussed on Gitter
 - [![apiary](./src/apiary.svg)](https://badges.aleen42.com/src/apiary.svg) A badge used for documents written on Apiary
 - [![golang](./src/golang.svg)](https://badges.aleen42.com/src/golang.svg) A badge used for projects that coded with Golang
 - [![react](./src/react.svg)](https://badges.aleen42.com/src/react.svg) A badge used for repositories which has used the framework, React
@@ -109,7 +108,6 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![eslint](./src/eslint.svg)](https://badges.aleen42.com/src/eslint.svg) A badge used for projects using ESLint
 - [![redux](./src/redux.svg)](https://badges.aleen42.com/src/redux.svg) A badge used for projects using React Redux
 - [![visual_studio](./src/visual_studio.svg)](https://badges.aleen42.com/src/visual_studio.svg) A badge for the Visual Studio IDE
-- [![slack](./src/slack.svg)](https://badges.aleen42.com/src/slack.svg) A badge used for projects discussed on Slack
 - [![jasmine](./src/jasmine.svg)](https://badges.aleen42.com/src/jasmine.svg) A badge used for projects using Jasmine for testing JavaScript
 - [![qunit](./src/qunit.svg)](https://badges.aleen42.com/src/qunit.svg) A badge for projects using QUnit for unit tests
 - [![reactivex](./src/reactivex.svg)](https://badges.aleen42.com/src/reactivex.svg) A badge for projects using ReactiveX
@@ -137,9 +135,12 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![wechat](./src/wechat.svg)](https://badges.aleen42.com/src/wechat.svg) A badge used for sharing communication ways on WeChat
 - [![line](./src/line.svg)](https://badges.aleen42.com/src/line.svg) A badge used for sharing communication ways on Line
 - [![whatsapp](./src/whatsapp.svg)](https://badges.aleen42.com/src/whatsapp.svg) A badge used for sharing communication ways on WhatsApp
+- [![gitter](./src/gitter.svg)](https://badges.aleen42.com/src/gitter.svg) A badge used for groups discussed on [Gitter](https://gitter.im/)
 - [![skype](./src/skype.svg)](https://badges.aleen42.com/src/skype.svg) A badge used for sharing communication ways on Skype
 - [![telegram](./src/telegram.svg)](https://badges.aleen42.com/src/telegram.svg) A badge used for sharing communication ways on Telegram
 - [![messenger](./src/messenger.svg)](https://badges.aleen42.com/src/messenger.svg) A badge used for sharing communication ways on Messenger
+- [![discord](./src/discord.svg)](https://badges.aleen42.com/src/discord.svg) A badge used for groups discussed on [Discord](https://discord.com/)
+- [![slack](./src/slack.svg)](https://badges.aleen42.com/src/slack.svg) A badge used for groups discussed on [Slack](https://slack.com/)
 
 
 ### Multimedia

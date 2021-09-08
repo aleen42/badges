@@ -51,7 +51,6 @@ module.exports = [
             'Atom': { fileName: 'atom.svg', color: '#7ECE8D', description: 'A badge for the Atom editor' },
             'Vue': { fileName: 'vue.svg', color: '#3eaf7c', description: 'A badge used for repositories which has used the framework, Vue' },
             'VuePress': { fileName: 'vuepress.svg', color: '#3eaf7c', description: 'A badge used for books publish by Vuepress' },
-            'Gitter': { fileName: 'gitter.svg', color: '#4DB798', description: 'A badge used for projects can be discussed on Gitter' },
             'Apiary': { fileName: 'apiary.svg', color: '#59C5AC', description: 'A badge used for documents written on Apiary' },
             'Golang': { fileName: 'golang.svg', color: '#00ACD7', description: 'A badge used for projects that coded with Golang' },
             'React': { fileName: 'react.svg', color: '#61DAFB', description: 'A badge used for repositories which has used the framework, React' },
@@ -69,7 +68,6 @@ module.exports = [
             'ESLint': { fileName: 'eslint.svg', color: '#4B32C3', description: 'A badge used for projects using ESLint' },
             'Redux': { fileName: 'redux.svg', color: '#764ABC', description: 'A badge used for projects using React Redux' },
             'Visual Studio': { fileName: 'visual_studio.svg', color: '#68217A', description: 'A badge for the Visual Studio IDE' },
-            'Slack': { fileName: 'slack.svg', color: '#392538', description: 'A badge used for projects discussed on Slack' },
             'Jasmine': { fileName: 'jasmine.svg', color: '#8A4182', description: 'A badge used for projects using Jasmine for testing JavaScript' },
             'QUnit': { fileName: 'qunit.svg', color: '#9E2087', description: 'A badge for projects using QUnit for unit tests' },
             'ReactiveX': { fileName: 'reactivex.svg', color: '#C7008F', description: 'A badge for projects using ReactiveX' },
@@ -101,9 +99,12 @@ module.exports = [
             'WeChat': { fileName: 'wechat.svg', color: '#2DC100', description: 'A badge used for sharing communication ways on WeChat' },
             'Line': { fileName: 'line.svg', color: '#00B900', description: 'A badge used for sharing communication ways on Line' },
             'WhatsApp': { fileName: 'whatsapp.svg', color: '#4CCA5A', description: 'A badge used for sharing communication ways on WhatsApp' },
+            'Gitter': { fileName: 'gitter.svg', color: '#4DB798', description: 'A badge used for groups discussed on [Gitter](https://gitter.im/)' },
             'Skype': { fileName: 'skype.svg', color: '#00AFF0', description: 'A badge used for sharing communication ways on Skype' },
             'Telegram': { fileName: 'telegram.svg', color: '#2EA5D8', description: 'A badge used for sharing communication ways on Telegram' },
-            'Messenger': { fileName: 'messenger.svg', color: '#009BFF', description: 'A badge used for sharing communication ways on Messenger' }
+            'Messenger': { fileName: 'messenger.svg', color: '#009BFF', description: 'A badge used for sharing communication ways on Messenger' },
+            'Discord': { fileName: 'discord.svg', color: '#5865F2', description: 'A badge used for groups discussed on [Discord](https://discord.com/)' },
+            'Slack': { fileName: 'slack.svg', color: '#392538', description: 'A badge used for groups discussed on [Slack](https://slack.com/)' }
         }
     },
     {
