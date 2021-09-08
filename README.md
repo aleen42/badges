@@ -93,6 +93,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![node](./src/node.svg)](https://badges.aleen42.com/src/node.svg) A badge used for projects built with Node.js
 - [![atom](./src/atom.svg)](https://badges.aleen42.com/src/atom.svg) A badge for the Atom editor
 - [![terser](./src/terser.svg)](https://badges.aleen42.com/src/terser.svg) A badge used for projects using [Terser](https://github.com/terser/terser) for compressing JavaScript
+- [![cssnano](./src/cssnano.svg)](https://badges.aleen42.com/src/cssnano.svg) A badge used for projects using [CSSNano](https://github.com/cssnano/cssnano) for compacting CSS
 - [![vue](./src/vue.svg)](https://badges.aleen42.com/src/vue.svg) A badge used for repositories which has used the framework, Vue
 - [![vuepress](./src/vuepress.svg)](https://badges.aleen42.com/src/vuepress.svg) A badge used for books publish by Vuepress
 - [![apiary](./src/apiary.svg)](https://badges.aleen42.com/src/apiary.svg) A badge used for documents written on Apiary
