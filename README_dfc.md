@@ -106,6 +106,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![codepen](./src/codepen_dfc.svg)](https://badges.aleen42.com/src/codepen_dfc.svg) A badge used for projects running on CodePen
 - [![github](./src/github_dfc.svg)](https://badges.aleen42.com/src/github_dfc.svg) A badge used for GitHub repositories
 - [![webpack](./src/webpack_dfc.svg)](https://badges.aleen42.com/src/webpack_dfc.svg) A badge used for projects built with [Webpack](https://github.com/webpack/webpack)
+- [![rome](./src/rome_dfc.svg)](https://badges.aleen42.com/src/rome_dfc.svg) A badge used for projects built with [Rome](https://github.com/rome/tools)
 - [![vitejs](./src/vitejs_dfc.svg)](https://badges.aleen42.com/src/vitejs_dfc.svg) A badge used for projects using [Vite](https://github.com/vitejs/vite)
 - [![eslint](./src/eslint_dfc.svg)](https://badges.aleen42.com/src/eslint_dfc.svg) A badge used for projects using ESLint
 - [![redux](./src/redux_dfc.svg)](https://badges.aleen42.com/src/redux_dfc.svg) A badge used for projects using React Redux
