@@ -42,6 +42,7 @@ module.exports = [
                 { text: 'stage 3', fileName: 'tc39.svg', color: '#FC7C00', description: 'A badge used for proposals under stage 3 of [TC39](https://github.com/tc39) committee' },
                 { text: 'stage 4', fileName: 'tc39.svg', color: '#FC7C00', description: 'A badge used for proposals under stage 4 of [TC39](https://github.com/tc39) committee' }
             ],
+            'Parcel': { fileName: 'parcel.svg', color: '#E4AF76', description: 'A badge used for projects built with [Parcel](https://github.com/parcel-bundler/parcel)' },
             'Sublime Text': { fileName: 'sublime_text.png', color: '#FFAD46', description: 'A badge for the Sulime Text editor' },
             'RSS': { fileName: 'rss.svg', color: '#FF9911', description: 'A badge used for RSS subscribing' },
             'Grunt': { fileName: 'grunt.svg', color: '#FBA919', description: 'A badge used for projects using grunt to build' },
