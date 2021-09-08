@@ -31,6 +31,7 @@ module.exports = [
             'Hacker': { fileName: 'hacker.svg', color: '#1C1C1C', description: 'A badge used for hacking projects (**Business Using is not allowed)**' },
             'Gulp': { fileName: 'gulp.svg', color: '#D34A47', description: 'A badge used for projects using Gulp to build' },
             'Angular': { fileName: 'angular.svg', color: '#DD1B16', description: 'A badge used for repositories which has used the framework, Angular' },
+            'PostCSS': { fileName: 'postcss.svg', color: '#DD3A0A', description: 'A badge used for projects using [PostCSS](https://github.com/postcss/postcss)' },
             'Gitlab': { fileName: 'gitlab.svg', color: '#FC6D26', description: 'A badge used for Gitlab repositories' },
             'Mocha': { fileName: 'mocha.svg', color: '#8D6748', description: 'A badge used for projects using Mocha for unit tests' },
             'Bower': { fileName: 'bower.svg', color: '#F68A31', description: 'A badge used for bower packages' },

@@ -73,6 +73,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![hacker](./src/hacker_flat_square_dfc.svg)](https://badges.aleen42.com/src/hacker_flat_square_dfc.svg) A badge used for hacking projects (**Business Using is not allowed)**
 - [![gulp](./src/gulp_flat_square_dfc.svg)](https://badges.aleen42.com/src/gulp_flat_square_dfc.svg) A badge used for projects using Gulp to build
 - [![angular](./src/angular_flat_square_dfc.svg)](https://badges.aleen42.com/src/angular_flat_square_dfc.svg) A badge used for repositories which has used the framework, Angular
+- [![postcss](./src/postcss_flat_square_dfc.svg)](https://badges.aleen42.com/src/postcss_flat_square_dfc.svg) A badge used for projects using [PostCSS](https://github.com/postcss/postcss)
 - [![gitlab](./src/gitlab_flat_square_dfc.svg)](https://badges.aleen42.com/src/gitlab_flat_square_dfc.svg) A badge used for Gitlab repositories
 - [![mocha](./src/mocha_flat_square_dfc.svg)](https://badges.aleen42.com/src/mocha_flat_square_dfc.svg) A badge used for projects using Mocha for unit tests
 - [![bower](./src/bower_flat_square_dfc.svg)](https://badges.aleen42.com/src/bower_flat_square_dfc.svg) A badge used for bower packages

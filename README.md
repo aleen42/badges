@@ -73,6 +73,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![hacker](./src/hacker.svg)](https://badges.aleen42.com/src/hacker.svg) A badge used for hacking projects (**Business Using is not allowed)**
 - [![gulp](./src/gulp.svg)](https://badges.aleen42.com/src/gulp.svg) A badge used for projects using Gulp to build
 - [![angular](./src/angular.svg)](https://badges.aleen42.com/src/angular.svg) A badge used for repositories which has used the framework, Angular
+- [![postcss](./src/postcss.svg)](https://badges.aleen42.com/src/postcss.svg) A badge used for projects using [PostCSS](https://github.com/postcss/postcss)
 - [![gitlab](./src/gitlab.svg)](https://badges.aleen42.com/src/gitlab.svg) A badge used for Gitlab repositories
 - [![mocha](./src/mocha.svg)](https://badges.aleen42.com/src/mocha.svg) A badge used for projects using Mocha for unit tests
 - [![bower](./src/bower.svg)](https://badges.aleen42.com/src/bower.svg) A badge used for bower packages
