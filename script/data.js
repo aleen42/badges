@@ -84,6 +84,7 @@ module.exports = [
                 { fileName: 'jest.svg', skin: 'light', color: '#99425b', description: 'A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript. *(**official accepted** by [facebook/jest#5348](https://github.com/facebook/jest/issues/5438))*' }
             ],
             'Erlang': { fileName: 'erlang.svg', color: '#A90533', description: 'A badge used for projects that coded with Erlang' },
+            'Elasticsearch': { fileName: 'elasticsearch.svg', color: '#231F20', description: 'A badge used for projects using [Elasticsearch](https://github.com/elastic/elasticsearch)' },
             'npm': { fileName: 'npm.svg', color: '#C12127', description: 'A badge used for npm packages' },
             'Rollup': { fileName: 'rollup.svg', color: '#DA3336', description: 'A badge used for projects built with [Rollup](https://github.com/rollup/rollup)' }
         }

@@ -122,6 +122,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![jest](./src/jest_1_dfc.svg)](https://badges.aleen42.com/src/jest_1_dfc.svg) A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript.
 - [![jest](./src/jest_2_dfc.svg)](https://badges.aleen42.com/src/jest_2_dfc.svg) A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript. *(**official accepted** by [facebook/jest#5348](https://github.com/facebook/jest/issues/5438))*
 - [![erlang](./src/erlang_dfc.svg)](https://badges.aleen42.com/src/erlang_dfc.svg) A badge used for projects that coded with Erlang
+- [![elasticsearch](./src/elasticsearch_dfc.svg)](https://badges.aleen42.com/src/elasticsearch_dfc.svg) A badge used for projects using [Elasticsearch](https://github.com/elastic/elasticsearch)
 - [![npm](./src/npm_dfc.svg)](https://badges.aleen42.com/src/npm_dfc.svg) A badge used for npm packages
 - [![rollup](./src/rollup_dfc.svg)](https://badges.aleen42.com/src/rollup_dfc.svg) A badge used for projects built with [Rollup](https://github.com/rollup/rollup)
 
