@@ -29,6 +29,7 @@ module.exports = [
                 { fileName: 'gitbook.svg', color: '#3681FC', description: 'A badge used for books publish by Gitbook' }
             ],
             'Hacker': { fileName: 'hacker.svg', color: '#1C1C1C', description: 'A badge used for hacking projects (**Business Using is not allowed)**' },
+            'Kibana': { fileName: 'kibana.svg', color: '#353535', description: 'A badge used for projects using [Kibana](https://github.com/elastic/kibana)' },
             'Gulp': { fileName: 'gulp.svg', color: '#D34A47', description: 'A badge used for projects using Gulp to build' },
             'Angular': { fileName: 'angular.svg', color: '#DD1B16', description: 'A badge used for repositories which has used the framework, Angular' },
             'PostCSS': { fileName: 'postcss.svg', color: '#DD3A0A', description: 'A badge used for projects using [PostCSS](https://github.com/postcss/postcss)' },

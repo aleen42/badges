@@ -71,6 +71,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![gitbook](./src/gitbook_1.svg)](https://badges.aleen42.com/src/gitbook_1.svg) A badge used for books publish by Gitbook
 - [![gitbook](./src/gitbook_2.svg)](https://badges.aleen42.com/src/gitbook_2.svg) A badge used for books publish by Gitbook
 - [![hacker](./src/hacker.svg)](https://badges.aleen42.com/src/hacker.svg) A badge used for hacking projects (**Business Using is not allowed)**
+- [![kibana](./src/kibana.svg)](https://badges.aleen42.com/src/kibana.svg) A badge used for projects using [Kibana](https://github.com/elastic/kibana)
 - [![gulp](./src/gulp.svg)](https://badges.aleen42.com/src/gulp.svg) A badge used for projects using Gulp to build
 - [![angular](./src/angular.svg)](https://badges.aleen42.com/src/angular.svg) A badge used for repositories which has used the framework, Angular
 - [![postcss](./src/postcss.svg)](https://badges.aleen42.com/src/postcss.svg) A badge used for projects using [PostCSS](https://github.com/postcss/postcss)
