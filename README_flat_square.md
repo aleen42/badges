@@ -92,6 +92,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![javascript](./src/javascript_flat_square.svg)](https://badges.aleen42.com/src/javascript_flat_square.svg) A badge used for projects that coded with JavaScript
 - [![node](./src/node_flat_square.svg)](https://badges.aleen42.com/src/node_flat_square.svg) A badge used for projects built with Node.js
 - [![atom](./src/atom_flat_square.svg)](https://badges.aleen42.com/src/atom_flat_square.svg) A badge for the Atom editor
+- [![terser](./src/terser_flat_square.svg)](https://badges.aleen42.com/src/terser_flat_square.svg) A badge used for projects using [Terser](https://github.com/terser/terser) for compressing JavaScript
 - [![vue](./src/vue_flat_square.svg)](https://badges.aleen42.com/src/vue_flat_square.svg) A badge used for repositories which has used the framework, Vue
 - [![vuepress](./src/vuepress_flat_square.svg)](https://badges.aleen42.com/src/vuepress_flat_square.svg) A badge used for books publish by Vuepress
 - [![apiary](./src/apiary_flat_square.svg)](https://badges.aleen42.com/src/apiary_flat_square.svg) A badge used for documents written on Apiary

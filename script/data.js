@@ -52,6 +52,7 @@ module.exports = [
             'JavaScript': { fileName: 'javascript.svg', color: '#F7DF1E', description: 'A badge used for projects that coded with JavaScript' },
             'Node': { fileName: 'node.svg', color: '#689F63', description: 'A badge used for projects built with Node.js' },
             'Atom': { fileName: 'atom.svg', color: '#7ECE8D', description: 'A badge for the Atom editor' },
+            'Terser': { fileName: 'terser.svg', color: '#00250D', description: 'A badge used for projects using [Terser](https://github.com/terser/terser) for compressing JavaScript' },
             'Vue': { fileName: 'vue.svg', color: '#3eaf7c', description: 'A badge used for repositories which has used the framework, Vue' },
             'VuePress': { fileName: 'vuepress.svg', color: '#3eaf7c', description: 'A badge used for books publish by Vuepress' },
             'Apiary': { fileName: 'apiary.svg', color: '#59C5AC', description: 'A badge used for documents written on Apiary' },
