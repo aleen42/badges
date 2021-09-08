@@ -138,12 +138,12 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![wechat](./src/wechat_dfc.svg)](https://badges.aleen42.com/src/wechat_dfc.svg) A badge used for sharing communication ways on WeChat
 - [![line](./src/line_dfc.svg)](https://badges.aleen42.com/src/line_dfc.svg) A badge used for sharing communication ways on Line
 - [![whatsapp](./src/whatsapp_dfc.svg)](https://badges.aleen42.com/src/whatsapp_dfc.svg) A badge used for sharing communication ways on WhatsApp
-- [![gitter](./src/gitter_dfc.svg)](https://badges.aleen42.com/src/gitter_dfc.svg) A badge used for groups discussed on [Gitter](https://gitter.im/)
 - [![skype](./src/skype_dfc.svg)](https://badges.aleen42.com/src/skype_dfc.svg) A badge used for sharing communication ways on Skype
 - [![telegram](./src/telegram_dfc.svg)](https://badges.aleen42.com/src/telegram_dfc.svg) A badge used for sharing communication ways on Telegram
 - [![messenger](./src/messenger_dfc.svg)](https://badges.aleen42.com/src/messenger_dfc.svg) A badge used for sharing communication ways on Messenger
 - [![discord](./src/discord_dfc.svg)](https://badges.aleen42.com/src/discord_dfc.svg) A badge used for groups discussed on [Discord](https://discord.com/)
 - [![slack](./src/slack_dfc.svg)](https://badges.aleen42.com/src/slack_dfc.svg) A badge used for groups discussed on [Slack](https://slack.com/)
+- [![gitter](./src/gitter_dfc.svg)](https://badges.aleen42.com/src/gitter_dfc.svg) A badge used for groups discussed on [Gitter](https://gitter.im/)
 
 
 ### Multimedia

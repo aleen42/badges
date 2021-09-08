@@ -102,12 +102,12 @@ module.exports = [
             'WeChat': { fileName: 'wechat.svg', color: '#2DC100', description: 'A badge used for sharing communication ways on WeChat' },
             'Line': { fileName: 'line.svg', color: '#00B900', description: 'A badge used for sharing communication ways on Line' },
             'WhatsApp': { fileName: 'whatsapp.svg', color: '#4CCA5A', description: 'A badge used for sharing communication ways on WhatsApp' },
-            'Gitter': { fileName: 'gitter.svg', color: '#4DB798', description: 'A badge used for groups discussed on [Gitter](https://gitter.im/)' },
             'Skype': { fileName: 'skype.svg', color: '#00AFF0', description: 'A badge used for sharing communication ways on Skype' },
             'Telegram': { fileName: 'telegram.svg', color: '#2EA5D8', description: 'A badge used for sharing communication ways on Telegram' },
             'Messenger': { fileName: 'messenger.svg', color: '#009BFF', description: 'A badge used for sharing communication ways on Messenger' },
             'Discord': { fileName: 'discord.svg', color: '#5865F2', description: 'A badge used for groups discussed on [Discord](https://discord.com/)' },
-            'Slack': { fileName: 'slack.svg', color: '#392538', description: 'A badge used for groups discussed on [Slack](https://slack.com/)' }
+            'Slack': { fileName: 'slack.svg', color: '#392538', description: 'A badge used for groups discussed on [Slack](https://slack.com/)' },
+            'Gitter': { fileName: 'gitter.svg', color: '#F30761', description: 'A badge used for groups discussed on [Gitter](https://gitter.im/)' }
         }
     },
     {

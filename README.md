@@ -138,12 +138,12 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![wechat](./src/wechat.svg)](https://badges.aleen42.com/src/wechat.svg) A badge used for sharing communication ways on WeChat
 - [![line](./src/line.svg)](https://badges.aleen42.com/src/line.svg) A badge used for sharing communication ways on Line
 - [![whatsapp](./src/whatsapp.svg)](https://badges.aleen42.com/src/whatsapp.svg) A badge used for sharing communication ways on WhatsApp
-- [![gitter](./src/gitter.svg)](https://badges.aleen42.com/src/gitter.svg) A badge used for groups discussed on [Gitter](https://gitter.im/)
 - [![skype](./src/skype.svg)](https://badges.aleen42.com/src/skype.svg) A badge used for sharing communication ways on Skype
 - [![telegram](./src/telegram.svg)](https://badges.aleen42.com/src/telegram.svg) A badge used for sharing communication ways on Telegram
 - [![messenger](./src/messenger.svg)](https://badges.aleen42.com/src/messenger.svg) A badge used for sharing communication ways on Messenger
 - [![discord](./src/discord.svg)](https://badges.aleen42.com/src/discord.svg) A badge used for groups discussed on [Discord](https://discord.com/)
 - [![slack](./src/slack.svg)](https://badges.aleen42.com/src/slack.svg) A badge used for groups discussed on [Slack](https://slack.com/)
+- [![gitter](./src/gitter.svg)](https://badges.aleen42.com/src/gitter.svg) A badge used for groups discussed on [Gitter](https://gitter.im/)
 
 
 ### Multimedia
