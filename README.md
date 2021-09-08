@@ -110,6 +110,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![codepen](./src/codepen.svg)](https://badges.aleen42.com/src/codepen.svg) A badge used for projects running on CodePen
 - [![github](./src/github.svg)](https://badges.aleen42.com/src/github.svg) A badge used for GitHub repositories
 - [![webpack](./src/webpack.svg)](https://badges.aleen42.com/src/webpack.svg) A badge used for projects built with [Webpack](https://github.com/webpack/webpack)
+- [![logstash](./src/logstash.svg)](https://badges.aleen42.com/src/logstash.svg) A badge used for projects using [Logstash](https://github.com/elastic/logstash)
 - [![rome](./src/rome.svg)](https://badges.aleen42.com/src/rome.svg) A badge used for projects built with [Rome](https://github.com/rome/tools)
 - [![vitejs](./src/vitejs.svg)](https://badges.aleen42.com/src/vitejs.svg) A badge used for projects using [Vite](https://github.com/vitejs/vite)
 - [![eslint](./src/eslint.svg)](https://badges.aleen42.com/src/eslint.svg) A badge used for projects using ESLint

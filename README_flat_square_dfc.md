@@ -110,6 +110,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![codepen](./src/codepen_flat_square_dfc.svg)](https://badges.aleen42.com/src/codepen_flat_square_dfc.svg) A badge used for projects running on CodePen
 - [![github](./src/github_flat_square_dfc.svg)](https://badges.aleen42.com/src/github_flat_square_dfc.svg) A badge used for GitHub repositories
 - [![webpack](./src/webpack_flat_square_dfc.svg)](https://badges.aleen42.com/src/webpack_flat_square_dfc.svg) A badge used for projects built with [Webpack](https://github.com/webpack/webpack)
+- [![logstash](./src/logstash_flat_square_dfc.svg)](https://badges.aleen42.com/src/logstash_flat_square_dfc.svg) A badge used for projects using [Logstash](https://github.com/elastic/logstash)
 - [![rome](./src/rome_flat_square_dfc.svg)](https://badges.aleen42.com/src/rome_flat_square_dfc.svg) A badge used for projects built with [Rome](https://github.com/rome/tools)
 - [![vitejs](./src/vitejs_flat_square_dfc.svg)](https://badges.aleen42.com/src/vitejs_flat_square_dfc.svg) A badge used for projects using [Vite](https://github.com/vitejs/vite)
 - [![eslint](./src/eslint_flat_square_dfc.svg)](https://badges.aleen42.com/src/eslint_flat_square_dfc.svg) A badge used for projects using ESLint
