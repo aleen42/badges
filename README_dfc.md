@@ -94,6 +94,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![vue](./src/vue_dfc.svg)](https://badges.aleen42.com/src/vue_dfc.svg) A badge used for repositories which has used the framework, Vue
 - [![vuepress](./src/vuepress_dfc.svg)](https://badges.aleen42.com/src/vuepress_dfc.svg) A badge used for books publish by Vuepress
 - [![apiary](./src/apiary_dfc.svg)](https://badges.aleen42.com/src/apiary_dfc.svg) A badge used for documents written on Apiary
+- [![tailwindcss](./src/tailwindcss_dfc.svg)](https://badges.aleen42.com/src/tailwindcss_dfc.svg) A badge used for projects using [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 - [![golang](./src/golang_dfc.svg)](https://badges.aleen42.com/src/golang_dfc.svg) A badge used for projects that coded with Golang
 - [![react](./src/react_dfc.svg)](https://badges.aleen42.com/src/react_dfc.svg) A badge used for repositories which has used the framework, React
 - [![router](./src/router_dfc.svg)](https://badges.aleen42.com/src/router_dfc.svg) A badge used for projects using React Router
