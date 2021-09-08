@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: data for building badges
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Aug 26th, 2021
+ *      - Update Time: Sep 8th, 2021
  *
  *
  **********************************************************************/
@@ -65,6 +65,7 @@ module.exports = [
             'CodePen': { fileName: 'codepen.svg', color: '#24292E', description: 'A badge used for projects running on CodePen' },
             'GitHub': { fileName: 'github.svg', color: '#24292E', description: 'A badge used for GitHub repositories' },
             'Webpack': { fileName: 'webpack.svg', color: '#6F95DB', description: 'A badge used for projects built with Webpack' },
+            'Vite': { fileName: 'vitejs.svg', color: '#8779FF', description: 'A badge used for projects using [Vite](https://github.com/vitejs/vite)' },
             'ESLint': { fileName: 'eslint.svg', color: '#4B32C3', description: 'A badge used for projects using ESLint' },
             'Redux': { fileName: 'redux.svg', color: '#764ABC', description: 'A badge used for projects using React Redux' },
             'Visual Studio': { fileName: 'visual_studio.svg', color: '#68217A', description: 'A badge for the Visual Studio IDE' },
