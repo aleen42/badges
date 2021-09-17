@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: data for building badges
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Sep 8th, 2021
+ *      - Update Time: Sep 17th, 2021
  *
  *
  **********************************************************************/
@@ -30,6 +30,7 @@ module.exports = [
             ],
             'Hacker': { fileName: 'hacker.svg', color: '#1C1C1C', description: 'A badge used for hacking projects (**Business Using is not allowed)**' },
             'Kibana': { fileName: 'kibana.svg', color: '#353535', description: 'A badge used for projects using [Kibana](https://github.com/elastic/kibana)' },
+            'Chrome Extensions': { fileName: 'chrome_extensions.svg', color: '#DADADA', description: 'A badge used for Chrome extensions' },
             'Gulp': { fileName: 'gulp.svg', color: '#D34A47', description: 'A badge used for projects using Gulp to build' },
             'Angular': { fileName: 'angular.svg', color: '#DD1B16', description: 'A badge used for repositories which has used the framework, Angular' },
             'PostCSS': { fileName: 'postcss.svg', color: '#DD3A0A', description: 'A badge used for projects using [PostCSS](https://github.com/postcss/postcss)' },

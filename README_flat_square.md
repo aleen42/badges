@@ -72,6 +72,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![gitbook](./src/gitbook_2_flat_square.svg)](https://badges.aleen42.com/src/gitbook_2_flat_square.svg) A badge used for books publish by Gitbook
 - [![hacker](./src/hacker_flat_square.svg)](https://badges.aleen42.com/src/hacker_flat_square.svg) A badge used for hacking projects (**Business Using is not allowed)**
 - [![kibana](./src/kibana_flat_square.svg)](https://badges.aleen42.com/src/kibana_flat_square.svg) A badge used for projects using [Kibana](https://github.com/elastic/kibana)
+- [![chrome_extensions](./src/chrome_extensions_flat_square.svg)](https://badges.aleen42.com/src/chrome_extensions_flat_square.svg) A badge used for Chrome extensions
 - [![gulp](./src/gulp_flat_square.svg)](https://badges.aleen42.com/src/gulp_flat_square.svg) A badge used for projects using Gulp to build
 - [![angular](./src/angular_flat_square.svg)](https://badges.aleen42.com/src/angular_flat_square.svg) A badge used for repositories which has used the framework, Angular
 - [![postcss](./src/postcss_flat_square.svg)](https://badges.aleen42.com/src/postcss_flat_square.svg) A badge used for projects using [PostCSS](https://github.com/postcss/postcss)
