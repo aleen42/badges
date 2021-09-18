@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: data for building badges
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Sep 17th, 2021
+ *      - Update Time: Sep 18th, 2021
  *
  *
  **********************************************************************/
@@ -24,12 +24,19 @@ module.exports = [
     {
         'name': 'Coder',
         'data': {
+            'Terser': { fileName: 'terser.svg', color: '#0D0D0D', description: 'A badge used for projects using [Terser](https://github.com/terser/terser) for compressing JavaScript' },
+            'CodePen': { fileName: 'codepen.svg', color: '#1C1C1C', description: 'A badge used for projects running on CodePen' },
+            'GitHub': { fileName: 'github.svg', color: '#1C1C1C', description: 'A badge used for GitHub repositories' },
+            'Hacker': { fileName: 'hacker.svg', color: '#1C1C1C', description: 'A badge used for hacking projects (**Business Using is not allowed)**' },
+            'IDEA': { fileName: 'idea.svg', color: '#1C1C1C', description: 'A badge for the IDEA editor' },
+            'Rome': { fileName: 'rome.svg', color: '#1C1C1C', description: 'A badge used for projects built with [Rome](https://github.com/rome/tools)' },
+            'Elasticsearch': { fileName: 'elasticsearch.svg', color: '#232323', description: 'A badge used for projects using [Elasticsearch](https://github.com/elastic/elasticsearch)' },
+            'Kibana': { fileName: 'kibana.svg', color: '#353535', description: 'A badge used for projects using [Kibana](https://github.com/elastic/kibana)' },
+            'Logstash': { fileName: 'logstash.svg', color: '#373737', description: 'A badge used for projects using [Logstash](https://github.com/elastic/logstash)' },
             'Gitbook': [
                 { fileName: 'gitbook.png', color: '#B7B7B7', description: 'A badge used for books publish by Gitbook' },
                 { fileName: 'gitbook.svg', color: '#3681FC', description: 'A badge used for books publish by Gitbook' }
             ],
-            'Hacker': { fileName: 'hacker.svg', color: '#1C1C1C', description: 'A badge used for hacking projects (**Business Using is not allowed)**' },
-            'Kibana': { fileName: 'kibana.svg', color: '#353535', description: 'A badge used for projects using [Kibana](https://github.com/elastic/kibana)' },
             'Chrome Extensions': { fileName: 'chrome_extensions.svg', color: '#DADADA', description: 'A badge used for Chrome extensions' },
             'Gulp': { fileName: 'gulp.svg', color: '#D34A47', description: 'A badge used for projects using Gulp to build' },
             'Angular': { fileName: 'angular.svg', color: '#DD1B16', description: 'A badge used for repositories which has used the framework, Angular' },
@@ -55,7 +62,6 @@ module.exports = [
             'JavaScript': { fileName: 'javascript.svg', color: '#F7DF1E', description: 'A badge used for projects that coded with JavaScript' },
             'Node': { fileName: 'node.svg', color: '#689F63', description: 'A badge used for projects built with Node.js' },
             'Atom': { fileName: 'atom.svg', color: '#7ECE8D', description: 'A badge for the Atom editor' },
-            'Terser': { fileName: 'terser.svg', color: '#00250D', description: 'A badge used for projects using [Terser](https://github.com/terser/terser) for compressing JavaScript' },
             'CSSNano': { fileName: 'cssnano.svg', color: '#40B97B', description: 'A badge used for projects using [CSSNano](https://github.com/cssnano/cssnano) for compacting CSS' },
             'Vue': { fileName: 'vue.svg', color: '#3eaf7c', description: 'A badge used for repositories which has used the framework, Vue' },
             'VuePress': { fileName: 'vuepress.svg', color: '#3eaf7c', description: 'A badge used for books publish by Vuepress' },
@@ -69,12 +75,7 @@ module.exports = [
             'TypeScript': { fileName: 'typescript.svg', color: '#007ACC', description: 'A badge used for projects that coded with TypeScript' },
             'Python': { fileName: 'python.svg', color: '#3771A1', description: 'A badge used for projects that coded with Python' },
             'JSFiddle': { fileName: 'jsfiddle.svg', color: '#4679A4', description: 'A badge used for projects running on JSFiddle' },
-            'IDEA': { fileName: 'idea.svg', color: '#24292E', description: 'A badge for the IDEA editor' },
-            'CodePen': { fileName: 'codepen.svg', color: '#24292E', description: 'A badge used for projects running on CodePen' },
-            'GitHub': { fileName: 'github.svg', color: '#24292E', description: 'A badge used for GitHub repositories' },
             'Webpack': { fileName: 'webpack.svg', color: '#6F95DB', description: 'A badge used for projects built with [Webpack](https://github.com/webpack/webpack)' },
-            'Logstash': { fileName: 'logstash.svg', color: '#343741', description: 'A badge used for projects using [Logstash](https://github.com/elastic/logstash)' },
-            'Rome': { fileName: 'rome.svg', color: '#27272A', description: 'A badge used for projects built with [Rome](https://github.com/rome/tools)' },
             'Vite': { fileName: 'vitejs.svg', color: '#8779FF', description: 'A badge used for projects using [Vite](https://github.com/vitejs/vite)' },
             'ESLint': { fileName: 'eslint.svg', color: '#4B32C3', description: 'A badge used for projects using ESLint' },
             'Preact': { fileName: 'preact.svg', color: '#673AB8', description: 'A badge used for repositories that using [Preact](https://github.com/preactjs/preact)' },
@@ -89,7 +90,6 @@ module.exports = [
                 { fileName: 'jest.svg', skin: 'light', color: '#99425b', description: 'A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript. *(**official accepted** by [facebook/jest#5348](https://github.com/facebook/jest/issues/5438))*' }
             ],
             'Erlang': { fileName: 'erlang.svg', color: '#A90533', description: 'A badge used for projects that coded with Erlang' },
-            'Elasticsearch': { fileName: 'elasticsearch.svg', color: '#231F20', description: 'A badge used for projects using [Elasticsearch](https://github.com/elastic/elasticsearch)' },
             'React Router': { fileName: 'react-router.svg', color: '#D0021B', description: 'A badge used for projects using [React Router](https://github.com/remix-run/react-router)' },
             'npm': { fileName: 'npm.svg', color: '#C12127', description: 'A badge used for npm packages' },
             'Rollup': { fileName: 'rollup.svg', color: '#DA3336', description: 'A badge used for projects built with [Rollup](https://github.com/rollup/rollup)' }
@@ -169,8 +169,8 @@ module.exports = [
     {
         'name': 'Car',
         'data': {
-            'Toyota': { fileName: 'toyota.svg', color: '#FF0000', description: 'A badge used for cars of Toyota' },
             'Mercedes Benz': { fileName: 'mercedes_benz.svg', color: '#333333', description: 'A badge used for cars of Mercedes Benz' },
+            'Toyota': { fileName: 'toyota.svg', color: '#FF0000', description: 'A badge used for cars of Toyota' },
             'Lamborghini': { fileName: 'lamborghini.svg', color: '#D8A016', description: 'A badge used for cars of Lamborghini' },
             'Land Rover': { fileName: 'land_rover.svg', color: '#008948', description: 'A badge used for cars of Land Rover' },
             'BMW': { fileName: 'bmw.svg', color: '#318DBB', description: 'A badge used for cars of BMW' },

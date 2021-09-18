@@ -68,10 +68,17 @@ As for how to create a badge and add it in the collection? There are some steps 
 
 ### Coder
 
+- [![terser](./src/terser_flat_square.svg)](https://badges.aleen42.com/src/terser_flat_square.svg) A badge used for projects using [Terser](https://github.com/terser/terser) for compressing JavaScript
+- [![codepen](./src/codepen_flat_square.svg)](https://badges.aleen42.com/src/codepen_flat_square.svg) A badge used for projects running on CodePen
+- [![github](./src/github_flat_square.svg)](https://badges.aleen42.com/src/github_flat_square.svg) A badge used for GitHub repositories
+- [![hacker](./src/hacker_flat_square.svg)](https://badges.aleen42.com/src/hacker_flat_square.svg) A badge used for hacking projects (**Business Using is not allowed)**
+- [![idea](./src/idea_flat_square.svg)](https://badges.aleen42.com/src/idea_flat_square.svg) A badge for the IDEA editor
+- [![rome](./src/rome_flat_square.svg)](https://badges.aleen42.com/src/rome_flat_square.svg) A badge used for projects built with [Rome](https://github.com/rome/tools)
+- [![elasticsearch](./src/elasticsearch_flat_square.svg)](https://badges.aleen42.com/src/elasticsearch_flat_square.svg) A badge used for projects using [Elasticsearch](https://github.com/elastic/elasticsearch)
+- [![kibana](./src/kibana_flat_square.svg)](https://badges.aleen42.com/src/kibana_flat_square.svg) A badge used for projects using [Kibana](https://github.com/elastic/kibana)
+- [![logstash](./src/logstash_flat_square.svg)](https://badges.aleen42.com/src/logstash_flat_square.svg) A badge used for projects using [Logstash](https://github.com/elastic/logstash)
 - [![gitbook](./src/gitbook_1_flat_square.svg)](https://badges.aleen42.com/src/gitbook_1_flat_square.svg) A badge used for books publish by Gitbook
 - [![gitbook](./src/gitbook_2_flat_square.svg)](https://badges.aleen42.com/src/gitbook_2_flat_square.svg) A badge used for books publish by Gitbook
-- [![hacker](./src/hacker_flat_square.svg)](https://badges.aleen42.com/src/hacker_flat_square.svg) A badge used for hacking projects (**Business Using is not allowed)**
-- [![kibana](./src/kibana_flat_square.svg)](https://badges.aleen42.com/src/kibana_flat_square.svg) A badge used for projects using [Kibana](https://github.com/elastic/kibana)
 - [![chrome_extensions](./src/chrome_extensions_flat_square.svg)](https://badges.aleen42.com/src/chrome_extensions_flat_square.svg) A badge used for Chrome extensions
 - [![gulp](./src/gulp_flat_square.svg)](https://badges.aleen42.com/src/gulp_flat_square.svg) A badge used for projects using Gulp to build
 - [![angular](./src/angular_flat_square.svg)](https://badges.aleen42.com/src/angular_flat_square.svg) A badge used for repositories which has used the framework, Angular
@@ -95,7 +102,6 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![javascript](./src/javascript_flat_square.svg)](https://badges.aleen42.com/src/javascript_flat_square.svg) A badge used for projects that coded with JavaScript
 - [![node](./src/node_flat_square.svg)](https://badges.aleen42.com/src/node_flat_square.svg) A badge used for projects built with Node.js
 - [![atom](./src/atom_flat_square.svg)](https://badges.aleen42.com/src/atom_flat_square.svg) A badge for the Atom editor
-- [![terser](./src/terser_flat_square.svg)](https://badges.aleen42.com/src/terser_flat_square.svg) A badge used for projects using [Terser](https://github.com/terser/terser) for compressing JavaScript
 - [![cssnano](./src/cssnano_flat_square.svg)](https://badges.aleen42.com/src/cssnano_flat_square.svg) A badge used for projects using [CSSNano](https://github.com/cssnano/cssnano) for compacting CSS
 - [![vue](./src/vue_flat_square.svg)](https://badges.aleen42.com/src/vue_flat_square.svg) A badge used for repositories which has used the framework, Vue
 - [![vuepress](./src/vuepress_flat_square.svg)](https://badges.aleen42.com/src/vuepress_flat_square.svg) A badge used for books publish by Vuepress
@@ -109,12 +115,7 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![typescript](./src/typescript_flat_square.svg)](https://badges.aleen42.com/src/typescript_flat_square.svg) A badge used for projects that coded with TypeScript
 - [![python](./src/python_flat_square.svg)](https://badges.aleen42.com/src/python_flat_square.svg) A badge used for projects that coded with Python
 - [![jsfiddle](./src/jsfiddle_flat_square.svg)](https://badges.aleen42.com/src/jsfiddle_flat_square.svg) A badge used for projects running on JSFiddle
-- [![idea](./src/idea_flat_square.svg)](https://badges.aleen42.com/src/idea_flat_square.svg) A badge for the IDEA editor
-- [![codepen](./src/codepen_flat_square.svg)](https://badges.aleen42.com/src/codepen_flat_square.svg) A badge used for projects running on CodePen
-- [![github](./src/github_flat_square.svg)](https://badges.aleen42.com/src/github_flat_square.svg) A badge used for GitHub repositories
 - [![webpack](./src/webpack_flat_square.svg)](https://badges.aleen42.com/src/webpack_flat_square.svg) A badge used for projects built with [Webpack](https://github.com/webpack/webpack)
-- [![logstash](./src/logstash_flat_square.svg)](https://badges.aleen42.com/src/logstash_flat_square.svg) A badge used for projects using [Logstash](https://github.com/elastic/logstash)
-- [![rome](./src/rome_flat_square.svg)](https://badges.aleen42.com/src/rome_flat_square.svg) A badge used for projects built with [Rome](https://github.com/rome/tools)
 - [![vitejs](./src/vitejs_flat_square.svg)](https://badges.aleen42.com/src/vitejs_flat_square.svg) A badge used for projects using [Vite](https://github.com/vitejs/vite)
 - [![eslint](./src/eslint_flat_square.svg)](https://badges.aleen42.com/src/eslint_flat_square.svg) A badge used for projects using ESLint
 - [![preact](./src/preact_flat_square.svg)](https://badges.aleen42.com/src/preact_flat_square.svg) A badge used for repositories that using [Preact](https://github.com/preactjs/preact)
@@ -127,7 +128,6 @@ As for how to create a badge and add it in the collection? There are some steps 
 - [![jest](./src/jest_1_flat_square.svg)](https://badges.aleen42.com/src/jest_1_flat_square.svg) A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript.
 - [![jest](./src/jest_2_flat_square.svg)](https://badges.aleen42.com/src/jest_2_flat_square.svg) A badge used for projects using [Jest](https://github.com/facebook/jest) for testing JavaScript. *(**official accepted** by [facebook/jest#5348](https://github.com/facebook/jest/issues/5438))*
 - [![erlang](./src/erlang_flat_square.svg)](https://badges.aleen42.com/src/erlang_flat_square.svg) A badge used for projects that coded with Erlang
-- [![elasticsearch](./src/elasticsearch_flat_square.svg)](https://badges.aleen42.com/src/elasticsearch_flat_square.svg) A badge used for projects using [Elasticsearch](https://github.com/elastic/elasticsearch)
 - [![react-router](./src/react-router_flat_square.svg)](https://badges.aleen42.com/src/react-router_flat_square.svg) A badge used for projects using [React Router](https://github.com/remix-run/react-router)
 - [![npm](./src/npm_flat_square.svg)](https://badges.aleen42.com/src/npm_flat_square.svg) A badge used for npm packages
 - [![rollup](./src/rollup_flat_square.svg)](https://badges.aleen42.com/src/rollup_flat_square.svg) A badge used for projects built with [Rollup](https://github.com/rollup/rollup)
@@ -200,8 +200,8 @@ As for how to create a badge and add it in the collection? There are some steps 
 
 ### Car
 
-- [![toyota](./src/toyota_flat_square.svg)](https://badges.aleen42.com/src/toyota_flat_square.svg) A badge used for cars of Toyota
 - [![mercedes_benz](./src/mercedes_benz_flat_square.svg)](https://badges.aleen42.com/src/mercedes_benz_flat_square.svg) A badge used for cars of Mercedes Benz
+- [![toyota](./src/toyota_flat_square.svg)](https://badges.aleen42.com/src/toyota_flat_square.svg) A badge used for cars of Toyota
 - [![lamborghini](./src/lamborghini_flat_square.svg)](https://badges.aleen42.com/src/lamborghini_flat_square.svg) A badge used for cars of Lamborghini
 - [![land_rover](./src/land_rover_flat_square.svg)](https://badges.aleen42.com/src/land_rover_flat_square.svg) A badge used for cars of Land Rover
 - [![bmw](./src/bmw_flat_square.svg)](https://badges.aleen42.com/src/bmw_flat_square.svg) A badge used for cars of BMW

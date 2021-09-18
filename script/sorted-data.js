@@ -4,10 +4,14 @@ const data = require('./data');
 const TinyColor = require('@ctrl/tinycolor').default;
 
 data.forEach(category => {
-	category.data = Object.fromEntries(Object.entries(category.data).sort((a, b) => {
-		const h = element => new TinyColor([].concat(element)[0].color).toHsl().h;
-		return h(a[1]) - h(b[1]);
-	}))
+    const l = element => new TinyColor([].concat(element)[0].color).toHsl().l;
+    const h = element => new TinyColor([].concat(element)[0].color).toHsl().h;
+	category.data = Object.fromEntries(
+	    Object.entries(category.data)
+            .sort((a, b) => a[0] < b[0] ? -1 : a[0] === b[0] ? 0 : 1) // sort by name
+            .sort((a, b) => l(a[1]) - l(b[1])) // sort by lightness
+            .sort((a, b) => h(a[1]) - h(b[1])) // sort by hue
+    )
 });
 
 const date = new Date();
