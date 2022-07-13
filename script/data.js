@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: data for building badges
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Sep 18th, 2021
+ *      - Update Time: Jul 14th, 2022
  *
  *
  **********************************************************************/
@@ -24,6 +24,7 @@ module.exports = [
     {
         'name': 'Coder',
         'data': {
+            'CLI': { fileName: 'cli.svg', color: '#0D0D0D', description: 'A badge used for projects which provide command-line interfaces' },
             'Terser': { fileName: 'terser.svg', color: '#0D0D0D', description: 'A badge used for projects using [Terser](https://github.com/terser/terser) for compressing JavaScript' },
             'CodePen': { fileName: 'codepen.svg', color: '#1C1C1C', description: 'A badge used for projects running on CodePen' },
             'GitHub': { fileName: 'github.svg', color: '#1C1C1C', description: 'A badge used for GitHub repositories' },
