@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="86" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#0d0d0d" d="M25 0h61v20H25z"/>
+        <path fill="url(#b)" d="M0 0h86v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8IS0tIENyZWF0ZWQgd2l0aCBJbmtzY2FwZSAoaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvKSBieSBDdWJlNzA3IC0tPg0KPHN2Zw0KICAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyINCiAgICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIg0KICAgIHZlcnNpb249IjEuMSINCiAgICB3aWR0aD0iMzIwLjY3N3B4Ig0KICAgIGhlaWdodD0iMzIwLjY3NHB4Ig0KICAgIHZpZXdCb3g9IjAgMCAzMjAuNjc3IDMyMC42NzQiPg0KICAgIDxwYXRoDQogICAgICAgIHN0eWxlPSJmaWxsOiNmZmY7Ig0KICAgICAgICBkPSJtIDEwNy4wMzA4MSwyNTMuNDc2MDkgaCAxOTEuNDA3MDYgdiAzNS41NzAzMyBIIDEwNy4wMzA4MSBaIi8+DQogICAgPHBhdGgNCiAgICAgICAgc3R5bGU9ImZpbGw6I2ZmZjsiDQogICAgICAgIGQ9Im0gNDcuMzkxNDc2LDg2Ljc1NjA0IC0yNS4xNTIzNDQsMjUuMTQ4NDMgNTAuMzA0Njg4LDUwLjMwNDcgLTUwLjMwNDY4OCw1MC4zMDA3OCAyNS4xNTIzNDQsMjUuMTUyMzQgNTAuMzAwNzg0LC01MC4zMDQ3IDI1LjE1MjM1LC0yNS4xNDg0MiAtMjUuMTUyMzUsLTI1LjE1MjM2IHoiIC8+DQo8L3N2Zz4NCg=="/>
+        <text x="54.5" y="14.6" fill="#010101" fill-opacity=".3">Terminal</text>
+        <text x="54.5" y="14">Terminal</text>
+    </g>
+</svg>

@@ -68,6 +68,7 @@ As for how to create a badge and add it to the collection? There are some steps 
 
 ### Coder
 
+- [![terminal](./src/terminal.svg)](https://badges.aleen42.com/src/terminal.svg) A badge used for projects used from the Terminal
 - [![terser](./src/terser.svg)](https://badges.aleen42.com/src/terser.svg) A badge used for projects using [Terser](https://github.com/terser/terser) for compressing JavaScript
 - [![codepen](./src/codepen.svg)](https://badges.aleen42.com/src/codepen.svg) A badge used for projects running on CodePen
 - [![github](./src/github.svg)](https://badges.aleen42.com/src/github.svg) A badge used for GitHub repositories
