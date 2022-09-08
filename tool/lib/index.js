@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: the main entrance for badge
  *      - Create Time: Mar 20th, 2017
- *      - Update Time: Apr 28th, 2021
+ *      - Update Time: Sep 8th, 2022
  *
  *
  **********************************************************************/
@@ -26,12 +26,13 @@ const fs = require('fs');
 
 const TinyColor = require('@ctrl/tinycolor').default;
 
-const FONT_FAMILY = 'DejaVu Sans,Verdana,Geneva,sans-serif', FONT_SIZE = 12;
 const ERROR = `\x1b[31merror   \x1b[0m`;
 const SUCCESS = `\x1b[32msuccess \x1b[0m`;
 
 const badges = {
     run: options => {
+        const FONT_FAMILY = 'DejaVu Sans,Verdana,Geneva,sans-serif';
+        const optFontSize = +options.fontSize, FONT_SIZE = optFontSize > 0 ? +options.fontSize : 12;
         /** options validation */
         if (options.text === void 0) {
             console.log(`${ERROR} Text missed`);
