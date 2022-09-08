@@ -1,6 +1,6 @@
 {
   "name": "badges-cli",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "A command line tool for generating badges automatically.",
   "main": "./tool/lib/index.js",
   "scripts": {
