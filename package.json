@@ -29,7 +29,7 @@
   "dependencies": {
     "@ctrl/tinycolor": "3.1.4",
     "canvas": "2.7.0",
-    "node-getopt": "0.2.3"
+    "node-getopt": "npm:@aleen42/node-getopt"
   },
   "devDependencies": {
     "chai": "3.5.0",
