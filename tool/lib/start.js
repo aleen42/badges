@@ -17,7 +17,7 @@
  *      - Author: aleen42
  *      - Description: for shell script to use
  *      - Create Time: Mar 20th, 2017
- *      - Update Time: Sep 7th, 2020
+ *      - Update Time: Sep 8th, 2022
  *
  *
  **********************************************************************/
@@ -66,6 +66,9 @@ const opt = require('node-getopt')
 		['', 'style=[Badge Style]', `\tThe badge style
 \t${enhance('--style=default')} \t\t\t\tDefault style (${enhance('default')})
 \t${enhance('--style=flat_square')} \t\t\t\tFlat square style`],
+		['', 'fontSize=[size]', `\tThe font size of your badge
+\t${enhance('--fontSize=12')} \t\t\t\t\tUse 12px (${enhance('default')})
+`],
 		['y', '', '\tOverride'],
 		['v', 'version', '\tShow current version'],
 		['h' , 'help', '\tTutorial for this command']
