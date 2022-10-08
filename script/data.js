@@ -30,6 +30,7 @@ module.exports = [
             'GitHub': { fileName: 'github.svg', color: '#1C1C1C', description: 'A badge used for GitHub repositories' },
             'Hacker': { fileName: 'hacker.svg', color: '#1C1C1C', description: 'A badge used for hacking projects (**Business Using is not allowed)**' },
             'IDEA': { fileName: 'idea.svg', color: '#1C1C1C', description: 'A badge for the IDEA editor' },
+            'Eclipse': { fileName: 'eclipse-ide.svg', color: '#2b2152', description: 'A badge for the Eclipse editor' },
             'Rome': { fileName: 'rome.svg', color: '#1C1C1C', description: 'A badge used for projects built with [Rome](https://github.com/rome/tools)' },
             'Elasticsearch': { fileName: 'elasticsearch.svg', color: '#232323', description: 'A badge used for projects using [Elasticsearch](https://github.com/elastic/elasticsearch)' },
             'Kibana': { fileName: 'kibana.svg', color: '#353535', description: 'A badge used for projects using [Kibana](https://github.com/elastic/kibana)' },
