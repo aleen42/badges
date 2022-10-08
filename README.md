@@ -119,6 +119,7 @@ As for how to create a badge and add it to the collection? There are some steps 
 - [![webpack](./src/webpack.svg)](https://badges.aleen42.com/src/webpack.svg) A badge used for projects built with [Webpack](https://github.com/webpack/webpack)
 - [![vitejs](./src/vitejs.svg)](https://badges.aleen42.com/src/vitejs.svg) A badge used for projects using [Vite](https://github.com/vitejs/vite)
 - [![eslint](./src/eslint.svg)](https://badges.aleen42.com/src/eslint.svg) A badge used for projects using ESLint
+- [![eclipse](./src/eclipse.svg)](https://badges.aleen42.com/src/eclipse.svg) A badge for the Eclipse editor
 - [![preact](./src/preact.svg)](https://badges.aleen42.com/src/preact.svg) A badge used for repositories that using [Preact](https://github.com/preactjs/preact)
 - [![redux](./src/redux.svg)](https://badges.aleen42.com/src/redux.svg) A badge used for projects using React Redux
 - [![visual_studio](./src/visual_studio.svg)](https://badges.aleen42.com/src/visual_studio.svg) A badge for the Visual Studio IDE

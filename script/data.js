@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: data for building badges
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Jul 14th, 2022
+ *      - Update Time: Oct 19th, 2022
  *
  *
  **********************************************************************/
@@ -79,6 +79,7 @@ module.exports = [
             'Webpack': { fileName: 'webpack.svg', color: '#6F95DB', description: 'A badge used for projects built with [Webpack](https://github.com/webpack/webpack)' },
             'Vite': { fileName: 'vitejs.svg', color: '#8779FF', description: 'A badge used for projects using [Vite](https://github.com/vitejs/vite)' },
             'ESLint': { fileName: 'eslint.svg', color: '#4B32C3', description: 'A badge used for projects using ESLint' },
+            'Eclipse': { fileName: 'eclipse.svg', color: '#2b2152', description: 'A badge for the Eclipse editor' },
             'Preact': { fileName: 'preact.svg', color: '#673AB8', description: 'A badge used for repositories that using [Preact](https://github.com/preactjs/preact)' },
             'Redux': { fileName: 'redux.svg', color: '#764ABC', description: 'A badge used for projects using React Redux' },
             'Visual Studio': { fileName: 'visual_studio.svg', color: '#68217A', description: 'A badge for the Visual Studio IDE' },
