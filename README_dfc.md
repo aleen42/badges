@@ -84,6 +84,7 @@ As for how to create a badge and add it to the collection? There are some steps 
 - [![gulp](./src/gulp_dfc.svg)](https://badges.aleen42.com/src/gulp_dfc.svg) A badge used for projects using Gulp to build
 - [![angular](./src/angular_dfc.svg)](https://badges.aleen42.com/src/angular_dfc.svg) A badge used for repositories which has used the framework, Angular
 - [![postcss](./src/postcss_dfc.svg)](https://badges.aleen42.com/src/postcss_dfc.svg) A badge used for projects using [PostCSS](https://github.com/postcss/postcss)
+- [![svelte](./src/svelte_dfc.svg)](https://badges.aleen42.com/src/svelte_dfc.svg) A badge used for repositories that using [Svelte](https://github.com/sveltejs/svelte)
 - [![gitlab](./src/gitlab_dfc.svg)](https://badges.aleen42.com/src/gitlab_dfc.svg) A badge used for Gitlab repositories
 - [![mocha](./src/mocha_dfc.svg)](https://badges.aleen42.com/src/mocha_dfc.svg) A badge used for projects using Mocha for unit tests
 - [![bower](./src/bower_dfc.svg)](https://badges.aleen42.com/src/bower_dfc.svg) A badge used for bower packages

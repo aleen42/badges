@@ -28,7 +28,7 @@
   "homepage": "https://github.com/aleen42/badges#readme",
   "dependencies": {
     "@ctrl/tinycolor": "3.1.4",
-    "canvas": "2.7.0",
+    "canvas": "2.11.2",
     "node-getopt": "npm:@aleen42/node-getopt"
   },
   "devDependencies": {

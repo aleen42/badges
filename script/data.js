@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: data for building badges
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Oct 19th, 2022
+ *      - Update Time: Nov 10th, 2023
  *
  *
  **********************************************************************/
@@ -42,6 +42,7 @@ module.exports = [
             'Gulp': { fileName: 'gulp.svg', color: '#D34A47', description: 'A badge used for projects using Gulp to build' },
             'Angular': { fileName: 'angular.svg', color: '#DD1B16', description: 'A badge used for repositories which has used the framework, Angular' },
             'PostCSS': { fileName: 'postcss.svg', color: '#DD3A0A', description: 'A badge used for projects using [PostCSS](https://github.com/postcss/postcss)' },
+            'Svelte': { fileName: 'svelte.svg', color: '#ff3e00', description: 'A badge used for repositories that using [Svelte](https://github.com/sveltejs/svelte)' },
             'Gitlab': { fileName: 'gitlab.svg', color: '#FC6D26', description: 'A badge used for Gitlab repositories' },
             'Mocha': { fileName: 'mocha.svg', color: '#8D6748', description: 'A badge used for projects using Mocha for unit tests' },
             'Bower': { fileName: 'bower.svg', color: '#F68A31', description: 'A badge used for bower packages' },
