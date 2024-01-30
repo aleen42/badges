@@ -10,7 +10,7 @@
 <br />
 <br />
 
-![npm](./src/npm.svg) ![cli](./src/cli.svg) ![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20730L-f1e05a.svg) ![html](https://img.shields.io/badge/%20%20HTML-%20%20%20%20164L-e34c26.svg)
+![npm](src/npm.svg) ![cli](src/cli.svg) ![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20730L-f1e05a.svg) ![html](https://img.shields.io/badge/%20%20HTML-%20%20%20%20164L-e34c26.svg)
 
 Alternative: [**default**](./README.md)<!-- @IGNORE PREVIOUS: link -->, [**flat-square**](./README_flat_square.md)<!-- @IGNORE PREVIOUS: link -->, [**dynamic-fore-color**](./README_dfc.md)<!-- @IGNORE PREVIOUS: link -->, [**dynamic-fore-color (flat_square)**](./README_flat_square_dfc.md)<!-- @IGNORE PREVIOUS: link -->.
 
@@ -40,10 +40,10 @@ sudo npm uninstall -g badges-cli
 
 As for how to create a badge and add it to the collection? There are some steps you may need to follow:
 
-1. Fork the repository
-2. Install `badges-cli`
-3. Create a logo with SVG formatted (**recommended**) or other formats like PNG. (_**The logo should be wrapped into a square, in another word, the width should be equal to the height, or it would have been horizontally squished.**_)
-4. Save the logo in the folder `dist`
+1. Fork the repository and checkout the `main` branch
+2. Install dependencies by running `npm i`
+3. Create a logo with SVG formatted (**recommended**) or other formats like PNG. (_**The logo should be wrapped into a square, in other words, the width should be equal to the height, or it would have been horizontally squished.**_)
+4. Save the logo in the folder `icon`
 5. Add data for your badge in the file `script/data.js`
     ```js
     const data = {
@@ -55,13 +55,12 @@ As for how to create a badge and add it to the collection? There are some steps 
         },
     };
     ```
-5. Run the script by typing `npm run build`
+5. Run the command `npm run build` to build to test and to prettify `data.js`
 6. If successful, the readme file will be automatically updated
-7. Finally, push all updates and create a pull request for your change
-8. **Done!!**
+7. Finally, push the icon and modification of the data file and create a pull request for your change, the GitHub Action will build all for you, **Done!!**
 
-> Note that: so far haven't I thought out a perfect solution for calculating the width of text accurately yet, and it means that the text can not be aligned in some cases.
+> Note that: so far haven't thought out a perfect solution for calculating the width of text accurately yet, and it means that the text can not be aligned in some cases.
 
 *Note: if you like this project, feel free to buy me a swimming chance:*
 
-[![badges](./src/paypal.svg)](http://paypal.me/aleen42) [![badges](./src/patreon.svg)](https://www.patreon.com/aleen42) [![badges](./src/buymeacoffee.svg)](https://www.buymeacoffee.com/aleen42)
+[![badges](src/paypal.svg)](http://paypal.me/aleen42) [![badges](src/patreon.svg)](https://www.patreon.com/aleen42) [![badges](src/buymeacoffee.svg)](https://www.buymeacoffee.com/aleen42)

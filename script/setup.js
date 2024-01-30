@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: a script for building README.md
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Apr 8th, 2021
+ *      - Update Time: Jan 30th, 2024
  *
  *
  **********************************************************************/
@@ -42,9 +42,11 @@ const execSync = require('child_process').execSync;
 const data = require('./sorted-data');
 
 const rootPath = './';
-const distPath = `${rootPath}dist/`;
+const inputPath = `${rootPath}icon/`;
 const outputPath = `${rootPath}src/`;
 const linkPath = 'https://badges.aleen42.com/src/';
+
+fs.existsSync(outputPath) || fs.mkdirSync(outputPath);
 
 const suffix = (base, ...suffix) => [base, ...suffix].filter(x => x).join('_');
 
@@ -70,7 +72,7 @@ const generateBadge = (style, dfc) => (name, badgeItem, index) => {
             `-c "${color}"`,
             `-s ${skin || 'dark'}`,
             `-t "${text || name}"`,
-            `-p ${distPath}${fname}`,
+            `-p ${inputPath}${fname}`,
             `--style=${style}`,
             `-o ${output}`,
         ].join(' ')}`, {

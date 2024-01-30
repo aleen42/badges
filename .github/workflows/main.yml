@@ -1,0 +1,32 @@
+name: Build badges
+on:
+  push:
+    branches:
+      - main
+concurrency: building
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-node@v2-beta
+        with:
+          node-version: '16'
+      - name: Build
+        run: |
+          npm version
+          npm i --no-save --no-audit
+          npm link
+          badge -v
+          npm run build
+          echo 'node_modules' > .gitignore
+        env:
+          ACCESS_TOKEN: ${{secrets.ACCESS_TOKEN}}
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        with:
+          single-commit: true
+          branch: docs
+          folder: .
