@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: data for building badges
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Nov 10th, 2023
+ *      - Update Time: Feb 5th, 2024
  *
  *
  **********************************************************************/
@@ -41,11 +41,13 @@ module.exports = [
             'Chrome Extensions': { fileName: 'chrome_extensions.svg', color: '#DADADA', description: 'A badge used for Chrome extensions' },
             'Gulp': { fileName: 'gulp.svg', color: '#D34A47', description: 'A badge used for projects using Gulp to build' },
             'Angular': { fileName: 'angular.svg', color: '#DD1B16', description: 'A badge used for repositories which has used the framework, Angular' },
+            'Ember': { fileName: 'ember.svg', color: '#E04E39', description: 'A badge used for projects which has used [ember.js](https://github.com/emberjs/ember.js) for templating' },
             'PostCSS': { fileName: 'postcss.svg', color: '#DD3A0A', description: 'A badge used for projects using [PostCSS](https://github.com/postcss/postcss)' },
             'Svelte': { fileName: 'svelte.svg', color: '#ff3e00', description: 'A badge used for repositories that using [Svelte](https://github.com/sveltejs/svelte)' },
             'Gitlab': { fileName: 'gitlab.svg', color: '#FC6D26', description: 'A badge used for Gitlab repositories' },
             'Mocha': { fileName: 'mocha.svg', color: '#8D6748', description: 'A badge used for projects using Mocha for unit tests' },
             'Bower': { fileName: 'bower.svg', color: '#F68A31', description: 'A badge used for bower packages' },
+            'squirrelly': { fileName: 'squirrelly.svg', color: '#9B6B43', description: 'A badge used for projects which has used [squirrelly](https://github.com/squirrellyjs/squirrelly) for templating' },
             'Java': { fileName: 'java.svg', color: '#E76F00', description: 'A badge used for projects that coded with Java' },
             'TC39': [
                 { fileName: 'tc39.svg', color: '#FC7C00', description: 'A badge used for [TC39](https://github.com/tc39) committee' },
@@ -54,7 +56,9 @@ module.exports = [
                 { text: 'stage 3', fileName: 'tc39.svg', color: '#FC7C00', description: 'A badge used for proposals under stage 3 of [TC39](https://github.com/tc39) committee' },
                 { text: 'stage 4', fileName: 'tc39.svg', color: '#FC7C00', description: 'A badge used for proposals under stage 4 of [TC39](https://github.com/tc39) committee' }
             ],
+            'Handlebars': { fileName: 'handlebars.svg', color: '#423426', description: 'A badge used for projects which has used [Handlebars](https://github.com/handlebars-lang/handlebars.js) for templating' },
             'Parcel': { fileName: 'parcel.svg', color: '#E4AF76', description: 'A badge used for projects built with [Parcel](https://github.com/parcel-bundler/parcel)' },
+            'Pug': { fileName: 'pugjs.svg', color: '#EFCCA3', description: 'A badge used for projects which has used [Pug](https://github.com/pugjs/pug) for templating' },
             'Grafana': { fileName: 'grafana.svg', color: '#F69319', description: 'A badge used for projects using [Grafana](https://github.com/grafana/grafana)' },
             'Sublime Text': { fileName: 'sublime_text.png', color: '#FFAD46', description: 'A badge for the Sulime Text editor' },
             'RSS': { fileName: 'rss.svg', color: '#FF9911', description: 'A badge used for RSS subscribing' },
@@ -62,6 +66,8 @@ module.exports = [
             'Tensorflow': { fileName: 'tensorflow.svg', color: '#F8BF3C', description: 'A badge use for projects using Tensorflow' },
             'ESBuild': { fileName: 'esbuild.svg', color: '#FFCF00', description: 'A badge used for projects built with [ESBuild](https://github.com/evanw/esbuild)' },
             'JavaScript': { fileName: 'javascript.svg', color: '#F7DF1E', description: 'A badge used for projects that coded with JavaScript' },
+            'EJS': { fileName: 'ejs.svg', color: '#90A93A', description: 'A badge used for projects which has used [ejs](https://github.com/mde/ejs) (Embedded JavaScript templates) for templating' },
+            'Nunjucks': { fileName: 'nunjucks.svg', color: '#1C4913', description: 'A badge used for projects which has used [Nunjucks](https://github.com/mozilla/nunjucks) for templating' },
             'Node': { fileName: 'node.svg', color: '#689F63', description: 'A badge used for projects built with Node.js' },
             'Atom': { fileName: 'atom.svg', color: '#7ECE8D', description: 'A badge for the Atom editor' },
             'CSSNano': { fileName: 'cssnano.svg', color: '#40B97B', description: 'A badge used for projects using [CSSNano](https://github.com/cssnano/cssnano) for compacting CSS' },
@@ -74,15 +80,19 @@ module.exports = [
             'Docker': { fileName: 'docker.svg', color: '#1D91B4', description: 'A badge used for projects deployed on Docker' },
             'Kotlin': { fileName: 'kotlin.svg', color: '#0593D6', description: 'A badge used for projects that coded with Kotlin' },
             'Visual Studio Code': { fileName: 'visual_studio_code.svg', color: '#028FD6', description: 'A badge for the Visual Studio Code IDE' },
+            'Backbone': { fileName: 'backbone.svg', color: '#002A41', description: 'A badge used for repositories that using [backbonejs](https://github.com/jashkenas/backbone)' },
             'TypeScript': { fileName: 'typescript.svg', color: '#007ACC', description: 'A badge used for projects that coded with TypeScript' },
             'Python': { fileName: 'python.svg', color: '#3771A1', description: 'A badge used for projects that coded with Python' },
             'JSFiddle': { fileName: 'jsfiddle.svg', color: '#4679A4', description: 'A badge used for projects running on JSFiddle' },
+            'Lodash': { fileName: 'lodash.svg', color: '#3492FF', description: 'A badge used for projects which has used [Lodash](https://github.com/lodash/lodash), a JavaScript utility' },
+            'marko': { fileName: 'marko.svg', color: '#1c1e21', description: 'A badge used for projects which has used [marko](https://github.com/marko-js/marko) for templating' },
             'Webpack': { fileName: 'webpack.svg', color: '#6F95DB', description: 'A badge used for projects built with [Webpack](https://github.com/webpack/webpack)' },
             'Vite': { fileName: 'vitejs.svg', color: '#8779FF', description: 'A badge used for projects using [Vite](https://github.com/vitejs/vite)' },
             'ESLint': { fileName: 'eslint.svg', color: '#4B32C3', description: 'A badge used for projects using ESLint' },
             'Eclipse': { fileName: 'eclipse.svg', color: '#2b2152', description: 'A badge for the Eclipse editor' },
             'Preact': { fileName: 'preact.svg', color: '#673AB8', description: 'A badge used for repositories that using [Preact](https://github.com/preactjs/preact)' },
             'Redux': { fileName: 'redux.svg', color: '#764ABC', description: 'A badge used for projects using React Redux' },
+            'Webix': { fileName: 'webix.svg', color: '#67337A', description: 'A badge used for projects which has used [Webix](https://github.com/webix-hub/webix) for UI integration' },
             'Visual Studio': { fileName: 'visual_studio.svg', color: '#68217A', description: 'A badge for the Visual Studio IDE' },
             'Jasmine': { fileName: 'jasmine.svg', color: '#8A4182', description: 'A badge used for projects using Jasmine for testing JavaScript' },
             'QUnit': { fileName: 'qunit.svg', color: '#9E2087', description: 'A badge for projects using QUnit for unit tests' },
@@ -94,6 +104,7 @@ module.exports = [
             ],
             'Erlang': { fileName: 'erlang.svg', color: '#A90533', description: 'A badge used for projects that coded with Erlang' },
             'React Router': { fileName: 'react-router.svg', color: '#D0021B', description: 'A badge used for projects using [React Router](https://github.com/remix-run/react-router)' },
+            'Jade': { fileName: 'jade.svg', color: '#C1272D', description: 'A badge used for projects which has used [Jade](https://jade-lang.com) for templating' },
             'npm': { fileName: 'npm.svg', color: '#C12127', description: 'A badge used for npm packages' },
             'Rollup': { fileName: 'rollup.svg', color: '#DA3336', description: 'A badge used for projects built with [Rollup](https://github.com/rollup/rollup)' }
         }
