@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="107.62109375" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="107.62109375" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#18b5b9" d="M25 0h82.62109375v20H25z"/>
+        <path fill="url(#b)" d="M0 0h107.62109375v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjU2cHgiIGhlaWdodD0iMTU0cHgiIHZpZXdCb3g9IjAgMCAyNTYgMTU0IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4KICAgIDxkZWZzPgogICAgICAgIDxsaW5lYXJHcmFkaWVudCB4MT0iLTIuNzc3Nzc3NzglIiB5MT0iMzIlIiB4Mj0iMTAwJSIgeTI9IjY3LjU1NTU1NTYlIiBpZD0ibGluZWFyR3JhZGllbnQtMSI+CiAgICAgICAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiMyMjk4QkQiIG9mZnNldD0iMCUiPjwvc3RvcD4KICAgICAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzBFRDdCNSIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+CiAgICAgICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDwvZGVmcz4KICAgIDxnPgogICAgICAgIDxwYXRoIGQ9Ik0xMjgsLTEuMDY1ODE0MWUtMTQgQzkzLjg2NjY2NjcsLTEuMDY1ODE0MWUtMTQgNzIuNTMzMzMzMywxNy4wNjY2NjY3IDY0LDUxLjIgQzc2LjgsMzQuMTMzMzMzMyA5MS43MzMzMzMzLDI3LjczMzMzMzMgMTA4LjgsMzIgQzExOC41Mzc0ODEsMzQuNDM0MzcwNCAxMjUuNDk3MzYzLDQxLjQ5ODU0ODEgMTMzLjIwMTA2Nyw0OS4zMTg0IEMxNDUuNzUwNzU2LDYyLjA1Njc3MDQgMTYwLjI3NTQzNyw3Ni44IDE5Miw3Ni44IEMyMjYuMTMzMzMzLDc2LjggMjQ3LjQ2NjY2Nyw1OS43MzMzMzMzIDI1NiwyNS42IEMyNDMuMiw0Mi42NjY2NjY3IDIyOC4yNjY2NjcsNDkuMDY2NjY2NyAyMTEuMiw0NC44IEMyMDEuNDYyNTE5LDQyLjM2NTYyOTYgMTk0LjUwMjYzNywzNS4zMDE0NTE5IDE4Ni43OTg5MzMsMjcuNDgxNiBDMTc0LjI0OTI0NCwxNC43NDMyMjk2IDE1OS43MjQ1NjMsLTEuMDY1ODE0MWUtMTQgMTI4LC0xLjA2NTgxNDFlLTE0IFogTTY0LDc2LjggQzI5Ljg2NjY2NjcsNzYuOCA4LjUzMzMzMzMzLDkzLjg2NjY2NjcgMCwxMjggQzEyLjgsMTEwLjkzMzMzMyAyNy43MzMzMzMzLDEwNC41MzMzMzMgNDQuOCwxMDguOCBDNTQuNTM3NDgxNSwxMTEuMjM0MzcgNjEuNDk3MzYzLDExOC4yOTg1NDggNjkuMjAxMDY2NywxMjYuMTE4NCBDODEuNzUwNzU1NiwxMzguODU2NzcgOTYuMjc1NDM3LDE1My42IDEyOCwxNTMuNiBDMTYyLjEzMzMzMywxNTMuNiAxODMuNDY2NjY3LDEzNi41MzMzMzMgMTkyLDEwMi40IEMxNzkuMiwxMTkuNDY2NjY3IDE2NC4yNjY2NjcsMTI1Ljg2NjY2NyAxNDcuMiwxMjEuNiBDMTM3LjQ2MjUxOSwxMTkuMTY1NjMgMTMwLjUwMjYzNywxMTIuMTAxNDUyIDEyMi43OTg5MzMsMTA0LjI4MTYgQzExMC4yNDkyNDQsOTEuNTQzMjI5NiA5NS43MjQ1NjMsNzYuOCA2NCw3Ni44IFoiIGZpbGw9InVybCgjbGluZWFyR3JhZGllbnQtMSkiPjwvcGF0aD4KICAgIDwvZz4KPC9zdmc+Cg=="/>
+        <text x="65.310546875" y="14.6" fill="#010101" fill-opacity=".3">TailwindCSS</text>
+        <text x="65.310546875" y="14">TailwindCSS</text>
+    </g>
+</svg>

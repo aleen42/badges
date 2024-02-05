@@ -1,0 +1,14 @@
+author: Aleen
+email: aleen42@vip.qq.com
+
+color-mode: "dark"
+# theme-color: "#1e2327"
+
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  # turn off smart quotes: https://stackoverflow.com/a/25597026/5698182
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
+plugins:
+  - jemoji

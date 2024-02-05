@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97.73046875" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="97.73046875" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#289cc7" d="M25 0h72.73046875v20H25z"/>
+        <path fill="url(#b)" d="M0 0h97.73046875v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjM0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNDAgMjM0Ij48cmFkaWFsR3JhZGllbnQgaWQ9ImEiIGN4PSItMTgzLjgyOSIgY3k9IjUxMi40NzQiIHI9Ii43NiIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgyMjAgMCAwIC0yMTMgNDA1MjUgMTA5MjE1KSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzM0MzY0RSIgc3RvcC1vcGFjaXR5PSIuOTgiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwQzA4MjQiLz48L3JhZGlhbEdyYWRpZW50PjxwYXRoIGZpbGw9InVybCgjYSkiIGQ9Ik0xMCAxMGgyMjB2MjE0SDEweiIvPjxwYXRoIGZpbGw9IiMzMUM1RjAiIGQ9Ik0xMCAxMGgyMjB2MjE0SDEwVjEwek0wIDIzNGgyNDBWMEgwdjIzNHpNMTYxLjggOTZjLTcuOSAwLTEwLjYgNC0xMC42IDcuMyAwIDMuNiAxLjggNi4xIDEyLjQgMTEuNiAxNS43IDcuNiAyMC42IDE0LjkgMjAuNiAyNS42IDAgMTYtMTIuMiAyNC42LTI4LjcgMjQuNi04LjcgMC0xNi4yLTEuOC0yMC41LTQuMy0uNy0uMy0uOC0uOC0uOC0xLjZ2LTE0LjdjMC0xIC41LTEuMyAxLjItLjggNi4zIDQuMSAxMy41IDUuOSAyMC4xIDUuOSA3LjkgMCAxMS4yLTMuMyAxMS4yLTcuOCAwLTMuNi0yLjMtNi44LTEyLjQtMTItMTQuMi02LjgtMjAuMS0xMy43LTIwLjEtMjUuMiAwLTEyLjkgMTAuMS0yMy42IDI3LjYtMjMuNiA4LjYgMCAxNC42IDEuMyAxNy45IDIuOC44LjUgMSAxLjMgMSAydjEzLjdjMCAuOC0uNSAxLjMtMS41IDEtNC40LTIuOC0xMC45LTQuNS0xNy40LTQuNXptLTg2IDExLjljMi4zLjIgNC4xLjIgOC4xLjIgMTEuNyAwIDIyLjctNC4xIDIyLjctMjAgMC0xMi43LTcuOS0xOS4xLTIxLjItMTkuMS00IDAtNy44LjItOS42LjN2MzguNnpNNTggNTQuOGMwLS43IDEuNC0xLjIgMi4yLTEuMiA2LjQtLjMgMTUuOS0uNSAyNS44LS41IDI3LjcgMCAzOC41IDE1LjIgMzguNSAzNC42IDAgMjUuNC0xOC40IDM2LjMtNDEgMzYuMy0zLjggMC01LjEtLjItNy44LS4ydjM4LjRjMCAuOC0uMyAxLjItMS4yIDEuMkg1OS4yYy0uOCAwLTEuMi0uMy0xLjItMS4yVjU0Ljh6Ii8+PC9zdmc+"/>
+        <text x="60.365234375" y="14.6" fill="#010101" fill-opacity=".3">Photoshop</text>
+        <text x="60.365234375" y="14">Photoshop</text>
+    </g>
+</svg>

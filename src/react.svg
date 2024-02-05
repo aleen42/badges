@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68.38671875" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="68.38671875" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#61dafb" d="M25 0h43.38671875v20H25z"/>
+        <path fill="url(#b)" d="M0 0h68.38671875v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8yIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCXdpZHRoPSI2MDBweCIgaGVpZ2h0PSI2MDBweCIgdmlld0JveD0iMCAwIDYwMCA2MDAiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDYwMCA2MDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cmVjdCBmaWxsPSJub25lIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjYwMCIvPgo8Y2lyY2xlIGZpbGw9IiMwMEQ4RkYiIGN4PSIyOTkuNTI5IiBjeT0iMjk5LjYyOCIgcj0iNTAuMTY3Ii8+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwRDhGRiIgc3Ryb2tlLXdpZHRoPSIyNCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBkPSJNMjk5LjUyOSwxOTcuNjI4CgljNjcuMzU2LDAsMTI5LjkyOCw5LjY2NSwxNzcuMTA3LDI1LjkwN2M1Ni44NDQsMTkuNTY5LDkxLjc5NCw0OS4yMzMsOTEuNzk0LDc2LjA5M2MwLDI3Ljk5MS0zNy4wNDEsNTkuNTAzLTk4LjA4Myw3OS43MjgKCWMtNDYuMTUxLDE1LjI5MS0xMDYuODc5LDIzLjI3Mi0xNzAuODE4LDIzLjI3MmMtNjUuNTU0LDAtMTI3LjYzLTcuNDkyLTE3NC4yOS0yMy40NDFjLTU5LjA0Ni0yMC4xODItOTQuNjExLTUyLjEwMy05NC42MTEtNzkuNTU5CgljMC0yNi42NDIsMzMuMzctNTYuMDc2LDg5LjQxNS03NS42MTZDMTY3LjM5OCwyMDcuNTAzLDIzMS41MTUsMTk3LjYyOCwyOTkuNTI5LDE5Ny42Mjh6Ii8+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwRDhGRiIgc3Ryb2tlLXdpZHRoPSIyNCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBkPSJNMjEwLjczNiwyNDguOTIyCgljMzMuNjQ5LTU4LjM0OCw3My4yODEtMTA3LjcyNCwxMTAuOTItMTQwLjQ4YzQ1LjM1LTM5LjQ2Niw4OC41MDctNTQuOTIzLDExMS43NzUtNDEuNTA1CgljMjQuMjQ4LDEzLjk4MywzMy4wNDIsNjEuODE0LDIwLjA2NywxMjQuNzk2Yy05LjgxLDQ3LjYxOC0zMy4yMzQsMTA0LjIxMi02NS4xNzYsMTU5LjYwMQoJYy0zMi43NDksNTYuNzg4LTcwLjI1LDEwNi44MTktMTA3LjM3NywxMzkuMjcyYy00Ni45ODEsNDEuMDY4LTkyLjQsNTUuOTI5LTExNi4xODUsNDIuMjEzCgljLTIzLjA3OS0xMy4zMS0zMS45MDYtNTYuOTIxLTIwLjgzNC0xMTUuMjMzQzE1My4yODEsMzY4LjMxNiwxNzYuNzU4LDMwNy44NDEsMjEwLjczNiwyNDguOTIyeiIvPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMwMEQ4RkYiIHN0cm9rZS13aWR0aD0iMjQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgZD0iTTIxMC44MjEsMzUxLjQ4MgoJYy0zMy43NDYtNTguMjkyLTU2LjczMS0xMTcuMjg3LTY2LjMxMi0xNjYuMjU1Yy0xMS41NDQtNTguOTk5LTMuMzgyLTEwNC4xMDksMTkuODY0LTExNy41NjYKCWMyNC4yMjQtMTQuMDI0LDcwLjA1NSwyLjI0NCwxMTguMTQsNDQuOTRjMzYuMzU2LDMyLjI4LDczLjY4OCw4MC44MzcsMTA1LjcyMywxMzYuMTczYzMyLjg0NCw1Ni43MzMsNTcuNDYxLDExNC4yMDksNjcuMDM2LDE2Mi41ODIKCWMxMi4xMTcsNjEuMjEzLDIuMzA5LDEwNy45ODQtMjEuNDUzLDEyMS43NGMtMjMuMDU3LDEzLjM0OC02NS4yNDktMC43ODQtMTEwLjIzOS0zOS40OTkKCUMyODUuNTY3LDQ2MC44ODYsMjQ0Ljg5OCw0MTAuMzQ0LDIxMC44MjEsMzUxLjQ4MnoiLz4KPC9zdmc+Cg=="/>
+        <text x="45.693359375" y="14.6" fill="#010101" fill-opacity=".3">React</text>
+        <text x="45.693359375" y="14">React</text>
+    </g>
+</svg>

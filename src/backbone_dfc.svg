@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93.2890625" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="93.2890625" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#002a41" d="M25 0h68.2890625v20H25z"/>
+        <path fill="url(#b)" d="M0 0h93.2890625v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5Ny4wMyAxMjAuNTgiPjxkZWZzPjxzdHlsZT4uYXtmaWxsOiMwMDJhNDE7fS5hLC5ie3N0cm9rZTojODQ4NDg0O3N0cm9rZS1taXRlcmxpbWl0OjIuNjE7c3Ryb2tlLXdpZHRoOjAuMTNweDtmaWxsLXJ1bGU6ZXZlbm9kZDt9LmJ7ZmlsbDojMDA3MWI1O308L3N0eWxlPjwvZGVmcz48dGl0bGU+YmFja2JvbmUtanM8L3RpdGxlPjxwb2x5Z29uIGNsYXNzPSJhIiBwb2ludHM9IjAuMDcgMC4xMiAwLjA3IDY1LjIgNDguNTEgOTIuODIgNDguNTEgNzQuMDUgMTYuMSA1NS41NyAxNi4xIDI2LjU1IDQ4LjUxIDQ1LjAzIDQ4LjUxIDI3LjczIDAuMDcgMC4xMiAwLjA3IDAuMTIiLz48cG9seWdvbiBjbGFzcz0iYiIgcG9pbnRzPSI5Ni45NiAwLjEyIDk2Ljk2IDY1LjIgNDguNTEgOTIuODIgNDguNTEgNzQuMDUgODAuOTIgNTUuNTcgODAuOTIgMjYuNTUgNDguNTEgNDUuMDMgNDguNTEgMjcuNzMgOTYuOTYgMC4xMiA5Ni45NiAwLjEyIi8+PHBvbHlnb24gY2xhc3M9ImIiIHBvaW50cz0iMC4wNyAxMjAuNDYgMC4wNyA1NS4zOCA0OC41MSAyNy43NiA0OC41MSA0Ni41MyAxNi4xIDY1LjAxIDE2LjEgOTIuNTUgNDguNTEgNzQuMDggNDguNTEgOTIuODUgMC4wNyAxMjAuNDYgMC4wNyAxMjAuNDYiLz48cG9seWdvbiBjbGFzcz0iYSIgcG9pbnRzPSI5Ni45NiAxMjAuNDYgOTYuOTYgNTUuMzggNDguNTEgMjcuNzYgNDguNTEgNDYuNTMgODAuOTIgNjUuMDEgODAuOTIgOTIuNTUgNDguNTEgNzQuMDggNDguNTEgOTIuODUgOTYuOTYgMTIwLjQ2IDk2Ljk2IDEyMC40NiIvPjwvc3ZnPg=="/>
+        <text x="58.14453125" y="14.6" fill="#010101" fill-opacity=".3">Backbone</text>
+        <text x="58.14453125" y="14">Backbone</text>
+    </g>
+</svg>

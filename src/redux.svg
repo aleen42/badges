@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72.37109375" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="72.37109375" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#764abc" d="M25 0h47.37109375v20H25z"/>
+        <path fill="url(#b)" d="M0 0h72.37109375v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8ZyBmaWxsPSIjNzY0QUJDIj4KICAgIDxwYXRoIGQ9Ik02NS42IDY1LjRjMi45LS4zIDUuMS0yLjggNS01LjgtLjEtMy0yLjYtNS40LTUuNi01LjRoLS4yYy0zLjEuMS01LjUgMi43LTUuNCA1LjguMSAxLjUuNyAyLjggMS42IDMuNy0zLjQgNi43LTguNiAxMS42LTE2LjQgMTUuNy01LjMgMi44LTEwLjggMy44LTE2LjMgMy4xLTQuNS0uNi04LTIuNi0xMC4yLTUuOS0zLjItNC45LTMuNS0xMC4yLS44LTE1LjUgMS45LTMuOCA0LjktNi42IDYuOC04LS40LTEuMy0xLTMuNS0xLjMtNS4xLTE0LjUgMTAuNS0xMyAyNC43LTguNiAzMS40IDMuMyA1IDEwIDguMSAxNy40IDguMSAyIDAgNC0uMiA2LS43IDEyLjgtMi41IDIyLjUtMTAuMSAyOC0yMS40eiIvPgogICAgPHBhdGggZD0iTTgzLjIgNTNjLTcuNi04LjktMTguOC0xMy44LTMxLjYtMTMuOEg1MGMtLjktMS44LTIuOC0zLTQuOS0zaC0uMmMtMy4xLjEtNS41IDIuNy01LjQgNS44LjEgMyAyLjYgNS40IDUuNiA1LjRoLjJjMi4yLS4xIDQuMS0xLjUgNC45LTMuNEg1MmM3LjYgMCAxNC44IDIuMiAyMS4zIDYuNSA1IDMuMyA4LjYgNy42IDEwLjYgMTIuOCAxLjcgNC4yIDEuNiA4LjMtLjIgMTEuOC0yLjggNS4zLTcuNSA4LjItMTMuNyA4LjItNCAwLTcuOC0xLjItOS44LTIuMS0xLjEgMS0zLjEgMi42LTQuNSAzLjYgNC4zIDIgOC43IDMuMSAxMi45IDMuMSA5LjYgMCAxNi43LTUuMyAxOS40LTEwLjYgMi45LTUuOCAyLjctMTUuOC00LjgtMjQuM3oiLz4KICAgIDxwYXRoIGQ9Ik0zMi40IDY3LjFjLjEgMyAyLjYgNS40IDUuNiA1LjRoLjJjMy4xLS4xIDUuNS0yLjcgNS40LTUuOC0uMS0zLTIuNi01LjQtNS42LTUuNGgtLjJjLS4yIDAtLjUgMC0uNy4xLTQuMS02LjgtNS44LTE0LjItNS4yLTIyLjIuNC02IDIuNC0xMS4yIDUuOS0xNS41IDIuOS0zLjcgOC41LTUuNSAxMi4zLTUuNiAxMC42LS4yIDE1LjEgMTMgMTUuNCAxOC4zIDEuMy4zIDMuNSAxIDUgMS41LTEuMi0xNi4yLTExLjItMjQuNi0yMC44LTI0LjYtOSAwLTE3LjMgNi41LTIwLjYgMTYuMS00LjYgMTIuOC0xLjYgMjUuMSA0IDM0LjgtLjUuNy0uOCAxLjgtLjcgMi45eiIvPgogIDwvZz4KPC9zdmc+Cg=="/>
+        <text x="47.685546875" y="14.6" fill="#010101" fill-opacity=".3">Redux</text>
+        <text x="47.685546875" y="14">Redux</text>
+    </g>
+</svg>

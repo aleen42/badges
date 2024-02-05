@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="73.279296875" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="73.279296875" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#a90533" d="M25 0h48.279296875v20H25z"/>
+        <path fill="url(#b)" d="M0 0h73.279296875v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSIjYTkwNTMzIj48cGF0aCBkPSJNNS4wMTggMjUuOTk4QzIuNTM0IDIzLjM2NiAxLjA4IDE5LjczIDEuMDg1IDE1LjM5MiAxLjA4IDExLjU1NiAyLjI4NyA4LjI1OCA0LjM2IDUuNzVIMFYyNmg1LjAxOHptMjIuOTQuMDAyYzEuMDctMS4xNDYgMi4wMy0yLjQ5NiAyLjg5Ny00LjA0bC00LjgyLTIuNGMtMS42OTMgMi43NTMtNC4xNyA1LjI4Ni03LjU5MyA1LjMwMy00Ljk4My0uMDE3LTYuOTQtNC4yNzgtNi45My05Ljc2M2gxOC42MmMuMDI1LS42Mi4wMjUtLjkwNyAwLTEuMjA1LjEyMi0zLjI2My0uNzQzLTYuMDA2LTIuMzE2LTguMTQybC0uMDA4LjAwNkgzMlYyNmgtNC4wNHpNMTEuODEyIDEwLjRhNC40MyA0LjQzIDAgMCAxIDQuNDYtNC4xNThjMi4zLjAwNSAzLjk4IDEuNjc1IDQuMDM4IDQuMTU4aC04LjQ5N3oiLz48L3N2Zz4="/>
+        <text x="48.1396484375" y="14.6" fill="#010101" fill-opacity=".3">Erlang</text>
+        <text x="48.1396484375" y="14">Erlang</text>
+    </g>
+</svg>

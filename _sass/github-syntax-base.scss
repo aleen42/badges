@@ -1,0 +1,122 @@
+/*!
+ * GitHub Dark v0.5.0
+ * Copyright (c) 2012 - 2021 GitHub, Inc.
+ * Licensed under MIT (https://github.com/primer/github-syntax-theme-generator/blob/master/LICENSE)
+ */
+
+.highlight .hll {
+  background-color: var(--color-text-primary);
+}
+
+.highlight {
+  color: var(--color-text-primary);
+  background-color: var(--color-bg-tertiary);
+}
+
+.highlight .err,
+.highlight .gr {
+  color: var(--color-prettylights-syntax-brackethighlighter-unmatched);
+}
+
+.highlight .k,
+.highlight .kc,
+.highlight .kd,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr {
+  color: var(--color-prettylights-syntax-keyword);
+}
+
+.highlight .kt,
+.highlight .ni,
+.highlight .s,
+.highlight .sa,
+.highlight .sb,
+.highlight .sc,
+.highlight .dl,
+.highlight .sd,
+.highlight .s2,
+.highlight .se,
+.highlight .sh,
+.highlight .si,
+.highlight .sx,
+.highlight .sr,
+.highlight .s1 {
+  color: var(--color-prettylights-syntax-string);
+}
+
+.highlight .n,
+.highlight .na,
+.highlight .nc,
+.highlight .nd,
+.highlight .ne,
+.highlight .nf,
+.highlight .nl,
+.highlight .nn,
+.highlight .nx,
+.highlight .gu {
+  color: var(--color-prettylights-syntax-entity);
+}
+
+.highlight .nb,
+.highlight .bp,
+.highlight .no,
+.highlight .py,
+.highlight .nv,
+.highlight .vc,
+.highlight .vg,
+.highlight .vi,
+.highlight .vm,
+.highlight .l,
+.highlight .ld,
+.highlight .ss,
+.highlight .m,
+.highlight .mb,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .il,
+.highlight .mo,
+.highlight .o,
+.highlight .ow {
+  color: var(--color-prettylights-syntax-constant);
+}
+
+.highlight .nt {
+  color: var(--color-prettylights-syntax-entity-tag);
+}
+
+.highlight .c,
+.highlight .ch,
+.highlight .cm,
+.highlight .cp,
+.highlight .cpf,
+.highlight .c1,
+.highlight .cs {
+  color: var(--color-prettylights-syntax-comment);
+}
+
+.highlight .gd {
+  color: var(--color-prettylights-syntax-markup-deleted-text);
+  background-color: var(--color-prettylights-syntax-markup-deleted-bg);
+}
+
+.highlight .ge {
+  font-style: italic;
+  color: var(--color-prettylights-syntax-markup-italic);
+}
+
+.highlight .gh {
+  font-weight: bold;
+  color: var(--color-prettylights-syntax-markup-heading);
+}
+
+.highlight .gi {
+  color: var(--color-prettylights-syntax-markup-inserted-text);
+  background-color: var(--color-prettylights-syntax-markup-inserted-bg);
+}
+
+.highlight .gs {
+  font-weight: bold;
+  color: var(--color-prettylights-syntax-markup-bold);
+}

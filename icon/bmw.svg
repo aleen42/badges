@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="1015" height="1015" viewBox="-0.68 -0.847 1015 1015" xml:space="preserve">
+	<defs>
+	</defs>
+	<g>
+		<linearGradient id="XMLID_1_" gradientUnits="userSpaceOnUse" x1="-74.1968" y1="-54.6484" x2="1001.2502" y2="984.5881">
+			<stop  offset="0" style="stop-color:#DFF4FF"/>
+			<stop  offset="0.0984" style="stop-color:#D6EAF5"/>
+			<stop  offset="0.2678" style="stop-color:#BFD0D9"/>
+			<stop  offset="0.4879" style="stop-color:#98A5AC"/>
+			<stop  offset="0.7469" style="stop-color:#646B6E"/>
+			<stop  offset="1" style="stop-color:#2B2B2B"/>
+			<a:midPointStop  offset="0" style="stop-color:#DFF4FF"/>
+			<a:midPointStop  offset="0.5876" style="stop-color:#DFF4FF"/>
+			<a:midPointStop  offset="1" style="stop-color:#2B2B2B"/>
+		</linearGradient>
+		<path fill="url(#XMLID_1_)" d="M506.86,0C226.94,0,0,226.918,0,506.848c0,279.926,226.94,506.848,506.86,506.848
+			c279.94,0,506.857-226.922,506.857-506.848C1013.718,226.918,786.801,0,506.86,0z M506.86,988.352
+			c-265.939,0-481.495-215.574-481.495-481.504c0-265.927,215.556-481.512,481.495-481.512
+			c265.937,0,481.511,215.584,481.511,481.512C988.371,772.778,772.797,988.352,506.86,988.352z"/>
+		<path fill="#333333" d="M992.003,506.848c0,267.914-217.227,485.133-485.143,485.133c-267.919,0-485.123-217.219-485.123-485.133
+			c0-267.929,217.204-485.133,485.123-485.133C774.776,21.715,992.003,238.919,992.003,506.848z"/>
+		<radialGradient id="XMLID_2_" cx="-6.3174" cy="33.522" r="720.1076" fx="-6.3174" fy="33.522" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.3064" style="stop-color:#A8A8A8"/>
+			<stop  offset="0.6461" style="stop-color:#4F4F4F"/>
+			<stop  offset="0.8853" style="stop-color:#161616"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFFFFF"/>
+			<a:midPointStop  offset="0.4576" style="stop-color:#FFFFFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#000000"/>
+		</radialGradient>
+		<path fill="url(#XMLID_2_)" d="M988.371,506.848c0,265.93-215.574,481.504-481.511,481.504
+			c-265.939,0-481.495-215.574-481.495-481.504c0-265.927,215.556-481.512,481.495-481.512
+			C772.797,25.336,988.371,240.921,988.371,506.848z"/>
+		
+			<linearGradient id="XMLID_3_" gradientUnits="userSpaceOnUse" x1="54.041" y1="304.8472" x2="738.989" y2="966.7329" gradientTransform="matrix(-1 0 0 -1 930.9756 1169.3057)">
+			<stop  offset="0" style="stop-color:#DFF4FF"/>
+			<stop  offset="0.0855" style="stop-color:#D6EAF5"/>
+			<stop  offset="0.2327" style="stop-color:#BED0D9"/>
+			<stop  offset="0.4239" style="stop-color:#96A4AC"/>
+			<stop  offset="0.6516" style="stop-color:#5F686D"/>
+			<stop  offset="0.9075" style="stop-color:#1A1D1E"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+			<a:midPointStop  offset="0" style="stop-color:#DFF4FF"/>
+			<a:midPointStop  offset="0.5876" style="stop-color:#DFF4FF"/>
+			<a:midPointStop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<path fill="url(#XMLID_3_)" d="M829.676,506.848c0,178.28-144.53,322.803-322.815,322.803
+			c-178.289,0-322.819-144.522-322.819-322.803c0-178.289,144.53-322.816,322.819-322.816
+			C685.146,184.032,829.676,328.56,829.676,506.848z"/>
+		<polygon points="519.79,175.308 553.324,86.431 553.324,175.308 578.792,175.308 578.792,48.021 540.518,48.021 505.704,139.157 
+			506.035,139.157 471.223,48.021 432.947,48.021 432.947,175.308 458.416,175.308 458.416,86.431 491.949,175.308 "/>
+		<polygon points="869.313,232.384 825.798,295.831 894.146,262.216 912.684,284.447 805.115,338.459 783.379,312.144 
+			825.077,249.275 824.83,248.965 755.473,278.651 733.489,252.513 806.021,156.469 824.563,178.712 779.146,239.871 
+			849.433,208.522 "/>
+		<path fill="#333333" d="M281.427,208.068c-10.251-9.951-26.069-12.951-40.939-3.733c2.847-7.363,1.691-14.858,0.186-19.015
+			c-6.414-11.662-8.662-13.137-13.899-17.561c-17.097-14.324-35.082-2.093-47.93,13.219l-62.116,74.028l97.651,81.925l65.5-78.047
+			C294.851,241.046,297.162,223.361,281.427,208.068z M155.106,243.768l37.311-44.464c4.33-5.146,14.106-4.94,20.375,0.341
+			c6.908,5.795,6.928,14.002,2.289,19.54l-36.896,43.95L155.106,243.768z M258.04,251.161l-38.896,46.353l-24.355-20.47
+			l39.185-46.711c4.434-5.281,14.313-6.817,20.974-1.229C262.453,235.416,263.195,245.016,258.04,251.161z"/>
+		
+			<radialGradient id="XMLID_4_" cx="-135.6465" cy="-39.812" r="1730.3135" fx="-135.6465" fy="-39.812" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.3102" style="stop-color:#FDFDFD"/>
+			<stop  offset="0.4505" style="stop-color:#F6F6F6"/>
+			<stop  offset="0.5567" style="stop-color:#E9E9E9"/>
+			<stop  offset="0.6456" style="stop-color:#D7D7D7"/>
+			<stop  offset="0.7238" style="stop-color:#BFBFBF"/>
+			<stop  offset="0.7944" style="stop-color:#A2A2A2"/>
+			<stop  offset="0.8593" style="stop-color:#808080"/>
+			<stop  offset="0.9199" style="stop-color:#575757"/>
+			<stop  offset="0.9746" style="stop-color:#2B2B2B"/>
+			<stop  offset="1" style="stop-color:#141414"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFFFFF"/>
+			<a:midPointStop  offset="0.8418" style="stop-color:#FFFFFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#141414"/>
+		</radialGradient>
+		<polygon fill="url(#XMLID_4_)" points="520.06,170.39 553.592,81.515 553.592,170.39 579.063,170.39 579.063,43.103 
+			540.784,43.103 505.973,134.236 506.303,134.236 471.491,43.103 433.212,43.103 433.212,170.39 458.683,170.39 458.683,81.515 
+			492.218,170.39 "/>
+		
+			<radialGradient id="XMLID_5_" cx="-135.7231" cy="-39.8115" r="1730.4609" fx="-135.7231" fy="-39.8115" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.3102" style="stop-color:#FDFDFD"/>
+			<stop  offset="0.4505" style="stop-color:#F6F6F6"/>
+			<stop  offset="0.5567" style="stop-color:#E9E9E9"/>
+			<stop  offset="0.6456" style="stop-color:#D7D7D7"/>
+			<stop  offset="0.7238" style="stop-color:#BFBFBF"/>
+			<stop  offset="0.7944" style="stop-color:#A2A2A2"/>
+			<stop  offset="0.8593" style="stop-color:#808080"/>
+			<stop  offset="0.9199" style="stop-color:#575757"/>
+			<stop  offset="0.9746" style="stop-color:#2B2B2B"/>
+			<stop  offset="1" style="stop-color:#141414"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFFFFF"/>
+			<a:midPointStop  offset="0.8418" style="stop-color:#FFFFFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#141414"/>
+		</radialGradient>
+		<polygon fill="url(#XMLID_5_)" points="869.563,223.844 826.067,287.293 894.413,253.667 912.934,275.909 805.38,329.921 
+			783.645,303.596 825.345,240.735 825.1,240.416 755.72,270.114 733.759,243.963 806.291,147.93 824.83,170.164 779.419,231.322 
+			849.68,199.985 "/>
+		
+			<radialGradient id="XMLID_6_" cx="-135.8174" cy="-40.3198" r="1731.7866" fx="-135.8174" fy="-40.3198" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.3102" style="stop-color:#FDFDFD"/>
+			<stop  offset="0.4505" style="stop-color:#F6F6F6"/>
+			<stop  offset="0.5567" style="stop-color:#E9E9E9"/>
+			<stop  offset="0.6456" style="stop-color:#D7D7D7"/>
+			<stop  offset="0.7238" style="stop-color:#BFBFBF"/>
+			<stop  offset="0.7944" style="stop-color:#A2A2A2"/>
+			<stop  offset="0.8593" style="stop-color:#808080"/>
+			<stop  offset="0.9199" style="stop-color:#575757"/>
+			<stop  offset="0.9746" style="stop-color:#2B2B2B"/>
+			<stop  offset="1" style="stop-color:#141414"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFFFFF"/>
+			<a:midPointStop  offset="0.8418" style="stop-color:#FFFFFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#141414"/>
+		</radialGradient>
+		<path fill="url(#XMLID_6_)" d="M276.868,205.563c-10.23-9.951-26.069-12.953-40.916-3.743c2.824-7.364,1.67-14.86,0.166-18.996
+			c-6.415-11.682-8.642-13.137-13.923-17.57c-17.096-14.333-35.059-2.095-47.887,13.231l-62.139,74.016l97.653,81.926l65.499-78.059
+			C290.274,238.529,292.603,220.856,276.868,205.563z M150.551,241.261l37.307-44.453c4.312-5.155,14.086-4.949,20.376,0.319
+			c6.909,5.806,6.93,14.023,2.268,19.54l-36.873,43.959L150.551,241.261z M253.503,248.654l-38.896,46.352l-24.398-20.47
+			l39.207-46.721c4.433-5.269,14.291-6.806,20.953-1.216C257.916,232.919,258.659,242.499,253.503,248.654z"/>
+		
+			<radialGradient id="XMLID_7_" cx="174.2534" cy="200.0752" r="466.7181" fx="174.2534" fy="200.0752" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#E6E6E6"/>
+			<stop  offset="0.1045" style="stop-color:#D6D6D6"/>
+			<stop  offset="0.3074" style="stop-color:#ADADAD"/>
+			<stop  offset="0.5884" style="stop-color:#6C6C6C"/>
+			<stop  offset="0.9335" style="stop-color:#121212"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+			<a:midPointStop  offset="0" style="stop-color:#E6E6E6"/>
+			<a:midPointStop  offset="0.5593" style="stop-color:#E6E6E6"/>
+			<a:midPointStop  offset="1" style="stop-color:#000000"/>
+		</radialGradient>
+		<path fill="url(#XMLID_7_)" d="M194.788,506.852c0-172.358,139.724-312.082,312.073-312.082
+			c172.367,0,312.072,139.724,312.072,312.082c0,172.351-139.705,312.071-312.072,312.071
+			C334.511,818.923,194.788,679.203,194.788,506.852z"/>
+		
+			<radialGradient id="XMLID_8_" cx="301.9058" cy="262.8477" r="678.7418" fx="301.9058" fy="262.8477" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.3435" style="stop-color:#FDFDFD"/>
+			<stop  offset="0.4814" style="stop-color:#F6F6F6"/>
+			<stop  offset="0.5824" style="stop-color:#EAEAEA"/>
+			<stop  offset="0.6654" style="stop-color:#D8D8D8"/>
+			<stop  offset="0.7373" style="stop-color:#C2C2C2"/>
+			<stop  offset="0.8016" style="stop-color:#A6A6A6"/>
+			<stop  offset="0.8602" style="stop-color:#848484"/>
+			<stop  offset="0.9126" style="stop-color:#5F5F5F"/>
+			<stop  offset="0.9494" style="stop-color:#404040"/>
+			<stop  offset="0.9566" style="stop-color:#404040"/>
+			<stop  offset="1" style="stop-color:#404040"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+			<a:midPointStop  offset="0" style="stop-color:#FFFFFF"/>
+			<a:midPointStop  offset="0.8571" style="stop-color:#FFFFFF"/>
+			<a:midPointStop  offset="0.9494" style="stop-color:#404040"/>
+			<a:midPointStop  offset="0.13" style="stop-color:#404040"/>
+			<a:midPointStop  offset="1" style="stop-color:#404040"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#404040"/>
+			<a:midPointStop  offset="1" style="stop-color:#000000"/>
+		</radialGradient>
+		<path fill="url(#XMLID_8_)" d="M203.759,506.852c0-167.399,135.702-303.112,303.102-303.112s303.12,135.712,303.12,303.112
+			c0,167.401-135.721,303.113-303.12,303.113S203.759,674.253,203.759,506.852z"/>
+		
+			<radialGradient id="XMLID_9_" cx="102.6182" cy="5.5596" r="1202.0598" fx="102.6182" fy="5.5596" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.1685" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1957" style="stop-color:#E0EFF7"/>
+			<stop  offset="0.2406" style="stop-color:#B2D9EC"/>
+			<stop  offset="0.2872" style="stop-color:#8BC5E2"/>
+			<stop  offset="0.335" style="stop-color:#6BB5DA"/>
+			<stop  offset="0.3844" style="stop-color:#52A9D4"/>
+			<stop  offset="0.4359" style="stop-color:#41A0CF"/>
+			<stop  offset="0.4911" style="stop-color:#369BCD"/>
+			<stop  offset="0.5562" style="stop-color:#3399CC"/>
+			<stop  offset="0.606" style="stop-color:#3396C8"/>
+			<stop  offset="0.6553" style="stop-color:#328EBC"/>
+			<stop  offset="0.7045" style="stop-color:#3180A8"/>
+			<stop  offset="0.7536" style="stop-color:#2F6D8C"/>
+			<stop  offset="0.8027" style="stop-color:#2D5468"/>
+			<stop  offset="0.8512" style="stop-color:#2A373D"/>
+			<stop  offset="0.8708" style="stop-color:#292929"/>
+			<a:midPointStop  offset="0.1685" style="stop-color:#FFFFFF"/>
+			<a:midPointStop  offset="0.26" style="stop-color:#FFFFFF"/>
+			<a:midPointStop  offset="0.5562" style="stop-color:#3399CC"/>
+			<a:midPointStop  offset="0.7091" style="stop-color:#3399CC"/>
+			<a:midPointStop  offset="0.8708" style="stop-color:#292929"/>
+		</radialGradient>
+		<path fill="url(#XMLID_9_)" d="M203.284,506.852H506.86V203.277C339.191,203.277,203.284,339.185,203.284,506.852z"/>
+		
+			<radialGradient id="XMLID_10_" cx="102.6182" cy="5.5513" r="1202.0366" fx="102.6182" fy="5.5513" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.1685" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1957" style="stop-color:#E0EFF7"/>
+			<stop  offset="0.2406" style="stop-color:#B2D9EC"/>
+			<stop  offset="0.2872" style="stop-color:#8BC5E2"/>
+			<stop  offset="0.335" style="stop-color:#6BB5DA"/>
+			<stop  offset="0.3844" style="stop-color:#52A9D4"/>
+			<stop  offset="0.4359" style="stop-color:#41A0CF"/>
+			<stop  offset="0.4911" style="stop-color:#369BCD"/>
+			<stop  offset="0.5562" style="stop-color:#3399CC"/>
+			<stop  offset="0.606" style="stop-color:#3396C8"/>
+			<stop  offset="0.6553" style="stop-color:#328EBC"/>
+			<stop  offset="0.7045" style="stop-color:#3180A8"/>
+			<stop  offset="0.7536" style="stop-color:#2F6D8C"/>
+			<stop  offset="0.8027" style="stop-color:#2D5468"/>
+			<stop  offset="0.8512" style="stop-color:#2A373D"/>
+			<stop  offset="0.8708" style="stop-color:#292929"/>
+			<a:midPointStop  offset="0.1685" style="stop-color:#FFFFFF"/>
+			<a:midPointStop  offset="0.26" style="stop-color:#FFFFFF"/>
+			<a:midPointStop  offset="0.5562" style="stop-color:#3399CC"/>
+			<a:midPointStop  offset="0.7091" style="stop-color:#3399CC"/>
+			<a:midPointStop  offset="0.8708" style="stop-color:#292929"/>
+		</radialGradient>
+		<path fill="url(#XMLID_10_)" d="M506.86,506.852v303.579c167.667,0,303.576-135.933,303.576-303.579H506.86z"/>
+		
+			<radialGradient id="XMLID_11_" cx="180.6274" cy="205.9541" r="457.773" fx="180.6274" fy="205.9541" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#E6E6E6"/>
+			<stop  offset="0.1045" style="stop-color:#D6D6D6"/>
+			<stop  offset="0.3074" style="stop-color:#ADADAD"/>
+			<stop  offset="0.5884" style="stop-color:#6C6C6C"/>
+			<stop  offset="0.9335" style="stop-color:#121212"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+			<a:midPointStop  offset="0" style="stop-color:#E6E6E6"/>
+			<a:midPointStop  offset="0.5593" style="stop-color:#E6E6E6"/>
+			<a:midPointStop  offset="1" style="stop-color:#000000"/>
+		</radialGradient>
+		<polygon fill="url(#XMLID_11_)" points="812.95,501.458 512.242,501.458 512.242,200.75 501.476,200.75 501.476,501.458 
+			200.768,501.458 200.768,512.225 501.476,512.225 501.476,812.942 512.242,812.942 512.242,512.225 812.95,512.225 "/>
+		<linearGradient id="XMLID_12_" gradientUnits="userSpaceOnUse" x1="446.8354" y1="91.6548" x2="893.2535" y2="523.0419">
+			<stop  offset="0" style="stop-color:#F0F4FF"/>
+			<stop  offset="0.1086" style="stop-color:#EBEFF9"/>
+			<stop  offset="0.2475" style="stop-color:#DCE0EA"/>
+			<stop  offset="0.4028" style="stop-color:#C4C7CF"/>
+			<stop  offset="0.5701" style="stop-color:#A2A4AB"/>
+			<stop  offset="0.7469" style="stop-color:#76777C"/>
+			<stop  offset="0.9291" style="stop-color:#414243"/>
+			<stop  offset="1" style="stop-color:#2B2B2B"/>
+			<a:midPointStop  offset="0" style="stop-color:#F0F4FF"/>
+			<a:midPointStop  offset="0.6554" style="stop-color:#F0F4FF"/>
+			<a:midPointStop  offset="1" style="stop-color:#2B2B2B"/>
+		</linearGradient>
+		<path fill="url(#XMLID_12_)" d="M512.242,209.267c160.141,2.848,289.366,132.062,292.232,292.191h5.36
+			c-2.863-163.099-134.482-294.736-297.593-297.583V209.267z"/>
+		<path fill="#C2D7E8" d="M208.729,501.418c2.845-160.347,132.256-289.747,292.604-292.604v-5.383
+			c-163.336,2.856-295.12,134.669-297.987,297.986H208.729z"/>
+		<linearGradient id="XMLID_13_" gradientUnits="userSpaceOnUse" x1="84.4878" y1="455.8701" x2="530.9141" y2="887.2653">
+			<stop  offset="0" style="stop-color:#F0F4FF"/>
+			<stop  offset="0.1086" style="stop-color:#EBEFF9"/>
+			<stop  offset="0.2475" style="stop-color:#DCE0EA"/>
+			<stop  offset="0.4028" style="stop-color:#C4C7CF"/>
+			<stop  offset="0.5701" style="stop-color:#A2A4AB"/>
+			<stop  offset="0.7469" style="stop-color:#76777C"/>
+			<stop  offset="0.9291" style="stop-color:#414243"/>
+			<stop  offset="1" style="stop-color:#2B2B2B"/>
+			<a:midPointStop  offset="0" style="stop-color:#F0F4FF"/>
+			<a:midPointStop  offset="0.6554" style="stop-color:#F0F4FF"/>
+			<a:midPointStop  offset="1" style="stop-color:#2B2B2B"/>
+		</linearGradient>
+		<path fill="url(#XMLID_13_)" d="M501.476,804.433c-160.139-2.844-289.364-132.069-292.211-292.208h-5.381
+			c2.866,163.108,134.484,294.75,297.593,297.594V804.433z"/>
+		<path fill="#12404F" d="M804.475,512.225c-2.866,160.139-132.092,289.364-292.232,292.208v5.386
+			c163.11-2.844,294.747-134.485,297.593-297.594H804.475z"/>
+		<linearGradient id="XMLID_14_" gradientUnits="userSpaceOnUse" x1="300.459" y1="302.0415" x2="531.948" y2="525.7363">
+			<stop  offset="0" style="stop-color:#C2D7E8"/>
+			<stop  offset="0.1337" style="stop-color:#BACFE1"/>
+			<stop  offset="0.3425" style="stop-color:#A4BACD"/>
+			<stop  offset="0.6001" style="stop-color:#8098AC"/>
+			<stop  offset="0.894" style="stop-color:#4E697F"/>
+			<stop  offset="1" style="stop-color:#3A566D"/>
+			<a:midPointStop  offset="0" style="stop-color:#C2D7E8"/>
+			<a:midPointStop  offset="0.6102" style="stop-color:#C2D7E8"/>
+			<a:midPointStop  offset="1" style="stop-color:#3A566D"/>
+		</linearGradient>
+		<polygon fill="url(#XMLID_14_)" points="495.724,203.432 495.724,495.551 203.614,495.551 203.614,501.315 495.724,501.315 
+			501.476,501.315 501.476,495.551 501.476,203.432 "/>
+		<linearGradient id="XMLID_15_" gradientUnits="userSpaceOnUse" x1="184.5244" y1="356.8545" x2="626.4575" y2="783.9076">
+			<stop  offset="0" style="stop-color:#F0F4FF"/>
+			<stop  offset="0.0973" style="stop-color:#E8EBF6"/>
+			<stop  offset="0.2568" style="stop-color:#D1D4DD"/>
+			<stop  offset="0.4587" style="stop-color:#ABAEB5"/>
+			<stop  offset="0.6951" style="stop-color:#78797D"/>
+			<stop  offset="0.9578" style="stop-color:#363637"/>
+			<stop  offset="1" style="stop-color:#2B2B2B"/>
+			<a:midPointStop  offset="0" style="stop-color:#F0F4FF"/>
+			<a:midPointStop  offset="0.5989" style="stop-color:#F0F4FF"/>
+			<a:midPointStop  offset="1" style="stop-color:#2B2B2B"/>
+		</linearGradient>
+		<polygon fill="url(#XMLID_15_)" points="495.229,806.995 495.229,518.391 206.029,518.391 206.029,512.7 495.229,512.7 
+			500.92,512.7 500.92,518.391 500.92,806.995 "/>
+		<linearGradient id="XMLID_16_" gradientUnits="userSpaceOnUse" x1="510.2568" y1="515.2671" x2="665.2748" y2="665.0656">
+			<stop  offset="0" style="stop-color:#D9DEF0"/>
+			<stop  offset="0.1229" style="stop-color:#D4DAEC"/>
+			<stop  offset="0.2629" style="stop-color:#C7CFE2"/>
+			<stop  offset="0.4114" style="stop-color:#B0BCD1"/>
+			<stop  offset="0.5657" style="stop-color:#90A1B8"/>
+			<stop  offset="0.7246" style="stop-color:#677F99"/>
+			<stop  offset="0.8849" style="stop-color:#355674"/>
+			<stop  offset="0.9719" style="stop-color:#173D5D"/>
+			<a:midPointStop  offset="0" style="stop-color:#D9DEF0"/>
+			<a:midPointStop  offset="0.6802" style="stop-color:#D9DEF0"/>
+			<a:midPointStop  offset="0.9719" style="stop-color:#173D5D"/>
+		</linearGradient>
+		<polygon fill="url(#XMLID_16_)" points="518.409,806.995 518.409,518.391 807.011,518.391 807.011,512.7 518.409,512.7 
+			512.737,512.7 512.737,518.391 512.737,806.995 "/>
+		<linearGradient id="XMLID_17_" gradientUnits="userSpaceOnUse" x1="351.6777" y1="194.7759" x2="793.1321" y2="621.3665">
+			<stop  offset="0" style="stop-color:#F0F4FF"/>
+			<stop  offset="0.1086" style="stop-color:#EBEFF9"/>
+			<stop  offset="0.2475" style="stop-color:#DCE0EA"/>
+			<stop  offset="0.4028" style="stop-color:#C4C7CF"/>
+			<stop  offset="0.5701" style="stop-color:#A2A4AB"/>
+			<stop  offset="0.7469" style="stop-color:#76777C"/>
+			<stop  offset="0.9291" style="stop-color:#414243"/>
+			<stop  offset="1" style="stop-color:#2B2B2B"/>
+			<a:midPointStop  offset="0" style="stop-color:#F0F4FF"/>
+			<a:midPointStop  offset="0.6554" style="stop-color:#F0F4FF"/>
+			<a:midPointStop  offset="1" style="stop-color:#2B2B2B"/>
+		</linearGradient>
+		<polygon fill="url(#XMLID_17_)" points="518.409,206.011 518.409,494.613 807.011,494.613 807.011,500.295 518.409,500.295 
+			512.737,500.295 512.737,494.613 512.737,206.011 "/>
+	</g>
+</svg>

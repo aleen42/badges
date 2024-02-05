@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76.4140625" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="76.4140625" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#1c1c1c" d="M25 0h51.4140625v20H25z"/>
+        <path fill="url(#b)" d="M0 0h76.4140625v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNy4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IuWbvuWxgl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9IjMycHgiIGhlaWdodD0iMzJweCIgdmlld0JveD0iMCAwIDMyIDMyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAzMiAzMiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMTYsMEM3LjE2LDAsMCw3LjE2LDAsMTZjMCw3LjA4LDQuNTgsMTMuMDYsMTAuOTQsMTUuMThjMC44LDAuMTQsMS4xLTAuMzQsMS4xLTAuNzYNCgljMC0wLjM4LTAuMDItMS42NC0wLjAyLTIuOThDOCwyOC4xOCw2Ljk2LDI2LjQ2LDYuNjQsMjUuNTZDNi40NiwyNS4xLDUuNjgsMjMuNjgsNSwyMy4zYy0wLjU2LTAuMy0xLjM2LTEuMDQtMC4wMi0xLjA2DQoJYzEuMjYtMC4wMiwyLjE2LDEuMTYsMi40NiwxLjY0YzEuNDQsMi40MiwzLjc0LDEuNzQsNC42NiwxLjMyYzAuMTQtMS4wNCwwLjU2LTEuNzQsMS4wMi0yLjE0Yy0zLjU2LTAuNC03LjI4LTEuNzgtNy4yOC03LjkNCgljMC0xLjc0LDAuNjItMy4xOCwxLjY0LTQuM2MtMC4xNi0wLjQtMC43Mi0yLjA0LDAuMTYtNC4yNGMwLDAsMS4zNC0wLjQyLDQuNCwxLjY0YzEuMjgtMC4zNiwyLjY0LTAuNTQsNC0wLjU0czIuNzIsMC4xOCw0LDAuNTQNCgljMy4wNi0yLjA4LDQuNC0xLjY0LDQuNC0xLjY0YzAuODgsMi4yLDAuMzIsMy44NCwwLjE2LDQuMjRjMS4wMiwxLjEyLDEuNjQsMi41NCwxLjY0LDQuM2MwLDYuMTQtMy43NCw3LjUtNy4zLDcuOQ0KCWMwLjU4LDAuNSwxLjA4LDEuNDYsMS4wOCwyLjk2YzAsMi4xNC0wLjAyLDMuODYtMC4wMiw0LjRjMCwwLjQyLDAuMywwLjkyLDEuMSwwLjc2QzI3LjYxMywyOC45ODEsMzEuOTk4LDIyLjg3NCwzMiwxNg0KCUMzMiw3LjE2LDI0Ljg0LDAsMTYsMHoiLz4NCjwvc3ZnPg0K"/>
+        <text x="49.70703125" y="14.6" fill="#010101" fill-opacity=".3">GitHub</text>
+        <text x="49.70703125" y="14">GitHub</text>
+    </g>
+</svg>
