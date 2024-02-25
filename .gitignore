@@ -44,4 +44,5 @@ README_flat_square_dfc.md
 
 package-lock.json
 
+#for MacOS
 .DS_Store

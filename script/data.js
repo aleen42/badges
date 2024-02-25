@@ -15,7 +15,7 @@
  *      - Author: aleen42
  *      - Description: data for building badges
  *      - Create Time: Apr 20th, 2017
- *      - Update Time: Feb 5th, 2024
+ *      - Update Time: Feb 25th, 2024
  *
  *
  **********************************************************************/
@@ -45,6 +45,7 @@ module.exports = [
             'PostCSS': { fileName: 'postcss.svg', color: '#DD3A0A', description: 'A badge used for projects using [PostCSS](https://github.com/postcss/postcss)' },
             'Svelte': { fileName: 'svelte.svg', color: '#ff3e00', description: 'A badge used for repositories that using [Svelte](https://github.com/sveltejs/svelte)' },
             'Gitlab': { fileName: 'gitlab.svg', color: '#FC6D26', description: 'A badge used for Gitlab repositories' },
+            'HTML 5': { fileName: 'html5.svg', color: '#E65100', description: 'A badge used for projects using HTML 5' },
             'Mocha': { fileName: 'mocha.svg', color: '#8D6748', description: 'A badge used for projects using Mocha for unit tests' },
             'Bower': { fileName: 'bower.svg', color: '#F68A31', description: 'A badge used for bower packages' },
             'squirrelly': { fileName: 'squirrelly.svg', color: '#9B6B43', description: 'A badge used for projects which has used [squirrelly](https://github.com/squirrellyjs/squirrelly) for templating' },
@@ -70,6 +71,7 @@ module.exports = [
             'Nunjucks': { fileName: 'nunjucks.svg', color: '#1C4913', description: 'A badge used for projects which has used [Nunjucks](https://github.com/mozilla/nunjucks) for templating' },
             'Node': { fileName: 'node.svg', color: '#689F63', description: 'A badge used for projects built with Node.js' },
             'Atom': { fileName: 'atom.svg', color: '#7ECE8D', description: 'A badge for the Atom editor' },
+            'Mongo DB': { fileName: 'mongodb.svg', color: '#00ED64', description: 'A badge used for projects using [Mongo DB](https://github.com/mongodb/mongo)' },
             'CSSNano': { fileName: 'cssnano.svg', color: '#40B97B', description: 'A badge used for projects using [CSSNano](https://github.com/cssnano/cssnano) for compacting CSS' },
             'Vue': { fileName: 'vue.svg', color: '#3eaf7c', description: 'A badge used for repositories which has used the framework, Vue' },
             'VuePress': { fileName: 'vuepress.svg', color: '#3eaf7c', description: 'A badge used for books publish by Vuepress' },
@@ -81,6 +83,7 @@ module.exports = [
             'Kotlin': { fileName: 'kotlin.svg', color: '#0593D6', description: 'A badge used for projects that coded with Kotlin' },
             'Visual Studio Code': { fileName: 'visual_studio_code.svg', color: '#028FD6', description: 'A badge for the Visual Studio Code IDE' },
             'Backbone': { fileName: 'backbone.svg', color: '#002A41', description: 'A badge used for repositories that using [backbonejs](https://github.com/jashkenas/backbone)' },
+            'CSS 3': { fileName: 'css3.svg', color: '#0277BD', description: 'A badge used for projects using CSS 3' },
             'TypeScript': { fileName: 'typescript.svg', color: '#007ACC', description: 'A badge used for projects that coded with TypeScript' },
             'Python': { fileName: 'python.svg', color: '#3771A1', description: 'A badge used for projects that coded with Python' },
             'JSFiddle': { fileName: 'jsfiddle.svg', color: '#4679A4', description: 'A badge used for projects running on JSFiddle' },
