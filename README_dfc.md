@@ -109,6 +109,7 @@ As for how to create a badge and add it to the collection? There are some steps 
 - [![nunjucks](./src/nunjucks_dfc.svg)](https://badges.aleen42.com/src/nunjucks_dfc.svg) A badge used for projects which has used [Nunjucks](https://github.com/mozilla/nunjucks) for templating
 - [![node](./src/node_dfc.svg)](https://badges.aleen42.com/src/node_dfc.svg) A badge used for projects built with Node.js
 - [![atom](./src/atom_dfc.svg)](https://badges.aleen42.com/src/atom_dfc.svg) A badge for the Atom editor
+- [![mongodb](./src/mongodb_dfc.svg)](https://badges.aleen42.com/src/mongodb_dfc.svg) A badge used for projects using [Mongo DB](https://github.com/mongodb/mongo)
 - [![cssnano](./src/cssnano_dfc.svg)](https://badges.aleen42.com/src/cssnano_dfc.svg) A badge used for projects using [CSSNano](https://github.com/cssnano/cssnano) for compacting CSS
 - [![vue](./src/vue_dfc.svg)](https://badges.aleen42.com/src/vue_dfc.svg) A badge used for repositories which has used the framework, Vue
 - [![vuepress](./src/vuepress_dfc.svg)](https://badges.aleen42.com/src/vuepress_dfc.svg) A badge used for books publish by Vuepress

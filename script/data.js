@@ -70,6 +70,7 @@ module.exports = [
             'Nunjucks': { fileName: 'nunjucks.svg', color: '#1C4913', description: 'A badge used for projects which has used [Nunjucks](https://github.com/mozilla/nunjucks) for templating' },
             'Node': { fileName: 'node.svg', color: '#689F63', description: 'A badge used for projects built with Node.js' },
             'Atom': { fileName: 'atom.svg', color: '#7ECE8D', description: 'A badge for the Atom editor' },
+            'Mongo DB': { fileName: 'mongodb.svg', color: '#00ED64', description: 'A badge used for projects using [Mongo DB](https://github.com/mongodb/mongo)' },
             'CSSNano': { fileName: 'cssnano.svg', color: '#40B97B', description: 'A badge used for projects using [CSSNano](https://github.com/cssnano/cssnano) for compacting CSS' },
             'Vue': { fileName: 'vue.svg', color: '#3eaf7c', description: 'A badge used for repositories which has used the framework, Vue' },
             'VuePress': { fileName: 'vuepress.svg', color: '#3eaf7c', description: 'A badge used for books publish by Vuepress' },
