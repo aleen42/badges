@@ -86,6 +86,7 @@ As for how to create a badge and add it to the collection? There are some steps 
 - [![postcss](./src/postcss.svg)](https://badges.aleen42.com/src/postcss.svg) A badge used for projects using [PostCSS](https://github.com/postcss/postcss)
 - [![svelte](./src/svelte.svg)](https://badges.aleen42.com/src/svelte.svg) A badge used for repositories that using [Svelte](https://github.com/sveltejs/svelte)
 - [![gitlab](./src/gitlab.svg)](https://badges.aleen42.com/src/gitlab.svg) A badge used for Gitlab repositories
+- [![html5](./src/html5.svg)](https://badges.aleen42.com/src/html5.svg) A badge used for projects using HTML 5
 - [![mocha](./src/mocha.svg)](https://badges.aleen42.com/src/mocha.svg) A badge used for projects using Mocha for unit tests
 - [![bower](./src/bower.svg)](https://badges.aleen42.com/src/bower.svg) A badge used for bower packages
 - [![squirrelly](./src/squirrelly.svg)](https://badges.aleen42.com/src/squirrelly.svg) A badge used for projects which has used [squirrelly](https://github.com/squirrellyjs/squirrelly) for templating
@@ -109,6 +110,7 @@ As for how to create a badge and add it to the collection? There are some steps 
 - [![nunjucks](./src/nunjucks.svg)](https://badges.aleen42.com/src/nunjucks.svg) A badge used for projects which has used [Nunjucks](https://github.com/mozilla/nunjucks) for templating
 - [![node](./src/node.svg)](https://badges.aleen42.com/src/node.svg) A badge used for projects built with Node.js
 - [![atom](./src/atom.svg)](https://badges.aleen42.com/src/atom.svg) A badge for the Atom editor
+- [![mongodb](./src/mongodb.svg)](https://badges.aleen42.com/src/mongodb.svg) A badge used for projects using [Mongo DB](https://github.com/mongodb/mongo)
 - [![cssnano](./src/cssnano.svg)](https://badges.aleen42.com/src/cssnano.svg) A badge used for projects using [CSSNano](https://github.com/cssnano/cssnano) for compacting CSS
 - [![vue](./src/vue.svg)](https://badges.aleen42.com/src/vue.svg) A badge used for repositories which has used the framework, Vue
 - [![vuepress](./src/vuepress.svg)](https://badges.aleen42.com/src/vuepress.svg) A badge used for books publish by Vuepress
@@ -120,6 +122,7 @@ As for how to create a badge and add it to the collection? There are some steps 
 - [![kotlin](./src/kotlin.svg)](https://badges.aleen42.com/src/kotlin.svg) A badge used for projects that coded with Kotlin
 - [![visual_studio_code](./src/visual_studio_code.svg)](https://badges.aleen42.com/src/visual_studio_code.svg) A badge for the Visual Studio Code IDE
 - [![backbone](./src/backbone.svg)](https://badges.aleen42.com/src/backbone.svg) A badge used for repositories that using [backbonejs](https://github.com/jashkenas/backbone)
+- [![css3](./src/css3.svg)](https://badges.aleen42.com/src/css3.svg) A badge used for projects using CSS 3
 - [![typescript](./src/typescript.svg)](https://badges.aleen42.com/src/typescript.svg) A badge used for projects that coded with TypeScript
 - [![python](./src/python.svg)](https://badges.aleen42.com/src/python.svg) A badge used for projects that coded with Python
 - [![jsfiddle](./src/jsfiddle.svg)](https://badges.aleen42.com/src/jsfiddle.svg) A badge used for projects running on JSFiddle

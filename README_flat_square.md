@@ -86,6 +86,7 @@ As for how to create a badge and add it to the collection? There are some steps 
 - [![postcss](./src/postcss_flat_square.svg)](https://badges.aleen42.com/src/postcss_flat_square.svg) A badge used for projects using [PostCSS](https://github.com/postcss/postcss)
 - [![svelte](./src/svelte_flat_square.svg)](https://badges.aleen42.com/src/svelte_flat_square.svg) A badge used for repositories that using [Svelte](https://github.com/sveltejs/svelte)
 - [![gitlab](./src/gitlab_flat_square.svg)](https://badges.aleen42.com/src/gitlab_flat_square.svg) A badge used for Gitlab repositories
+- [![html5](./src/html5_flat_square.svg)](https://badges.aleen42.com/src/html5_flat_square.svg) A badge used for projects using HTML 5
 - [![mocha](./src/mocha_flat_square.svg)](https://badges.aleen42.com/src/mocha_flat_square.svg) A badge used for projects using Mocha for unit tests
 - [![bower](./src/bower_flat_square.svg)](https://badges.aleen42.com/src/bower_flat_square.svg) A badge used for bower packages
 - [![squirrelly](./src/squirrelly_flat_square.svg)](https://badges.aleen42.com/src/squirrelly_flat_square.svg) A badge used for projects which has used [squirrelly](https://github.com/squirrellyjs/squirrelly) for templating
@@ -109,6 +110,7 @@ As for how to create a badge and add it to the collection? There are some steps 
 - [![nunjucks](./src/nunjucks_flat_square.svg)](https://badges.aleen42.com/src/nunjucks_flat_square.svg) A badge used for projects which has used [Nunjucks](https://github.com/mozilla/nunjucks) for templating
 - [![node](./src/node_flat_square.svg)](https://badges.aleen42.com/src/node_flat_square.svg) A badge used for projects built with Node.js
 - [![atom](./src/atom_flat_square.svg)](https://badges.aleen42.com/src/atom_flat_square.svg) A badge for the Atom editor
+- [![mongodb](./src/mongodb_flat_square.svg)](https://badges.aleen42.com/src/mongodb_flat_square.svg) A badge used for projects using [Mongo DB](https://github.com/mongodb/mongo)
 - [![cssnano](./src/cssnano_flat_square.svg)](https://badges.aleen42.com/src/cssnano_flat_square.svg) A badge used for projects using [CSSNano](https://github.com/cssnano/cssnano) for compacting CSS
 - [![vue](./src/vue_flat_square.svg)](https://badges.aleen42.com/src/vue_flat_square.svg) A badge used for repositories which has used the framework, Vue
 - [![vuepress](./src/vuepress_flat_square.svg)](https://badges.aleen42.com/src/vuepress_flat_square.svg) A badge used for books publish by Vuepress
@@ -120,6 +122,7 @@ As for how to create a badge and add it to the collection? There are some steps 
 - [![kotlin](./src/kotlin_flat_square.svg)](https://badges.aleen42.com/src/kotlin_flat_square.svg) A badge used for projects that coded with Kotlin
 - [![visual_studio_code](./src/visual_studio_code_flat_square.svg)](https://badges.aleen42.com/src/visual_studio_code_flat_square.svg) A badge for the Visual Studio Code IDE
 - [![backbone](./src/backbone_flat_square.svg)](https://badges.aleen42.com/src/backbone_flat_square.svg) A badge used for repositories that using [backbonejs](https://github.com/jashkenas/backbone)
+- [![css3](./src/css3_flat_square.svg)](https://badges.aleen42.com/src/css3_flat_square.svg) A badge used for projects using CSS 3
 - [![typescript](./src/typescript_flat_square.svg)](https://badges.aleen42.com/src/typescript_flat_square.svg) A badge used for projects that coded with TypeScript
 - [![python](./src/python_flat_square.svg)](https://badges.aleen42.com/src/python_flat_square.svg) A badge used for projects that coded with Python
 - [![jsfiddle](./src/jsfiddle_flat_square.svg)](https://badges.aleen42.com/src/jsfiddle_flat_square.svg) A badge used for projects running on JSFiddle
