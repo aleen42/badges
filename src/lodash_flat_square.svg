@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77.4921875" height="20">
+    <g shape-rendering="crispEdges">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#3492ff" d="M25 0h52.4921875v20H25z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAwIDI1MDAiPjxwYXRoIGQ9Ik03MCAxODguNWgyMjB2MTQ2MGg4NzB2MTgwSDcwdi0xNjQwem0xNzc2IDM5NmMtMjI1LTMtNDUwIDE0MC01MjAgMzU3LTEwMCAyNTAtNTQgNTY0IDE0MiA3NTUgMTkwIDE1OCA0NzYgMTcwIDY5MCA1OCAxNDctNzggMjQwLTIzMyAyNjAtMzk2IDI2LTE3MCAxMy0zNTYtNzAtNTEwLTk4LTE2NC0yOTAtMjcwLTQ4MC0yNjNsLTIyLTN6bTIwIDE3NGMxNjUgMCAzMTMgMTI2IDM0MCAyODggNTAgMTgzIDIwIDQwNy0xMzAgNTM2LTE0MCAxMTQtMzY1IDk4LTQ4MC00My0xNDAtMTUwLTE0MC0zODAtNjgtNTYwIDUwLTEzMCAxODMtMjIzIDMyMy0yMjBoMTh6Ii8+PHBhdGggZD0iTTcwIDIwNjEuNWgyMzYwdjI1MEg3MHYtMjUweiIgZmlsbD0iIzM0OTJmZiIvPjwvc3ZnPg=="/>
+        <text x="50.24609375" y="14">Lodash</text>
+    </g>
+</svg>

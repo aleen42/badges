@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94.4609375" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="94.4609375" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#ff7f18" d="M25 0h69.4609375v20H25z"/>
+        <path fill="url(#b)" d="M0 0h94.4609375v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjM0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNDAgMjM0Ij48cmFkaWFsR3JhZGllbnQgaWQ9ImEiIGN4PSItMTgzLjgyOSIgY3k9IjUxMi40NzQiIHI9Ii43NiIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgyMjAgMCAwIC0yMTMgNDA1MjUgMTA5MjE1KSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzQyMzMyNSIgc3RvcC1vcGFjaXR5PSIuOTgiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxQzBBMDAiLz48L3JhZGlhbEdyYWRpZW50PjxwYXRoIGZpbGw9InVybCgjYSkiIGQ9Ik0xMCAxMGgyMjB2MjE0SDEweiIvPjxwYXRoIGZpbGw9IiNGRjdGMTgiIGQ9Ik0xMCAxMGgyMjB2MjE0SDEwVjEwek0wIDIzNGgyNDBWMEgwdjIzNHpNMTU3LjIgODMuNGMwLS44LjMtMS4yIDEuMi0xLjJoMTUuN2MuOCAwIDEuMi4zIDEuMiAxLjJ2NzguOWMwIC44LS4yIDEuMi0xLjIgMS4yaC0xNS41Yy0xIDAtMS4zLS41LTEuMy0xLjNWODMuNGgtLjF6bS0xLjEtMjIuN2MwLTYuNCA0LjUtMTAuMiAxMC4yLTEwLjIgNi4xIDAgMTAuMiA0LjEgMTAuMiAxMC4yIDAgNi42LTQuMyAxMC4yLTEwLjQgMTAuMi01LjggMC0xMC0zLjYtMTAtMTAuMnptLTQ1IDU1LjZjLTIuOC0xMS4xLTkuNC0zNS4zLTExLjktNDdIOTljLTIuMSAxMS43LTcuNCAzMS41LTExLjYgNDdoMjMuN3ptLTI3LjggMTYuMmwtNy45IDMwYy0uMi44LS41IDEtMS41IDFINTkuMmMtMSAwLTEuMi0uMy0xLTEuNWwyOC40LTk5LjRjLjUtMS44LjgtMy40IDEtOC4zIDAtLjcuMy0xIC44LTFoMjFjLjcgMCAxIC4yIDEuMiAxbDMxLjggMTA3LjljLjIuOCAwIDEuMy0uOCAxLjNIMTI1Yy0uOCAwLTEuMy0uMi0xLjUtLjlsLTguMi0zMC4xaC0zMnoiLz48L3N2Zz4="/>
+        <text x="58.73046875" y="14.6" fill="#010101" fill-opacity=".3">Illustrator</text>
+        <text x="58.73046875" y="14">Illustrator</text>
+    </g>
+</svg>

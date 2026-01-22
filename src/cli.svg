@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55.109375" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="55.109375" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#0d0d0d" d="M25 0h30.109375v20H25z"/>
+        <path fill="url(#b)" d="M0 0h55.109375v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIGJ5IEN1YmU3MDcgLS0+CjxzdmcKICAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgICB2ZXJzaW9uPSIxLjEiCiAgICB3aWR0aD0iMzIwLjY3N3B4IgogICAgaGVpZ2h0PSIzMjAuNjc0cHgiCiAgICB2aWV3Qm94PSIwIDAgMzIwLjY3NyAzMjAuNjc0Ij4KICAgIDxwYXRoCiAgICAgICAgc3R5bGU9ImZpbGw6I2ZmZjsiCiAgICAgICAgZD0ibSAxMDcuMDMwODEsMjUzLjQ3NjA5IGggMTkxLjQwNzA2IHYgMzUuNTcwMzMgSCAxMDcuMDMwODEgWiIvPgogICAgPHBhdGgKICAgICAgICBzdHlsZT0iZmlsbDojZmZmOyIKICAgICAgICBkPSJtIDQ3LjM5MTQ3Niw4Ni43NTYwNCAtMjUuMTUyMzQ0LDI1LjE0ODQzIDUwLjMwNDY4OCw1MC4zMDQ3IC01MC4zMDQ2ODgsNTAuMzAwNzggMjUuMTUyMzQ0LDI1LjE1MjM0IDUwLjMwMDc4NCwtNTAuMzA0NyAyNS4xNTIzNSwtMjUuMTQ4NDIgLTI1LjE1MjM1LC0yNS4xNTIzNiB6IiAvPgo8L3N2Zz4K"/>
+        <text x="39.0546875" y="14.6" fill="#010101" fill-opacity=".3">CLI</text>
+        <text x="39.0546875" y="14">CLI</text>
+    </g>
+</svg>
