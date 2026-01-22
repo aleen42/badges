@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="20">
+    <g shape-rendering="crispEdges">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#02569b" d="M25 0h50v20H25z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48ZyBmaWxsPSIjM0ZCNkQzIj48cGF0aCBkPSJNMTIuMyA2NC4yTDc2LjMgMGgzOS40TDMyLjEgODMuNnpNNzYuMyAxMjhoMzkuNEw4MS42IDkzLjlsMzQuMS0zNC44SDc2LjNMNDIuMiA5My41eiIvPjwvZz48cGF0aCBmaWxsPSIjMjdBQUNEIiBkPSJNODEuNiA5My45bC0yMC0yMC0xOS40IDE5LjYgMTkuNCAxOS42eiIvPjxwYXRoIGZpbGw9IiMxOTU5OUEiIGQ9Ik0xMTUuNyAxMjhMODEuNiA5My45bC0yMCAxOS4yTDc2LjMgMTI4eiIvPjxsaW5lYXJHcmFkaWVudCBpZD0iZmx1dHRlci1vcmlnaW5hbC1hIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjU5LjM2NSIgeTE9IjExNi4zNiIgeDI9Ijg2LjgyNSIgeTI9Ijk5LjM5OSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMWI0ZTk0Ii8+PHN0b3Agb2Zmc2V0PSIuNjMiIHN0b3AtY29sb3I9IiMxYTU0OTciLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxOTVhOWIiLz48L2xpbmVhckdyYWRpZW50PjxwYXRoIGZpbGw9InVybCgjZmx1dHRlci1vcmlnaW5hbC1hKSIgZD0iTTYxLjYgMTEzLjFsMzAuOC04LjQtMTAuOC0xMC44eiIvPjwvc3ZnPg0K"/>
+        <text x="49" y="14">Flutter</text>
+    </g>
+</svg>

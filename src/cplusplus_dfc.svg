@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="63" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#00599c" d="M25 0h38v20H25z"/>
+        <path fill="url(#b)" d="M0 0h63v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCiAgPHBhdGggZmlsbD0iIzAwNTk5YyIgZD0iTTExOC43NjYgOTUuODJjLjg5LTEuNTQzIDEuNDQxLTMuMjggMS40NDEtNC44NDNWMzYuNzhjMC0xLjU1OC0uNTUtMy4yOTctMS40NDEtNC44NGwtNTUuMzIgMzEuOTRabTAgMCIvPg0KICA8cGF0aCBmaWxsPSIjMDA0NDgyIiBkPSJtNjguMzYgMTI2LjU4NiA0Ni45MzMtMjcuMDk0YzEuMzUyLS43ODEgMi41ODItMi4xMjkgMy40NzMtMy42NzJsLTU1LjMyLTMxLjk0TDguMTIgOTUuODJjLjg5IDEuNTQzIDIuMTIxIDIuODkgMy40NzMgMy42NzJsNDYuOTMzIDI3LjA5NGMyLjcwMyAxLjU2MiA3LjEzIDEuNTYyIDkuODMyIDBabTAgMCIvPg0KICA8cGF0aCBmaWxsPSIjNjU5YWQyIiBkPSJNMTE4Ljc2NiAzMS45NDFjLS44OTEtMS41NDYtMi4xMjEtMi44OTQtMy40NzMtMy42NzFMNjguMzU5IDEuMTcyYy0yLjcwMy0xLjU2My03LjEyOS0xLjU2My05LjgzMiAwTDExLjU5NCAyOC4yN0M4Ljg5IDI5LjgyOCA2LjY4IDMzLjY2IDYuNjggMzYuNzh2NTQuMTk2YzAgMS41NjIuNTUgMy4zIDEuNDQxIDQuODQzTDYzLjQ0NSA2My44OFptMCAwIi8+DQogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik02My40NDUgMjYuMDM1Yy0yMC44NjcgMC0zNy44NDMgMTYuOTc3LTM3Ljg0MyAzNy44NDRzMTYuOTc2IDM3Ljg0NCAzNy44NDMgMzcuODQ0YzEzLjQ2NSAwIDI2LjAyNC03LjI0NyAzMi43Ny0xOC45MUw3OS44NCA3My4zMzVjLTMuMzggNS44NC05LjY2IDkuNDY1LTE2LjM5NSA5LjQ2NS0xMC40MzMgMC0xOC45MjItOC40ODgtMTguOTIyLTE4LjkyMiAwLTEwLjQzNCA4LjQ5LTE4LjkyMiAxOC45MjItMTguOTIyIDYuNzMgMCAxMy4wMTcgMy42MjkgMTYuMzkgOS40NjVsMTYuMzgtOS40NzdjLTYuNzUtMTEuNjY0LTE5LjMwNS0xOC45MS0zMi43Ny0xOC45MXpNOTIuODggNTcuNTd2NC4yMDdoLTQuMjA3djQuMjAzaDQuMjA3djQuMjA3aDQuMjAzVjY1Ljk4aDQuMjAzdi00LjIwM2gtNC4yMDNWNTcuNTdIOTIuODh6bTE1Ljc2NiAwdjQuMjA3aC00LjIwNHY0LjIwM2g0LjIwNHY0LjIwN2g0LjIwN1Y2NS45OGg0LjIwM3YtNC4yMDNoLTQuMjAzVjU3LjU3aC00LjIwN3oiLz4NCjwvc3ZnPg0K"/>
+        <text x="43" y="14.6" fill="#010101" fill-opacity=".3">C++</text>
+        <text x="43" y="14">C++</text>
+    </g>
+</svg>
